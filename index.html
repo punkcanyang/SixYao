@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>蓍草六爻排盘</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>蓍草六爻排盘系统</h1>
+        </header>
+        
+        <section class="input-section">
+            <h2>求卦问题</h2>
+            <div class="question-input">
+                <textarea id="question" placeholder="请输入您的问题..."></textarea>
+                <div class="date-input">
+                    <label for="cast-date">排卦日期：</label>
+                    <input type="datetime-local" id="cast-date">
+                </div>
+                <button id="cast-button">排卦</button>
+            </div>
+        </section>
+        
+        <section class="process-section" id="process-section">
+            <h2>排卦过程</h2>
+            <div id="process-details"></div>
+        </section>
+        
+        <section class="result-section" id="result-section" style="display: none;">
+            <h2>卦象结果</h2>
+            <div class="date-info" id="date-info"></div>
+            <div class="lunar-info" id="lunar-info"></div>
+            
+            <div class="hexagram-container">
+                <div class="hexagram" id="main-hexagram">
+                    <h3>主卦：<span id="main-hexagram-name"></span></h3>
+                    <div class="hexagram-figure" id="main-hexagram-figure"></div>
+                    <div class="hexagram-text" id="main-hexagram-text"></div>
+                    
+                    <div class="yao-texts" id="main-hexagram-yao-texts">
+                        <h4>爻辞</h4>
+                        <div class="yao-text-container" id="main-yao-text-container"></div>
+                    </div>
+                </div>
+                
+                <div class="hexagram" id="changed-hexagram" style="display: none;">
+                    <h3>变卦：<span id="changed-hexagram-name"></span></h3>
+                    <div class="hexagram-figure" id="changed-hexagram-figure"></div>
+                    <div class="hexagram-text" id="changed-hexagram-text"></div>
+                    
+                    <div class="yao-texts" id="changed-hexagram-yao-texts">
+                        <h4>爻辞</h4>
+                        <div class="yao-text-container" id="changed-yao-text-container"></div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="detailed-info">
+                <h3>卦象详解</h3>
+                <div class="info-grid">
+                    <div class="info-item">
+                        <h4>世爻</h4>
+                        <div id="shi-yao"></div>
+                    </div>
+                    <div class="info-item">
+                        <h4>应爻</h4>
+                        <div id="ying-yao"></div>
+                    </div>
+                    <div class="info-item">
+                        <h4>用神</h4>
+                        <div id="yong-shen"></div>
+                    </div>
+                </div>
+                
+                <div id="yao-details">
+                    <h4>爻位详解</h4>
+                    <table id="yao-table">
+                        <thead id="yao-table-head">
+                            <tr>
+                                <th>爻位</th>
+                                <th>爻象</th>
+                                <th>五行</th>
+                                <th>六亲</th>
+                                <th>状态</th>
+                            </tr>
+                        </thead>
+                        <tbody id="yao-table-body">
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </section>
+    </div>
+    <script src="js-calendar-converter.js"></script>
+    <script src="script.js"></script>
+</body>
+</html> 
