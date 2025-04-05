@@ -1,0 +1,25 @@
+{
+    "title": "64 Hexagrams Table",
+    "navigation": {
+        "backToSystem": "Back to Divination System"
+    },
+    "tableInstructions": {
+        "loading": "Loading table instructions..."
+    },
+    "modal": {
+        "title": "Hexagram Details",
+        "guaName": "Hexagram Name",
+        "guaNature": "Nature",
+        "guaText": "Hexagram Text",
+        "yaoTitle": "Line Texts",
+        "positions": {
+            "initial": "Initial Line",
+            "second": "Second Line",
+            "third": "Third Line",
+            "fourth": "Fourth Line",
+            "fifth": "Fifth Line",
+            "sixth": "Sixth Line"
+        }
+    },
+    "upperLower": "Upper / Lower"
+} 

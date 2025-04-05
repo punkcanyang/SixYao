@@ -1,0 +1,25 @@
+{
+    "title": "六十四卦象表",
+    "navigation": {
+        "backToSystem": "返回排卦系统"
+    },
+    "tableInstructions": {
+        "loading": "正在加载表格说明文本..."
+    },
+    "modal": {
+        "title": "卦象详情",
+        "guaName": "卦名",
+        "guaNature": "卦性",
+        "guaText": "卦辞",
+        "yaoTitle": "爻辞",
+        "positions": {
+            "initial": "初爻",
+            "second": "二爻",
+            "third": "三爻",
+            "fourth": "四爻",
+            "fifth": "五爻",
+            "sixth": "上爻"
+        }
+    },
+    "upperLower": "上卦 / 下卦"
+} 

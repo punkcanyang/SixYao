@@ -1,0 +1,12 @@
+{
+    "guaText": "{name} - No hexagram text available",
+    "explanation": "Detailed explanation for {name} has not been added yet.",
+    "yaoTexts": [
+        {"position": "First Line", "text": "No interpretation available"},
+        {"position": "Second Line", "text": "No interpretation available"},
+        {"position": "Third Line", "text": "No interpretation available"},
+        {"position": "Fourth Line", "text": "No interpretation available"},
+        {"position": "Fifth Line", "text": "No interpretation available"},
+        {"position": "Sixth Line", "text": "No interpretation available"}
+    ]
+} 

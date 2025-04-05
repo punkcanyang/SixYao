@@ -1,0 +1,10 @@
+[
+    { "name": "Qián", "symbol": "☰", "nature": "Heaven", "binary": "111" },
+    { "name": "Duì", "symbol": "☱", "nature": "Lake", "binary": "110" },
+    { "name": "Lí", "symbol": "☲", "nature": "Fire", "binary": "101" },
+    { "name": "Zhèn", "symbol": "☳", "nature": "Thunder", "binary": "100" },
+    { "name": "Xùn", "symbol": "☴", "nature": "Wind", "binary": "011" },
+    { "name": "Kǎn", "symbol": "☵", "nature": "Water", "binary": "010" },
+    { "name": "Gèn", "symbol": "☶", "nature": "Mountain", "binary": "001" },
+    { "name": "Kūn", "symbol": "☷", "nature": "Earth", "binary": "000" }
+] 

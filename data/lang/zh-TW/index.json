@@ -1,0 +1,59 @@
+{
+    "title": "蓍草六爻排盤系統",
+    "navigation": {
+        "viewHexagrams": "查看六十四卦象表"
+    },
+    "sections": {
+        "input": {
+            "title": "求卦問題",
+            "placeholder": "請輸入您的問題...",
+            "dateLabel": "排卦日期：",
+            "button": "排卦"
+        },
+        "process": {
+            "title": "排卦過程",
+            "questionPrompt": "為問題「{0}」排卦：",
+            "introTitle": "起卦",
+            "introText": "50根蓍草，象徵「天地之數」，取出1根，象徵太一初始，剩餘49根繼續操作。",
+            "lineTitle": "第{0}爻",
+            "changeTitle": "第{0}次分策：",
+            "divideSticksText": "將{0}根蓍草分為左{1}根和右{2}根。",
+            "takeOneFromRightText": "從右取一，夾在左手小指與無名指之間，右剩{0}根。",
+            "leftRemainderText": "左堆逐四，剩餘{0}根，夾於無名指與中指之間。",
+            "rightRemainderText": "右堆逐四，剩餘{0}根，夾於中指與食指之間。",
+            "firstChangeResult": "第一次分策後共{0}根。",
+            "firstChangeAdjust": "第一次分策後夾在手指間的共{0}根，調整為標準值{1}根。",
+            "laterChangeResult": "第{0}次分策後共{1}根。",
+            "laterChangeAdjust": "第{0}次分策後夾在手指間的共{1}根，調整為標準值{2}根。",
+            "valuesSummary": "三次分策的值為:{0}={1}，得到{2}",
+            "lineResults": {
+                "oldYin": "老陰 (6) - 陰爻，動爻，會變為陽",
+                "youngYang": "少陽 (7) - 陽爻，靜爻",
+                "youngYin": "少陰 (8) - 陰爻，靜爻",
+                "oldYang": "老陽 (9) - 陽爻，動爻，會變為陰"
+            }
+        },
+        "result": {
+            "title": "卦象結果",
+            "main": "主卦：",
+            "changed": "變卦：",
+            "yaoText": "爻辭",
+            "unknownHexagram": "未知卦象",
+            "cannotFindText": "無法找到對應的卦辭",
+            "details": {
+                "title": "卦象詳解",
+                "shiYao": "世爻",
+                "yingYao": "應爻",
+                "yongShen": "用神",
+                "yaoDetail": "爻位詳解",
+                "tableHeaders": {
+                    "position": "爻位",
+                    "symbol": "爻象",
+                    "element": "五行",
+                    "relation": "六親",
+                    "status": "狀態"
+                }
+            }
+        }
+    }
+} 

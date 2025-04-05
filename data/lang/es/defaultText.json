@@ -1,0 +1,12 @@
+{
+    "guaText": "{name} - Texto del hexagrama no disponible",
+    "explanation": "La explicación detallada para {name} aún no se ha añadido.",
+    "yaoTexts": [
+        {"position": "Primera Línea", "text": "Interpretación no disponible"},
+        {"position": "Segunda Línea", "text": "Interpretación no disponible"},
+        {"position": "Tercera Línea", "text": "Interpretación no disponible"},
+        {"position": "Cuarta Línea", "text": "Interpretación no disponible"},
+        {"position": "Quinta Línea", "text": "Interpretación no disponible"},
+        {"position": "Sexta Línea", "text": "Interpretación no disponible"}
+    ]
+} 

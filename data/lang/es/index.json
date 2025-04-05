@@ -1,0 +1,59 @@
+{
+    "title": "Sistema de Adivinación I Ching con Tallos de Aquilea",
+    "navigation": {
+        "viewHexagrams": "Ver Tabla de 64 Hexagramas"
+    },
+    "sections": {
+        "input": {
+            "title": "Tu Pregunta",
+            "placeholder": "Escribe tu pregunta...",
+            "dateLabel": "Fecha de Adivinación:",
+            "button": "Lanzar Hexagrama"
+        },
+        "process": {
+            "title": "Proceso de Adivinación",
+            "questionPrompt": "Adivinación para la pregunta \"{0}\":",
+            "introTitle": "Iniciando Adivinación",
+            "introText": "50 tallos de aquilea representan los números del Cielo y la Tierra. Se aparta 1 para representar el Gran Último, dejando 49 para la operación.",
+            "lineTitle": "Línea {0}",
+            "changeTitle": "Cambio {0}:",
+            "divideSticksText": "Dividir {0} tallos en montón izquierdo ({1}) y montón derecho ({2}).",
+            "takeOneFromRightText": "Tomar 1 del montón derecho, sostener entre el dedo meñique y anular, montón derecho ahora tiene {0}.",
+            "leftRemainderText": "Contar el montón izquierdo de cuatro en cuatro, los {0} tallos restantes sostenidos entre los dedos anular y medio.",
+            "rightRemainderText": "Contar el montón derecho de cuatro en cuatro, los {0} tallos restantes sostenidos entre los dedos medio e índice.",
+            "firstChangeResult": "Total del primer cambio: {0} tallos.",
+            "firstChangeAdjust": "Total del primer cambio de {0} tallos ajustado al valor estándar de {1}.",
+            "laterChangeResult": "Total del cambio {0}: {1} tallos.",
+            "laterChangeAdjust": "Total del cambio {0} de {1} tallos ajustado al valor estándar de {2}.",
+            "valuesSummary": "Valores de los tres cambios: {0}={1}, resultando en {2}",
+            "lineResults": {
+                "oldYin": "Yin Viejo (6) - Línea Yin, cambiante, se convierte en Yang",
+                "youngYang": "Yang Joven (7) - Línea Yang, inmutable",
+                "youngYin": "Yin Joven (8) - Línea Yin, inmutable",
+                "oldYang": "Yang Viejo (9) - Línea Yang, cambiante, se convierte en Yin"
+            }
+        },
+        "result": {
+            "title": "Resultado del Hexagrama",
+            "main": "Hexagrama Principal:",
+            "changed": "Hexagrama Transformado:",
+            "yaoText": "Textos de las Líneas",
+            "unknownHexagram": "Hexagrama Desconocido",
+            "cannotFindText": "No se puede encontrar el texto correspondiente",
+            "details": {
+                "title": "Detalles del Hexagrama",
+                "shiYao": "Línea Anfitriona",
+                "yingYao": "Línea Invitada",
+                "yongShen": "Enfoque Principal",
+                "yaoDetail": "Detalles de las Líneas",
+                "tableHeaders": {
+                    "position": "Posición",
+                    "symbol": "Símbolo",
+                    "element": "Elemento",
+                    "relation": "Relación",
+                    "status": "Estado"
+                }
+            }
+        }
+    }
+} 

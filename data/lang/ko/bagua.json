@@ -1,0 +1,10 @@
+[
+    { "name": "건 (乾)", "symbol": "☰", "nature": "천", "binary": "111" },
+    { "name": "태 (兑)", "symbol": "☱", "nature": "택", "binary": "110" },
+    { "name": "리 (离)", "symbol": "☲", "nature": "화", "binary": "101" },
+    { "name": "진 (震)", "symbol": "☳", "nature": "뢰", "binary": "100" },
+    { "name": "손 (巽)", "symbol": "☴", "nature": "풍", "binary": "011" },
+    { "name": "감 (坎)", "symbol": "☵", "nature": "수", "binary": "010" },
+    { "name": "간 (艮)", "symbol": "☶", "nature": "산", "binary": "001" },
+    { "name": "곤 (坤)", "symbol": "☷", "nature": "지", "binary": "000" }
+] 

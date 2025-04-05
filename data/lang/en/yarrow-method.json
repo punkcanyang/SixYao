@@ -1,0 +1,101 @@
+{
+  "pageTitle": "Yarrow Stalks Divination Method",
+  "introduction": "Yarrow stalk divination is the most classic form of divination in the I Ching (Book of Changes), simulating cosmic changes through the manipulation of yarrow stalks or substitutes to generate a hexagram. The entire process embodies ancient philosophical wisdom and is a treasure of traditional Chinese culture.",
+  
+  "preparation": "Preparation",
+  "prepareSticks": "Prepare 50 Yarrow Stalks",
+  "prepareSticks_desc": "Take 50 yarrow stalks (or substitutes like bamboo sticks), symbolizing the 'Number of Heaven' (50), representing the totality of universal possibilities.",
+  "prepareSticks_meaning": "Significance: 50 is the foundation of the 'Great Number', representing the wholeness of nature and the source of change.",
+  
+  "setAside": "Set Aside One Stalk, Keep 49",
+  "setAside_desc": "From the 50 stalks, take one and set it aside (e.g., place it horizontally on the table), no longer using it, and continue with the remaining 49 stalks.",
+  "setAside_meaning": "Significance: This one stalk symbolizes the 'Tai Chi' or unchanging foundation, not participating in specific changes. The 49 represent the actual operating 'Number of Heaven and Earth'.",
+  
+  "singleLineProcess": "Single Line Generation Process (Repeat 6 Times to Generate a Hexagram)",
+  "singleLineProcess_desc": "Each line requires three 'divisions' (changes), with each division yielding a value. The final three values added together determine the nature of the line. Here are the detailed steps for each line:",
+  
+  "firstDivision": "First Division",
+  "divideIntoTwo": "Randomly Divide Into Two Piles",
+  "divideIntoTwo_desc": "Randomly divide the 49 stalks into left and right piles, holding the left pile in your left hand and the right pile in your right hand.",
+  "divideIntoTwo_meaning": "Significance: Simulates the separation of yin and yang, the initial state of heaven and earth dividing.",
+  
+  "takeOneFromRight": "Take One From the Right Pile",
+  "takeOneFromRight_desc": "Take one stalk from the right pile and place it between the little finger and ring finger of your left hand, called the 'ruler'.",
+  "takeOneFromRight_meaning": "Significance: Symbolizes 'humans' intervening in nature, harmonizing yin and yang.",
+  
+  "countLeftByFour": "Count the Left Pile by Fours",
+  "countLeftByFour_desc": "Using your right hand, take 4 stalks at a time from the left pile in your left hand, setting them aside until 4 or fewer remain. The remaining number (1, 2, 3, or 4) is placed between the ring finger and middle finger of your left hand.",
+  "countLeftByFour_meaning": "Significance: Four represents the four seasons and four directions; the counting process simulates the cycle of natural laws.",
+  
+  "countRightByFour": "Count the Right Pile by Fours",
+  "countRightByFour_desc": "Return the right pile to your left hand, then use your right hand to take 4 stalks at a time from the right pile until 4 or fewer remain. The remaining number is placed between the middle finger and index finger of your left hand.",
+  "countRightByFour_meaning": "Significance: Continues to simulate natural cycles, ensuring balance between the two piles.",
+  
+  "calculateFirstTotal": "Calculate the First Remainder Total",
+  "calculateFirstTotal_desc": "Add the three parts held in your left hand (1 between little finger and ring finger + remainder between ring finger and middle finger + remainder between middle finger and index finger). The result can only be 5 or 9.\nIf the left pile has 1 left and the right pile has 4, or the left has 4 and the right has 1, or both have 2, the total is 5.\nIf the left pile has 3 left and the right has 1, or the left has 1 and the right has 3, the total is 9.\nSet these 5 or 9 stalks aside (temporarily don't return them).",
+  "calculateFirstTotal_meaning": "Significance: 5 represents the 'Earth number', 9 represents the 'Heaven number'. The first division tends toward heaven (9 is more common), symbolizing the initial yang energy being stronger.",
+  
+  "secondDivision": "Second Division",
+  "regatherSticks": "Regather the Remaining Stalks",
+  "regatherSticks_desc": "Gather the stalks remaining after the first division (49 - 5 = 44, or 49 - 9 = 40) and randomly divide them again into left and right piles.",
+  "regatherSticks_meaning": "Significance: Begins another cycle of yin-yang separation.",
+  
+  "repeatSteps": "Repeat the Above Steps",
+  "repeatSteps_desc": "Take 1 from the right pile and place it between little finger and ring finger, count the left pile by fours with the remainder between ring finger and middle finger; count the right pile by fours with the remainder between middle finger and index finger.",
+  "repeatSteps_meaning": "Significance: Same as the first time, continuing to simulate natural changes.",
+  
+  "calculateSecondTotal": "Calculate the Second Remainder Total",
+  "calculateSecondTotal_desc": "The result can only be 4 or 8.\nIf the left pile has 1 left and the right has 3, or the left has 3 and the right has 1, or both have 2, the total is 4.\nIf the left pile has 4 left and the right has 3, or the left has 3 and the right has 4, the total is 8.\nSet these 4 or 8 stalks aside (separate from the first set).",
+  "calculateSecondTotal_meaning": "Significance: 4 represents 'Lesser Yang', 8 represents 'Lesser Yin'. The second division tends toward balance.",
+  
+  "thirdDivision": "Third Division",
+  "regatherSticksAgain": "Regather the Remaining Stalks Again",
+  "regatherSticksAgain_desc": "Gather the stalks remaining after the second division (44 - 4 = 40, or 44 - 8 = 36, or 40 - 4 = 36, or 40 - 8 = 32) and randomly divide them again into left and right piles.",
+  "regatherSticksAgain_meaning": "Significance: Third change, approaching the final result.",
+  
+  "repeatStepsAgain": "Repeat the Above Steps Again",
+  "repeatStepsAgain_desc": "Take 1 from the right pile and place it between little finger and ring finger, count the left pile by fours with the remainder between ring finger and middle finger; count the right pile by fours with the remainder between middle finger and index finger.",
+  "repeatStepsAgain_meaning": "Significance: Final adjustment of yin and yang.",
+  
+  "calculateThirdTotal": "Calculate the Third Remainder Total",
+  "calculateThirdTotal_desc": "The result is still either 4 or 8.\nSet these 4 or 8 stalks aside.",
+  "calculateThirdTotal_meaning": "Significance: Same as the second time, determining the final state of the line.",
+  
+  "calculateLineValue": "Calculate Line Value and Nature",
+  "sumThreeValues": "Assign Values to the Three Remainders and Add Them",
+  "sumThreeValues_desc": "First division: 5 is assigned a value of 3, 9 is assigned a value of 2.\nSecond and third divisions: 4 is assigned a value of 3, 8 is assigned a value of 2.\nAdd the three assigned values. Possible results are:\n9 (2+3+4 or 2+4+3 or 3+2+4 or 3+4+2)\n8 (2+3+3 or 3+2+3 or 3+3+2)\n7 (2+2+3 or 2+3+2 or 3+2+2)\n6 (2+2+2)",
+  "sumThreeValues_meaning": "Significance: These numbers correspond to the nature of the line:\n9: Old Yang (yang line, changing line, will change to yin)\n8: Young Yin (yin line, unchanging line)\n7: Young Yang (yang line, unchanging line)\n6: Old Yin (yin line, changing line, will change to yang)",
+  
+  "recordLine": "Record the Line",
+  "recordLine_desc": "Draw the line based on the result:\n9: ⚊ (yang line, with a '○' mark indicating a changing line)\n8: ⚋ (yin line, no mark)\n7: ⚊ (yang line, no mark)\n6: ⚋ (yin line, with a '×' mark indicating a changing line)\n\nThis line becomes the bottom line (first line) of the hexagram.",
+  "recordLine_meaning": "Significance: The nature of the line reflects the dynamics and stability of the current situation.",
+  
+  "repeatSixTimes": "Repeat to Generate Six Lines",
+  "repeatSixTimes_desc": "Repeat the above steps 6 times in total, each time starting with 49 stalks, generating one line from bottom (first line) to top (sixth line), forming a complete hexagram.",
+  "repeatSixTimes_meaning": "Significance: The six lines represent six stages in the development of a situation, from initial emergence to maximum prosperity and then to decline.",
+  
+  "resultTable": "Result Analysis Reference Table",
+  "tableColumnSum": "Sum of Three Values",
+  "tableColumnNature": "Line Nature",
+  "tableColumnSymbol": "Symbol",
+  "tableColumnChanging": "Changing Characteristic",
+  
+  "oldYin": "Old Yin",
+  "oldYin_symbol": "⚋ (with ×)",
+  "oldYin_desc": "Yin line, changing line, will change to Yang",
+  
+  "youngYang": "Young Yang",
+  "youngYang_symbol": "⚊",
+  "youngYang_desc": "Yang line, stable line, unchanging",
+  
+  "youngYin": "Young Yin",
+  "youngYin_symbol": "⚋",
+  "youngYin_desc": "Yin line, stable line, unchanging",
+  
+  "oldYang": "Old Yang",
+  "oldYang_symbol": "⚊ (with ○)",
+  "oldYang_desc": "Yang line, changing line, will change to Yin",
+  
+  "tryDivination": "Try Yarrow Divination Demo",
+  "returnHome": "Return to Home"
+} 

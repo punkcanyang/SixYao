@@ -1,0 +1,12 @@
+{
+    "guaText": "{name}卦 - 卦辞なし",
+    "explanation": "{name}卦の詳細な解釈はまだ追加されていません。",
+    "yaoTexts": [
+        {"position": "初爻", "text": "解釈なし"},
+        {"position": "二爻", "text": "解釈なし"},
+        {"position": "三爻", "text": "解釈なし"},
+        {"position": "四爻", "text": "解釈なし"},
+        {"position": "五爻", "text": "解釈なし"},
+        {"position": "上爻", "text": "解釈なし"}
+    ]
+} 

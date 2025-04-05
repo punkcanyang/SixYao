@@ -1,0 +1,59 @@
+{
+    "title": "Yarrow Stalk I Ching Divination",
+    "navigation": {
+        "viewHexagrams": "View 64 Hexagrams Table"
+    },
+    "sections": {
+        "input": {
+            "title": "Your Question",
+            "placeholder": "Enter your question...",
+            "dateLabel": "Divination Date:",
+            "button": "Cast Hexagram"
+        },
+        "process": {
+            "title": "Divination Process",
+            "questionPrompt": "Divining for question \"{0}\":",
+            "introTitle": "Starting Divination",
+            "introText": "50 yarrow stalks represent the numbers of Heaven and Earth. Take 1 aside to represent the Great Ultimate, leaving 49 for the operation.",
+            "lineTitle": "Line {0}",
+            "changeTitle": "Change {0}:",
+            "divideSticksText": "Divide {0} stalks into left pile ({1}) and right pile ({2}).",
+            "takeOneFromRightText": "Take 1 from right pile, hold between little finger and ring finger, right pile now has {0}.",
+            "leftRemainderText": "Count left pile by fours, remaining {0} stalks held between ring and middle fingers.",
+            "rightRemainderText": "Count right pile by fours, remaining {0} stalks held between middle and index fingers.",
+            "firstChangeResult": "First change total: {0} stalks.",
+            "firstChangeAdjust": "First change total of {0} stalks adjusted to standard value of {1}.",
+            "laterChangeResult": "Change {0} total: {1} stalks.",
+            "laterChangeAdjust": "Change {0} total of {1} stalks adjusted to standard value of {2}.",
+            "valuesSummary": "Three changes values: {0}={1}, resulting in {2}",
+            "lineResults": {
+                "oldYin": "Old Yin (6) - Yin line, changing, becomes Yang",
+                "youngYang": "Young Yang (7) - Yang line, unchanging",
+                "youngYin": "Young Yin (8) - Yin line, unchanging",
+                "oldYang": "Old Yang (9) - Yang line, changing, becomes Yin"
+            }
+        },
+        "result": {
+            "title": "Hexagram Result",
+            "main": "Main Hexagram:",
+            "changed": "Changed Hexagram:",
+            "yaoText": "Line Texts",
+            "unknownHexagram": "Unknown Hexagram",
+            "cannotFindText": "Cannot find corresponding text",
+            "details": {
+                "title": "Hexagram Details",
+                "shiYao": "Host Line",
+                "yingYao": "Guest Line",
+                "yongShen": "Main Focus",
+                "yaoDetail": "Line Details",
+                "tableHeaders": {
+                    "position": "Position",
+                    "symbol": "Symbol",
+                    "element": "Element",
+                    "relation": "Relation",
+                    "status": "Status"
+                }
+            }
+        }
+    }
+} 

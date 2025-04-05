@@ -1,23 +1,36 @@
 <!DOCTYPE html>
-<html lang="zh-CN">
+<html>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>蓍草六爻排盘</title>
+    <title id="page-title">蓍草六爻排盘</title>
     <link rel="stylesheet" href="style.css">
+    <script src="data/langLoader.js"></script>
 </head>
 <body>
     <div class="container">
+        <nav class="navigation">
+            <a href="hexagrams.html" class="nav-button" id="nav-hexagrams">查看六十四卦象表</a>
+            <div class="language-switcher">
+                <button class="language-btn" data-lang="zh-CN">简体中文</button>
+                <button class="language-btn" data-lang="zh-TW">繁體中文</button>
+                <button class="language-btn" data-lang="en">English</button>
+                <button class="language-btn" data-lang="ja">日本語</button>
+                <button class="language-btn" data-lang="ko">한국어</button>
+                <button class="language-btn" data-lang="es">Español</button>
+            </div>
+        </nav>
+        
         <header>
-            <h1>蓍草六爻排盘系统</h1>
+            <h1 id="main-title">蓍草六爻排盘系统</h1>
         </header>
         
         <section class="input-section">
-            <h2>求卦问题</h2>
+            <h2 id="input-title">求卦问题</h2>
             <div class="question-input">
                 <textarea id="question" placeholder="请输入您的问题..."></textarea>
                 <div class="date-input">
-                    <label for="cast-date">排卦日期：</label>
+                    <label for="cast-date" id="date-label">排卦日期：</label>
                     <input type="datetime-local" id="cast-date">
                 </div>
                 <button id="cast-button">排卦</button>
@@ -25,66 +38,66 @@
         </section>
         
         <section class="process-section" id="process-section">
-            <h2>排卦过程</h2>
+            <h2 id="process-title">排卦过程</h2>
             <div id="process-details"></div>
         </section>
         
         <section class="result-section" id="result-section" style="display: none;">
-            <h2>卦象结果</h2>
+            <h2 id="result-title">卦象结果</h2>
             <div class="date-info" id="date-info"></div>
             <div class="lunar-info" id="lunar-info"></div>
             
             <div class="hexagram-container">
                 <div class="hexagram" id="main-hexagram">
-                    <h3>主卦：<span id="main-hexagram-name"></span></h3>
+                    <h3><span id="main-hexagram-label">主卦：</span><span id="main-hexagram-name"></span></h3>
                     <div class="hexagram-figure" id="main-hexagram-figure"></div>
                     <div class="hexagram-text" id="main-hexagram-text"></div>
                     
                     <div class="yao-texts" id="main-hexagram-yao-texts">
-                        <h4>爻辞</h4>
+                        <h4 id="main-yao-text-title">爻辞</h4>
                         <div class="yao-text-container" id="main-yao-text-container"></div>
                     </div>
                 </div>
                 
                 <div class="hexagram" id="changed-hexagram" style="display: none;">
-                    <h3>变卦：<span id="changed-hexagram-name"></span></h3>
+                    <h3><span id="changed-hexagram-label">变卦：</span><span id="changed-hexagram-name"></span></h3>
                     <div class="hexagram-figure" id="changed-hexagram-figure"></div>
                     <div class="hexagram-text" id="changed-hexagram-text"></div>
                     
                     <div class="yao-texts" id="changed-hexagram-yao-texts">
-                        <h4>爻辞</h4>
+                        <h4 id="changed-yao-text-title">爻辞</h4>
                         <div class="yao-text-container" id="changed-yao-text-container"></div>
                     </div>
                 </div>
             </div>
             
             <div class="detailed-info">
-                <h3>卦象详解</h3>
+                <h3 id="detail-title">卦象详解</h3>
                 <div class="info-grid">
                     <div class="info-item">
-                        <h4>世爻</h4>
+                        <h4 id="shi-yao-title">世爻</h4>
                         <div id="shi-yao"></div>
                     </div>
                     <div class="info-item">
-                        <h4>应爻</h4>
+                        <h4 id="ying-yao-title">应爻</h4>
                         <div id="ying-yao"></div>
                     </div>
                     <div class="info-item">
-                        <h4>用神</h4>
+                        <h4 id="yong-shen-title">用神</h4>
                         <div id="yong-shen"></div>
                     </div>
                 </div>
                 
                 <div id="yao-details">
-                    <h4>爻位详解</h4>
+                    <h4 id="yao-detail-title">爻位详解</h4>
                     <table id="yao-table">
                         <thead id="yao-table-head">
                             <tr>
-                                <th>爻位</th>
-                                <th>爻象</th>
-                                <th>五行</th>
-                                <th>六亲</th>
-                                <th>状态</th>
+                                <th id="th-position">爻位</th>
+                                <th id="th-symbol">爻象</th>
+                                <th id="th-element">五行</th>
+                                <th id="th-relation">六亲</th>
+                                <th id="th-status">状态</th>
                             </tr>
                         </thead>
                         <tbody id="yao-table-body">
@@ -95,6 +108,102 @@
         </section>
     </div>
     <script src="js-calendar-converter.js"></script>
+    <script src="js/language-switcher.js"></script>
     <script src="script.js"></script>
+    <script>
+        // 更新界面文本的函数
+        function updateUIText() {
+            // 只有在indexText加载后才执行
+            if (!indexText || Object.keys(indexText).length === 0) return;
+            
+            // 页面标题
+            const pageTitle = document.getElementById('page-title');
+            if (pageTitle) pageTitle.textContent = indexText.title || '蓍草六爻排盘';
+            
+            const mainTitle = document.getElementById('main-title');
+            if (mainTitle) mainTitle.textContent = indexText.title || '蓍草六爻排盘系统';
+            
+            // 导航区域
+            const navHexagrams = document.getElementById('nav-hexagrams');
+            if (navHexagrams) navHexagrams.textContent = indexText.navigation?.viewHexagrams || '查看六十四卦象表';
+            
+            // 输入区域
+            const inputTitle = document.getElementById('input-title');
+            if (inputTitle) inputTitle.textContent = indexText.sections?.input?.title || '求卦问题';
+            
+            const question = document.getElementById('question');
+            if (question) question.placeholder = indexText.sections?.input?.placeholder || '请输入您的问题...';
+            
+            const dateLabel = document.getElementById('date-label');
+            if (dateLabel) dateLabel.textContent = indexText.sections?.input?.dateLabel || '排卦日期：';
+            
+            const castButton = document.getElementById('cast-button');
+            if (castButton) castButton.textContent = indexText.sections?.input?.button || '排卦';
+            
+            // 过程区域
+            const processTitle = document.getElementById('process-title');
+            if (processTitle) processTitle.textContent = indexText.sections?.process?.title || '排卦过程';
+            
+            // 结果区域
+            const resultTitle = document.getElementById('result-title');
+            if (resultTitle) resultTitle.textContent = indexText.sections?.result?.title || '卦象结果';
+            
+            const mainHexagramLabel = document.getElementById('main-hexagram-label');
+            if (mainHexagramLabel) mainHexagramLabel.textContent = indexText.sections?.result?.main || '主卦：';
+            
+            const changedHexagramLabel = document.getElementById('changed-hexagram-label');
+            if (changedHexagramLabel) changedHexagramLabel.textContent = indexText.sections?.result?.changed || '变卦：';
+            
+            const mainYaoTextTitle = document.getElementById('main-yao-text-title');
+            if (mainYaoTextTitle) mainYaoTextTitle.textContent = indexText.sections?.result?.yaoText || '爻辞';
+            
+            const changedYaoTextTitle = document.getElementById('changed-yao-text-title');
+            if (changedYaoTextTitle) changedYaoTextTitle.textContent = indexText.sections?.result?.yaoText || '爻辞';
+            
+            // 详细信息区域
+            const detailTitle = document.getElementById('detail-title');
+            if (detailTitle) detailTitle.textContent = indexText.sections?.result?.details?.title || '卦象详解';
+            
+            const shiYaoTitle = document.getElementById('shi-yao-title');
+            if (shiYaoTitle) shiYaoTitle.textContent = indexText.sections?.result?.details?.shiYao || '世爻';
+            
+            const yingYaoTitle = document.getElementById('ying-yao-title');
+            if (yingYaoTitle) yingYaoTitle.textContent = indexText.sections?.result?.details?.yingYao || '应爻';
+            
+            const yongShenTitle = document.getElementById('yong-shen-title');
+            if (yongShenTitle) yongShenTitle.textContent = indexText.sections?.result?.details?.yongShen || '用神';
+            
+            const yaoDetailTitle = document.getElementById('yao-detail-title');
+            if (yaoDetailTitle) yaoDetailTitle.textContent = indexText.sections?.result?.details?.yaoDetail || '爻位详解';
+            
+            // 表格表头
+            const thPosition = document.getElementById('th-position');
+            if (thPosition) thPosition.textContent = indexText.sections?.result?.details?.tableHeaders?.position || '爻位';
+            
+            const thSymbol = document.getElementById('th-symbol');
+            if (thSymbol) thSymbol.textContent = indexText.sections?.result?.details?.tableHeaders?.symbol || '爻象';
+            
+            const thElement = document.getElementById('th-element');
+            if (thElement) thElement.textContent = indexText.sections?.result?.details?.tableHeaders?.element || '五行';
+            
+            const thRelation = document.getElementById('th-relation');
+            if (thRelation) thRelation.textContent = indexText.sections?.result?.details?.tableHeaders?.relation || '六亲';
+            
+            const thStatus = document.getElementById('th-status');
+            if (thStatus) thStatus.textContent = indexText.sections?.result?.details?.tableHeaders?.status || '状态';
+        }
+        
+        // 页面加载和语言变更时更新UI文本
+        document.addEventListener('DOMContentLoaded', function() {
+            // 初次加载
+            updateUIText();
+            
+            // 监听语言变更事件
+            document.addEventListener('languageChanged', function() {
+                // 延迟执行以确保indexText已更新
+                setTimeout(updateUIText, 100);
+            });
+        });
+    </script>
 </body>
 </html> 

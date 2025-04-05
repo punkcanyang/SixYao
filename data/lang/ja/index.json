@@ -1,0 +1,59 @@
+{
+    "title": "蓍草による易占いシステム",
+    "navigation": {
+        "viewHexagrams": "六十四卦表を見る"
+    },
+    "sections": {
+        "input": {
+            "title": "占いの質問",
+            "placeholder": "ご質問を入力してください...",
+            "dateLabel": "占いの日時：",
+            "button": "卦を立てる"
+        },
+        "process": {
+            "title": "占いの過程",
+            "questionPrompt": "「{0}」について占う：",
+            "introTitle": "始め方",
+            "introText": "50本の蓍草は「天地の数」を象徴します。1本を取り出して太極の始まりを表し、残りの49本で操作を続けます。",
+            "lineTitle": "第{0}爻",
+            "changeTitle": "第{0}回目の分け方：",
+            "divideSticksText": "{0}本の蓍草を左{1}本と右{2}本に分けます。",
+            "takeOneFromRightText": "右から1本を取り、左手の小指と薬指の間に挟みます。右に{0}本残ります。",
+            "leftRemainderText": "左の束を4本ずつ取り除き、残りの{0}本を薬指と中指の間に挟みます。",
+            "rightRemainderText": "右の束を4本ずつ取り除き、残りの{0}本を中指と人差し指の間に挟みます。",
+            "firstChangeResult": "第1回目の分け方で合計{0}本。",
+            "firstChangeAdjust": "第1回目の分け方で指の間に挟んだ{0}本を標準値{1}本に調整します。",
+            "laterChangeResult": "第{0}回目の分け方で{1}本。",
+            "laterChangeAdjust": "第{0}回目の分け方で指の間に挟んだ{1}本を標準値{2}本に調整します。",
+            "valuesSummary": "三回の分け方の値：{0}={1}、結果：{2}",
+            "lineResults": {
+                "oldYin": "老陰 (6) - 陰爻、動爻、陽に変化",
+                "youngYang": "少陽 (7) - 陽爻、静爻",
+                "youngYin": "少陰 (8) - 陰爻、静爻",
+                "oldYang": "老陽 (9) - 陽爻、動爻、陰に変化"
+            }
+        },
+        "result": {
+            "title": "卦象の結果",
+            "main": "本卦：",
+            "changed": "変卦：",
+            "yaoText": "爻辞",
+            "unknownHexagram": "不明な卦象",
+            "cannotFindText": "対応する卦辞が見つかりません",
+            "details": {
+                "title": "卦象の詳細",
+                "shiYao": "世爻",
+                "yingYao": "応爻",
+                "yongShen": "用神",
+                "yaoDetail": "爻位の詳細",
+                "tableHeaders": {
+                    "position": "爻位",
+                    "symbol": "爻象",
+                    "element": "五行",
+                    "relation": "六親",
+                    "status": "状態"
+                }
+            }
+        }
+    }
+} 

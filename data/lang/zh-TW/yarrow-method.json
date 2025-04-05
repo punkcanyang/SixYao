@@ -1,0 +1,101 @@
+{
+  "pageTitle": "蓍草排卦詳解",
+  "introduction": "蓍草排卦是《易經》中最經典的占卜方式，通過蓍草或替代物的操作，來模擬宇宙變化，生成六爻卦象。整個過程凝聚了古代哲學智慧，是中國傳統文化的瑰寶。",
+  
+  "preparation": "準備工作",
+  "prepareSticks": "準備50根蓍草",
+  "prepareSticks_desc": "取50根蓍草（或其他替代物，如竹簽），象徵"天數五十"，即宇宙的整體可能性。",
+  "prepareSticks_meaning": "意義：50是大衍之數的基礎，表示自然界的完整性與變化的源泉。",
+  
+  "setAside": "取出一根，剩餘49根",
+  "setAside_desc": "從50根中取出一根，放在一旁（如桌前，橫放），不再使用，剩餘49根繼續操作。",
+  "setAside_meaning": "意義：這一根象徵"太極"或不變的根本，不參與具體變化，49則代表實際運作的"天地之數"。",
+  
+  "singleLineProcess": "單爻生成過程（重複6次以生成六爻）",
+  "singleLineProcess_desc": "每爻需要經過三次"分策"（變化），每次分策得出一個數值，最終三次相加確定爻的性質。以下是每爻的詳細步驟：",
+  
+  "firstDivision": "第一次分策",
+  "divideIntoTwo": "隨意分成兩堆",
+  "divideIntoTwo_desc": "將49根蓍草隨意分成左右兩堆，左手持左堆，右手持右堆。",
+  "divideIntoTwo_meaning": "意義：模擬陰陽分化，天地初分的狀態。",
+  
+  "takeOneFromRight": "從右堆取一根，夾於左手小指與無名指間",
+  "takeOneFromRight_desc": "從右堆中取出一根，夾在左手小指與無名指之間，稱為"策"。",
+  "takeOneFromRight_meaning": "意義：象徵"人"介入自然，調和陰陽。",
+  
+  "countLeftByFour": "左手持左堆，逐四計數",
+  "countLeftByFour_desc": "用右手從左手持的左堆中，每次取4根放在一旁，直到剩餘4根或少於4根為止。剩餘的根數（1、2、3或4）夾在左手無名指與中指之間。",
+  "countLeftByFour_meaning": "意義：四代表四季、四方，計數過程模擬自然規律的循環。",
+  
+  "countRightByFour": "右手持右堆，逐四計數",
+  "countRightByFour_desc": "將右堆放回左手，用右手從右堆中每次取4根，直到剩餘4根或少於4根為止。剩餘的根數夾在左手中指與食指之間。",
+  "countRightByFour_meaning": "意義：繼續模擬自然循環，確保兩堆平衡。",
+  
+  "calculateFirstTotal": "計算第一次剩餘總數",
+  "calculateFirstTotal_desc": "將左手夾的三部分（小指與無名指間1根 + 無名指與中指間 + 中指與食指間）加起來，結果只可能是5或9。\n如果左堆剩1，右堆剩4，或左堆剩4，右堆剩1，或左堆剩2，右堆剩2，總數為5。\n如果左堆剩3，右堆剩1，或左堆剩1，右堆剩3，總數為9。\n將這5或9根放到一旁（暫不放回）。",
+  "calculateFirstTotal_meaning": "意義：5代表"地數"，9代表"天數"，第一次分策偏向天的概率較高（9更常見），象徵初始陽氣較盛。",
+  
+  "secondDivision": "第二次分策",
+  "regatherSticks": "將剩餘蓍草重新聚集",
+  "regatherSticks_desc": "將第一次分策後剩下的蓍草（49 - 5 = 44，或49 - 9 = 40）聚集起來，重新隨意分成左右兩堆。",
+  "regatherSticks_meaning": "意義：重新開始一次陰陽分化。",
+  
+  "repeatSteps": "重複上述步驟",
+  "repeatSteps_desc": "從右堆取1根夾於小指與無名指間，左堆逐四計數，剩餘夾於無名指與中指間；右堆逐四計數，剩餘夾於中指與食指間。",
+  "repeatSteps_meaning": "意義：與第一次相同，繼續模擬自然變化。",
+  
+  "calculateSecondTotal": "計算第二次剩餘總數",
+  "calculateSecondTotal_desc": "結果只可能是4或8。\n如果左堆剩1，右堆剩3，或左堆剩3，右堆剩1，或左堆剩2，右堆剩2，總數為4。\n如果左堆剩4，右堆剩3，或左堆剩3，右堆剩4，總數為8。\n將這4或8根放到一旁（與第一次分開）。",
+  "calculateSecondTotal_meaning": "意義：4代表"少陽"，8代表"少陰"，第二次分策趨向平衡。",
+  
+  "thirdDivision": "第三次分策",
+  "regatherSticksAgain": "將剩餘蓍草重新聚集",
+  "regatherSticksAgain_desc": "第二次後剩餘的蓍草（44 - 4 = 40，或44 - 8 = 36，或40 - 4 = 36，或40 - 8 = 32）聚集起來，再次隨意分成左右兩堆。",
+  "regatherSticksAgain_meaning": "意義：第三次變化，接近結果。",
+  
+  "repeatStepsAgain": "重複上述步驟",
+  "repeatStepsAgain_desc": "從右堆取1根夾於小指與無名指間，左堆逐四計數，剩餘夾於無名指與中指間；右堆逐四計數，剩餘夾於中指與食指間。",
+  "repeatStepsAgain_meaning": "意義：最後一次調整陰陽。",
+  
+  "calculateThirdTotal": "計算第三次剩餘總數",
+  "calculateThirdTotal_desc": "結果仍是4或8。\n將這4或8根放到一旁。",
+  "calculateThirdTotal_meaning": "意義：與第二次相同，確定爻的最終狀態。",
+  
+  "calculateLineValue": "計算爻的數值與性質",
+  "sumThreeValues": "三次剩餘總數賦值並相加",
+  "sumThreeValues_desc": "第一次：5賦值3，9賦值2。\n第二次與第三次：4賦值3，8賦值2。\n將三次賦值相加，可能的結果為：\n9（2+3+4 或 2+4+3 或 3+2+4 或 3+4+2）\n8（2+3+3 或 3+2+3 或 3+3+2）\n7（2+2+3 或 2+3+2 或 3+2+2）\n6（2+2+2）",
+  "sumThreeValues_meaning": "意義：這些數字對應爻的性質：\n9：老陽（陽爻，動爻，會變為陰）\n8：少陰（陰爻，靜爻）\n7：少陽（陽爻，靜爻）\n6：老陰（陰爻，動爻，會變為陽）",
+  
+  "recordLine": "記錄爻",
+  "recordLine_desc": "根據結果畫出爻：\n9：⚊（陽爻，加"○"標記動爻）\n8：⚋（陰爻，無標記）\n7：⚊（陽爻，無標記）\n6：⚋（陰爻，加"×"標記動爻）\n\n這一爻為卦的最下爻（初爻）。",
+  "recordLine_meaning": "意義：爻的性質反映當前情境的動態與穩定。",
+  
+  "repeatSixTimes": "重複生成六爻",
+  "repeatSixTimes_desc": "重複上述步驟，共6次，每次從剩餘的49根蓍草開始，生成一條爻，從下（初爻）到上（上爻），形成一個完整的六爻卦。",
+  "repeatSixTimes_meaning": "意義：六爻代表事物發展的六個階段，從初生到極盛再到衰退。",
+  
+  "resultTable": "結果分析對照表",
+  "tableColumnSum": "三變之數",
+  "tableColumnNature": "爻性質",
+  "tableColumnSymbol": "符號",
+  "tableColumnChanging": "變化特性",
+  
+  "oldYin": "老陰",
+  "oldYin_symbol": "⚋ (加×)",
+  "oldYin_desc": "陰爻，變爻，會變為陽",
+  
+  "youngYang": "少陽",
+  "youngYang_symbol": "⚊",
+  "youngYang_desc": "陽爻，靜爻，不變",
+  
+  "youngYin": "少陰",
+  "youngYin_symbol": "⚋",
+  "youngYin_desc": "陰爻，靜爻，不變",
+  
+  "oldYang": "老陽",
+  "oldYang_symbol": "⚊ (加○)",
+  "oldYang_desc": "陽爻，變爻，會變為陰",
+  
+  "tryDivination": "嘗試蓍草排卦演示",
+  "returnHome": "返回主頁"
+} 

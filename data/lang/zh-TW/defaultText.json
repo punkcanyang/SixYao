@@ -1,0 +1,12 @@
+{
+    "guaText": "{name}卦 - 暫無卦辭",
+    "explanation": "{name}卦的詳細解釋尚未添加，敬請期待。",
+    "yaoTexts": [
+        {"position": "初爻", "text": "暫無爻辭"},
+        {"position": "二爻", "text": "暫無爻辭"},
+        {"position": "三爻", "text": "暫無爻辭"},
+        {"position": "四爻", "text": "暫無爻辭"},
+        {"position": "五爻", "text": "暫無爻辭"},
+        {"position": "上爻", "text": "暫無爻辭"}
+    ]
+} 

@@ -1,0 +1,12 @@
+{
+    "guaText": "{name}괘 - 괘사 없음",
+    "explanation": "{name}괘에 대한 자세한 설명은 아직 추가되지 않았습니다.",
+    "yaoTexts": [
+        {"position": "초효", "text": "해석 없음"},
+        {"position": "이효", "text": "해석 없음"},
+        {"position": "삼효", "text": "해석 없음"},
+        {"position": "사효", "text": "해석 없음"},
+        {"position": "오효", "text": "해석 없음"},
+        {"position": "상효", "text": "해석 없음"}
+    ]
+} 

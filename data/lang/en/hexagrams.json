@@ -1,0 +1,770 @@
+{
+    "Qián (乾)": {
+        "guaText": "Qian: Sublime success, furthering through perseverance.",
+        "explanation": "Vast indeed is the sublime Creative, the origin of all beings, pervading the entire heavens! The clouds pass, the rain falls, and all things flow into their forms. Greatly luminous from beginning to end, the six positions are completed in their time. In due time, he mounts the six dragons to drive through the heavens. The Way of Qian brings change and transformation, so that each being attains its true nature and destiny, maintaining harmony with the Great Harmony. Thus is its furthering and perseverance manifest. It rises above the multitude of beings, and all nations enjoy peace.",
+        "yaoTexts": [
+            {"position": "Nine at the beginning", "text": "Hidden dragon. Do not act."},
+            {"position": "Nine in the second place", "text": "Dragon appearing in the field. It furthers one to see the great man."},
+            {"position": "Nine in the third place", "text": "The superior man is creatively active all day, and at evening remains vigilant and cautious as if in peril. No blame."},
+            {"position": "Nine in the fourth place", "text": "Wavering flight over the depths. No blame."},
+            {"position": "Nine in the fifth place", "text": "Dragon flying in the heavens. It furthers one to see the great man."},
+            {"position": "Nine at the top", "text": "Arrogant dragon will have cause to repent."}
+        ]
+    },
+    "Kūn (坤)": {
+        "guaText": "Kun: Sublime success. Furthers through the perseverance of a mare. If the superior man undertakes something, he leads astray at first but then finds guidance. It is favorable to find friends in the southwest and lose friends in the northeast. Quiet perseverance brings good fortune.",
+        "explanation": "Perfect indeed is the receptivity of Kun, from which all beings receive their birth! Obediently it receives the influences of Heaven. Kun, in its breadth, supports all things. Its virtue matches the limitless. It embraces everything in its magnificence and shines with greatness. All things achieve prosperity. The mare belongs to the category of earth; it travels the earth without limits. It is gentle, devoted, furthering, and persevering. The superior man, in his undertaking, first goes astray but then follows the right path. Finding friends in the southwest means walking with those of his kind; losing friends in the northeast means that in the end there will be cause for celebration. The good fortune of quiet perseverance corresponds to the limitless nature of the earth.",
+        "yaoTexts": [
+            {"position": "Six at the beginning", "text": "When treading on frost, solid ice is near."},
+            {"position": "Six in the second place", "text": "Straight, square, great. Without purpose, yet nothing remains undone."},
+            {"position": "Six in the third place", "text": "Hidden lines. Able to persevere. If serving a king, seek no merit, but bring the work to completion."},
+            {"position": "Six in the fourth place", "text": "A tied-up sack. No blame, no praise."},
+            {"position": "Six in the fifth place", "text": "A yellow skirt. Sublime good fortune."},
+            {"position": "Six at the top", "text": "Dragons fight in the meadow. Their blood is black and yellow."}
+        ]
+    },
+    "Zhūn (屯)": {
+        "guaText": "Zhun: Sublime success, furthering through perseverance. Do not undertake anything. It furthers one to appoint helpers.",
+        "explanation": "Zhun: The initial interaction of the firm and the yielding brings difficulty. Movement in the midst of danger brings great success and perseverance. The movement of thunder and rain fills everything. Amidst the primordial chaos created by heaven, it is proper to establish helpers, but tranquility is not yet achieved.",
+        "yaoTexts": [
+            {"position": "Nine at the beginning", "text": "Hesitation and obstruction. It furthers one to remain persevering. It furthers one to appoint helpers."},
+            {"position": "Six in the second place", "text": "Difficulties pile up, horse and wagon part. He is not a robber; he will woo her. The maiden is chaste, does not pledge herself. Ten years—then she pledges herself."},
+            {"position": "Six in the third place", "text": "Whoever hunts deer without a forester only loses his way in the woods. The superior man understands the signs and prefers to desist. To continue brings humiliation."},
+            {"position": "Six in the fourth place", "text": "Horse and wagon part. Seek union. To go brings good fortune. Everything acts to further."},
+            {"position": "Nine in the fifth place", "text": "Difficulties in blessing. Small perseverance brings good fortune; great perseverance brings misfortune."},
+            {"position": "Six at the top", "text": "Horse and wagon part. Tears of blood flow."}
+        ]
+    },
+    "Méng (蒙)": {
+        "guaText": "Meng: Success. I do not seek the youthful inexperienced; the youthful inexperienced seeks me. At the first oracle, I inform him. If he asks two or three times, it is importunity. If he importunes, I give him no information. Perseverance furthers.",
+        "explanation": "Meng: Danger at the foot of the mountain; stopping in the face of danger is Meng (Youthful Folly). Meng has success because acting successfully is timely and centered. 'I do not seek the youthful inexperienced; the youthful inexperienced seeks me'—the will responds. 'At the first oracle, I inform him'—because it is firm and central. 'If he asks two or three times, it is importunity. If he importunes, I give him no information'—because importuning is folly. Educating in righteousness through folly is the work of the sage.",
+        "yaoTexts": [
+            {"position": "Six at the beginning", "text": "To dispel folly, it is favorable to use punishments, removing shackles and fetters. To go on in this way brings humiliation."},
+            {"position": "Nine in the second place", "text": "To bear with folly in kindliness brings good fortune. To take a wife brings good fortune. The son is capable of taking charge of the household."},
+            {"position": "Six in the third place", "text": "Do not take a woman who, when she sees a man of bronze, loses possession of herself. Nothing is favorable."},
+            {"position": "Six in the fourth place", "text": "Entangled in folly. Humiliation."},
+            {"position": "Six in the fifth place", "text": "Childlike folly. Good fortune."},
+            {"position": "Nine at the top", "text": "Punishing folly. It is unfavorable to be the aggressor; it is favorable to prevent aggression."}
+        ]
+    },
+    "Xū (需)": {
+        "guaText": "Xu: If you are sincere, you have light and success. Perseverance brings good fortune. It furthers one to cross the great water.",
+        "explanation": "Xu means waiting. Danger is ahead. Firm and strong, does not fall into the trap; its meaning is not of confusion or poverty. 'Xu has sincerity, light and success, perseverance brings good fortune'—the position is in the celestial place (fifth place), with correctness and centrality. 'It furthers one to cross the great water'—going forward brings achievement.",
+        "yaoTexts": [
+            {"position": "Nine at the beginning", "text": "Waiting in the meadow. It furthers one to abide in constancy. No blame."},
+            {"position": "Nine in the second place", "text": "Waiting on the sand. There is some gossip. The end brings good fortune."},
+            {"position": "Nine in the third place", "text": "Waiting in the mud invites the arrival of enemies."},
+            {"position": "Six in the fourth place", "text": "Waiting in blood. Get out of the pit."},
+            {"position": "Nine in the fifth place", "text": "Waiting with wine and food. Perseverance brings good fortune."},
+            {"position": "Six at the top", "text": "Falling into the pit. Three uninvited guests arrive. Honor them. The end brings good fortune."}
+        ]
+    },
+    "Sòng (訟)": {
+        "guaText": "Song: You are sincere, but obstructed. Caution in the middle brings good fortune. The end brings misfortune. It furthers one to see the great man. It does not further one to cross the great water.",
+        "explanation": "Song: Above firm, below dangerous; dangerous and strong is Song (Conflict). 'Song has sincerity, obstruction, caution, good fortune in the middle'—the firm comes and obtains the center (nine in the second). 'The end brings misfortune'—conflict should not be carried to conclusion. 'It furthers one to see the great man'—centrality and correctness are valued. 'It does not further one to cross the great water'—it is entering the abyss.",
+        "yaoTexts": [
+            {"position": "Six at the beginning", "text": "Not perpetuating the matter. There is a little gossip. The end brings good fortune."},
+            {"position": "Nine in the second place", "text": "Unable to contend, he returns and flees. The people of his city, three hundred households, remain free of blame."},
+            {"position": "Six in the third place", "text": "Feeding on ancient virtue. Perseverance is dangerous. The end brings good fortune. Or follow the king's service, without seeking achievement."},
+            {"position": "Nine in the fourth place", "text": "Unable to contend. Turns back to fate, changes, and rests in perseverance. Good fortune."},
+            {"position": "Nine in the fifth place", "text": "Conflict. Sublime good fortune."},
+            {"position": "Nine at the top", "text": "Even if granted a leather belt, by the end of the morning it will be snatched away three times."}
+        ]
+    },
+    "Shī (師)": {
+        "guaText": "Shi: Perseverance. The experienced man brings good fortune. No blame.",
+        "explanation": "Shi: Multitude, perseverance means correctness. To be able to lead the multitude with correctness allows one to rule. Firm in the center and responded to, acting dangerously but with obedience. With this, discipline the world, and the people follow. Good fortune, what blame could there be?",
+        "yaoTexts": [
+            {"position": "Six at the beginning", "text": "An army must set forth in order. If the order is not good, misfortune."},
+            {"position": "Nine in the second place", "text": "To be in the midst of the army. Good fortune. No blame. The king bestows triple decoration."},
+            {"position": "Six in the third place", "text": "The army may perhaps carry corpses in the wagon. Misfortune."},
+            {"position": "Six in the fourth place", "text": "The army retreats. No blame."},
+            {"position": "Six in the fifth place", "text": "There is game in the field. It is favorable to catch it. No blame. Let the eldest son lead the army. If the younger carries corpses, perseverance brings misfortune."},
+            {"position": "Six at the top", "text": "The great prince issues commands, founds states, establishes families. Small people should not be employed."}
+        ]
+    },
+    "Bǐ (比)": {
+        "guaText": "Bi: Good fortune. Consult the oracle once more. Sublime, eternal, persevering. No blame. The restless gradually come near. He who comes late meets misfortune.",
+        "explanation": "Bi is good fortune. Bi means holding together, below are obedient and follow. 'Consult the oracle once more, sublime, eternal, persevering, no blame'—because of the central firmness (nine in the fifth). 'The restless gradually come near'—above and below correspond. 'He who comes late meets misfortune'—his way is exhausted.",
+        "yaoTexts": [
+            {"position": "Six at the beginning", "text": "Hold to him with sincerity. No blame. If sincerity fills the vessel like an earthen pot, other good fortune will come in the end."},
+            {"position": "Six in the second place", "text": "Hold to him from within. Perseverance brings good fortune."},
+            {"position": "Six in the third place", "text": "You hold to the wrong people."},
+            {"position": "Six in the fourth place", "text": "Hold to him outwardly. Perseverance brings good fortune."},
+            {"position": "Nine in the fifth place", "text": "Manifestation of holding together. The king uses beaters on three sides and lets the game escape that is in front. The citizens need no warning. Good fortune."},
+            {"position": "Six at the top", "text": "He holds to him without a head. Misfortune."}
+        ]
+    },
+    "Xiǎo Xù (小畜)": {
+        "guaText": "Xiao Chu: Success. Dense clouds, no rain from our western outskirts.",
+        "explanation": "Xiao Chu: The yielding obtains the position and is responded to by above and below, it is called Xiao Chu (The Taming Power of the Small). Strong yet gentle, firm in the center and the will is carried out, hence success. 'Dense clouds, no rain'—movement still continues. 'From our western outskirts'—action has not yet been carried out.",
+        "yaoTexts": [
+            {"position": "Nine at the beginning", "text": "Return to the way. How could this be a blame? Good fortune."},
+            {"position": "Nine in the second place", "text": "He is drawn back. Good fortune."},
+            {"position": "Nine in the third place", "text": "Spokes break loose from the wagon. Husband and wife look at each other askance."},
+            {"position": "Six in the fourth place", "text": "If you are sincere, blood vanishes and fear gives way. No blame."},
+            {"position": "Nine in the fifth place", "text": "If you are sincere and linked, you are rich in your neighbor."},
+            {"position": "Nine at the top", "text": "The rain has come, rest has come. Virtue is esteemed and loaded. For the wife, perseverance is dangerous. The moon is almost full. If the superior man advances, misfortune."}
+        ]
+    },
+    "Lǚ (履)": {
+        "guaText": "Lü: Treading upon the tail of the tiger. It does not bite the man. Success.",
+        "explanation": "Lü: The yielding treads upon the firm. Pleasant and responding to Qian (The Creative), hence 'Treading upon the tail of the tiger. It does not bite the man. Success'. Firm, central, and correct, treads the imperial position without fault, is luminous.",
+        "yaoTexts": [
+            {"position": "Nine at the beginning", "text": "Simple conduct. Progress without blame."},
+            {"position": "Nine in the second place", "text": "Treading a path smooth and easy. The perseverance of a dark man brings good fortune."},
+            {"position": "Six in the third place", "text": "A one-eyed man can see, a lame man can tread. Treads on the tail of the tiger. It bites the man. Misfortune. A warrior acts for a great prince."},
+            {"position": "Nine in the fourth place", "text": "Treads on the tail of the tiger. Caution and circumspection. The end brings good fortune."},
+            {"position": "Nine in the fifth place", "text": "Resolute treading. Perseverance with awareness of danger."},
+            {"position": "Nine at the top", "text": "Look to your conduct and examine the favorable omens. If all is complete, sublime good fortune."}
+        ]
+    },
+    "Tài (泰)": {
+        "guaText": "Tai: The small departs, the great approaches. Good fortune. Success.",
+        "explanation": "Tai: 'The small departs, the great approaches. Good fortune. Success'. Then Heaven and Earth interact and all beings communicate. Above and below interact and their wills are the same. Inner Yang and outer Yin, inner strong and outer obedient, inner superior man and outer small people. The way of the superior man grows, the way of small people wanes.",
+        "yaoTexts": [
+            {"position": "Nine at the beginning", "text": "Pulling up reeds, along with others of its kind. To advance brings good fortune."},
+            {"position": "Nine in the second place", "text": "Bearing with the uncultured, using determination to cross the river, not neglecting the distant, friends disappear. You gain honor on the middle path."},
+            {"position": "Nine in the third place", "text": "No plain not followed by a slope, no going not followed by a return. Perseverance in difficulty brings no blame. Do not lament your sincerity, you will have blessings in food."},
+            {"position": "Six in the fourth place", "text": "He flutters down, not boasting of his wealth, together with his neighbor, guileless and sincere."},
+            {"position": "Six in the fifth place", "text": "The Emperor Yi gives his daughter in marriage. By this, blessings and sublime good fortune."},
+            {"position": "Six at the top", "text": "The wall falls back into the moat. Do not use the army now. Announce commands from your own city. Perseverance brings humiliation."}
+        ]
+    },
+    "Pǐ (否)": {
+        "guaText": "Pi: Standstill is not human. The perseverance of the superior man does not further. The great departs, the small approaches.",
+        "explanation": "'Standstill is not human. The perseverance of the superior man does not further. The great departs, the small approaches'. Then Heaven and Earth do not interact and all beings do not communicate. Above and below do not interact and there is no state in the world. Inner Yin and outer Yang, inner yielding and outer firm, inner small people and outer superior man. The way of small people grows, the way of the superior man wanes.",
+        "yaoTexts": [
+            {"position": "Six at the beginning", "text": "Pulling up reeds, along with others of its kind. Perseverance brings good fortune and success."},
+            {"position": "Six in the second place", "text": "They wrap and bear. For small people, good fortune. For the great man, standstill and success."},
+            {"position": "Six in the third place", "text": "They wrap up shame."},
+            {"position": "Nine in the fourth place", "text": "He who acts on command remains without blame. Companions cleave to the blessings."},
+            {"position": "Nine in the fifth place", "text": "Standstill ceases. For the great man, good fortune. 'What if it should perish, what if it should perish?' Thus he ties it to a cluster of mulberry shoots."},
+            {"position": "Nine at the top", "text": "Standstill is overthrown. First standstill, then joy."}
+        ]
+    },
+    "Tóng Rén (同人)": {
+        "guaText": "Tong Ren: Fellowship with men in the open. Success. It furthers one to cross the great water. The perseverance of the superior man furthers.",
+        "explanation": "Tong Ren: Those with whom one associates are the same as those above. Tong Ren says: 'Fellowship with men in the open. Success. It furthers one to cross the great water'—it is the action of Qian (The Creative). Civilized and strong, central, correct, and responded to, is the correctness of the superior man. Only the superior man can understand and unite the wills of the whole world.",
+        "yaoTexts": [
+            {"position": "Nine at the beginning", "text": "Fellowship with men at the gate. No blame."},
+            {"position": "Six in the second place", "text": "Fellowship with men in the clan. Humiliation."},
+            {"position": "Nine in the third place", "text": "Hides weapons in the thicket, climbs the high hill. For three years he does not rise up."},
+            {"position": "Nine in the fourth place", "text": "He mounts his wall, but cannot attack. Good fortune."},
+            {"position": "Nine in the fifth place", "text": "Fellowship with men. First crying and lamenting, then laughing. Great armies manage to meet."},
+            {"position": "Nine at the top", "text": "Fellowship with men in the meadow. No remorse."}
+        ]
+    },
+    "Dà Yǒu (大有)": {
+        "guaText": "Da You: Sublime success.",
+        "explanation": "Da You: The yielding obtains the venerable position, great centrality, and is responded to by above and below, it is called Da You (Possession in Great Measure). Its virtue is firm, strong, and civilized, responds to Heaven and acts timely, hence 'Sublime success'.",
+        "yaoTexts": [
+            {"position": "Nine at the beginning", "text": "No relationship with what is harmful. Not a blame. If one remains conscious of difficulties, one remains without blame."},
+            {"position": "Nine in the second place", "text": "A big wagon for loading. There is somewhere to go. No blame."},
+            {"position": "Nine in the third place", "text": "A prince offers it to the Son of Heaven. Small people cannot do this."},
+            {"position": "Nine in the fourth place", "text": "He makes a difference between himself and his neighbor. No blame."},
+            {"position": "Six in the fifth place", "text": "His sincerity is accessible yet dignified. Good fortune."},
+            {"position": "Nine at the top", "text": "He is blessed by Heaven. Good fortune. Nothing that does not further."}
+        ]
+    },
+    "Qiān (謙)": {
+        "guaText": "Qian: Success. The superior man carries things through.",
+        "explanation": "Qian: Success. The way of Heaven descends to dispense light. The way of Earth is lowly and ascends. Heaven diminishes the full and increases the humble. Earth transforms the full and flows toward the humble. Gods and spirits harm the full and bless the humble. Men hate the full and love the humble. Humility, in the position of honor, is luminous; in the lowly position, it cannot be surpassed. This is the end of the superior man.",
+        "yaoTexts": [
+            {"position": "Six at the beginning", "text": "A humble and modest superior man. It furthers one to cross the great water. Good fortune."},
+            {"position": "Six in the second place", "text": "Humility that speaks for itself. Perseverance brings good fortune."},
+            {"position": "Nine in the third place", "text": "A meritorious and humble superior man. Carries things through. Good fortune."},
+            {"position": "Six in the fourth place", "text": "Nothing that would not further. Humility in movement."},
+            {"position": "Six in the fifth place", "text": "Not boasting of wealth before one's neighbor. It is favorable to attack and invade. Nothing that would not further."},
+            {"position": "Six at the top", "text": "Humility that speaks for itself. It is favorable to set armies marching to chastise one's own city and country."}
+        ]
+    },
+    "Yù (豫)": {
+        "guaText": "Yu: It furthers one to appoint helpers and set armies marching.",
+        "explanation": "Yu: The firm is responded to and the will is fulfilled. Obedience and movement is Yu (Enthusiasm). Yu is obedience and movement, therefore Heaven and Earth act like it, how much more so appointing helpers and setting armies marching! Heaven and Earth move in obedience, therefore sun and moon do not deviate and the four seasons do not err. Sages move in obedience, then punishments are just and the people obey. Great indeed is the time and significance of Yu!",
+        "yaoTexts": [
+            {"position": "Six at the beginning", "text": "Enthusiasm that expresses itself. Misfortune."},
+            {"position": "Six in the second place", "text": "Firm as a rock. Not a whole day. Perseverance brings good fortune."},
+            {"position": "Six in the third place", "text": "Enthusiasm that looks upward. Remorse. Hesitation brings remorse."},
+            {"position": "Nine in the fourth place", "text": "The source of enthusiasm. Great achievements. Do not doubt. Friends gather around you as a hairpin holds hair together."},
+            {"position": "Six in the fifth place", "text": "Persistently ill, yet does not die."},
+            {"position": "Six at the top", "text": "Deluded enthusiasm. But if it changes, no blame."}
+        ]
+    },
+    "Suí (隨)": {
+        "guaText": "Sui: Sublime success. Perseverance furthers. No blame.",
+        "explanation": "Sui: The firm comes and places itself under the yielding. Movement and joy is Sui (Following). Great success, perseverance, no blame, and the world follows the time. Great indeed is the time and significance of Sui!",
+        "yaoTexts": [
+            {"position": "Nine at the beginning", "text": "Standards are changing. Perseverance brings good fortune. To go out of the door in company brings achievement."},
+            {"position": "Six in the second place", "text": "Ties himself to the small boy, loses the strong man."},
+            {"position": "Six in the third place", "text": "Ties himself to the strong man, loses the small boy. Through following one finds what one seeks. It furthers one to remain persevering."},
+            {"position": "Nine in the fourth place", "text": "Following brings gains. Perseverance brings misfortune. To be sincere in the path, with clarity, what blame can there be?"},
+            {"position": "Nine in the fifth place", "text": "Sincere in the good. Good fortune."},
+            {"position": "Six at the top", "text": "He is firmly tied, and besides followed and bound. The king offers a sacrifice on the Western Mountain."}
+        ]
+    },
+    "Gǔ (蠱)": {
+        "guaText": "Gu: Sublime success. It furthers one to cross the great water. Before the starting point, three days. After the starting point, three days.",
+        "explanation": "Gu: Firm above and yielding below. Gentle and arrested is Gu (Work on What Has Been Spoiled). Gu, sublime success, and the world becomes ordered. 'It furthers one to cross the great water'—going forward implies action. 'Before the starting point, three days. After the starting point, three days'—the end is followed by a beginning, it is the course of Heaven.",
+        "yaoTexts": [
+            {"position": "Six at the beginning", "text": "Setting right what has been spoiled by the father. If there is a son, the father has no blame. Danger. In the end good fortune."},
+            {"position": "Nine in the second place", "text": "Setting right what has been spoiled by the mother. One cannot be persevering."},
+            {"position": "Nine in the third place", "text": "Setting right what has been spoiled by the father. There will be small remorse. No great blame."},
+            {"position": "Six in the fourth place", "text": "Tolerating what has been spoiled by the father. In continuing one sees humiliation."},
+            {"position": "Six in the fifth place", "text": "Setting right what has been spoiled by the father. One receives praise."},
+            {"position": "Nine at the top", "text": "Does not serve kings and lords. Sets himself a higher goal."}
+        ]
+    },
+    "Lín (臨)": {
+        "guaText": "Lin: Sublime success. Perseverance furthers. When the eighth month arrives, there will be misfortune.",
+        "explanation": "Lin: The firm infiltrates and grows. Joy and obedience. Firm in the center and responded to. Great success through correctness, it is the way of Heaven. 'When the eighth month arrives, there will be misfortune'—decline will not be long delayed.",
+        "yaoTexts": [
+            {"position": "Nine at the beginning", "text": "Joint approach. Perseverance brings good fortune."},
+            {"position": "Nine in the second place", "text": "Joint approach. Good fortune. Everything furthers."},
+            {"position": "Six in the third place", "text": "Comfortable approach. Nothing furthers. If one becomes concerned about it, no blame."},
+            {"position": "Six in the fourth place", "text": "Complete approach. No blame."},
+            {"position": "Six in the fifth place", "text": "Wise approach. Befitting a great ruler. Good fortune."},
+            {"position": "Six at the top", "text": "Magnanimous approach. Good fortune. No blame."}
+        ]
+    },
+    "Guān (觀)": {
+        "guaText": "Guan: The ablution has been made, but not yet the offering. Full of trust they look up to him.",
+        "explanation": "Great contemplation above. Obedient and gentle. Central and correct to contemplate the world. Guan: 'The ablution has been made, but not yet the offering. Full of trust they look up to him'—those below contemplate and are transformed. Contemplate the divine way of Heaven, and the four seasons do not err. Sages establish teachings through the divine way, and the world submits.",
+        "yaoTexts": [
+            {"position": "Six at the beginning", "text": "Boyish contemplation. For small people, no blame. For the superior man, humiliation."},
+            {"position": "Six in the second place", "text": "Contemplation through the crack of the door. The perseverance of a woman furthers."},
+            {"position": "Six in the third place", "text": "Contemplating my own life, advance or retreat."},
+            {"position": "Six in the fourth place", "text": "Contemplating the light of the kingdom. It furthers one to be the guest of the king."},
+            {"position": "Nine in the fifth place", "text": "Contemplating my own life. The superior man is without blame."},
+            {"position": "Nine at the top", "text": "Contemplating his life. The superior man is without blame."}
+        ]
+    },
+    "Shì Kè (噬嗑)": {
+        "guaText": "Shi He: Success. It is favorable to make use of legal proceedings.",
+        "explanation": "Something in the mouth is called Shi He (Biting Through). Biting through brings success. Firm and yielding separated, movement and clarity, thunder and lightning unite and manifest. The yielding obtains the center and moves upward. Though not in the correct position, 'It is favorable to make use of legal proceedings'.",
+        "yaoTexts": [
+            {"position": "Nine at the beginning", "text": "Feet in stocks, covering the toes. No blame."},
+            {"position": "Six in the second place", "text": "Bites through soft flesh, covering the nose. No blame."},
+            {"position": "Six in the third place", "text": "Bites on old dried meat. Encounters poison. Slight humiliation. No blame."},
+            {"position": "Nine in the fourth place", "text": "Bites on dried meat with bone. Receives metal arrows. It furthers one to be mindful of difficulties and persevere. Good fortune."},
+            {"position": "Six in the fifth place", "text": "Bites on dried meat. Finds yellow gold. Perseverance is dangerous. No blame."},
+            {"position": "Nine at the top", "text": "Wears a cangue covering the ears. Misfortune."}
+        ]
+    },
+    "Bì (賁)": {
+        "guaText": "Bi: Success. Small advantage in having somewhere to go.",
+        "explanation": "Bi: Success. The yielding comes and adorns the firm, hence success. Separated, the firm ascends and adorns the yielding, hence 'Small advantage in having somewhere to go'. It is the pattern of heaven. Civilized and arrested, it is the pattern of humans. Observe the patterns of heaven to understand the changes of time; observe the patterns of humans to transform and complete the world.",
+        "yaoTexts": [
+            {"position": "Nine at the beginning", "text": "Adorns his toes. Leaves the carriage and goes on foot."},
+            {"position": "Six in the second place", "text": "Adorns his beard."},
+            {"position": "Nine in the third place", "text": "Adorned and moist. Eternal perseverance brings good fortune."},
+            {"position": "Six in the fourth place", "text": "Adorned but plain. A white horse comes as if on wings. He is not a robber, he will woo."},
+            {"position": "Six in the fifth place", "text": "Adornment in hills and gardens. Rolls of silk meager and small. Humiliation, but in the end good fortune."},
+            {"position": "Nine at the top", "text": "White adornment. No blame."}
+        ]
+    },
+    "Bō (剝)": {
+        "guaText": "Bo: It does not further one to go anywhere.",
+        "explanation": "Bo means splitting apart. The yielding transforms the firm. 'It does not further one to go anywhere'—small people are growing. Obey and stop, contemplate the image. The superior man values waning and waxing, emptiness and fullness; it is the course of Heaven.",
+        "yaoTexts": [
+            {"position": "Six at the beginning", "text": "The bed is split at the legs. Destroying perseverance brings misfortune."},
+            {"position": "Six in the second place", "text": "The bed is split at the edge. Destroying perseverance brings misfortune."},
+            {"position": "Six in the third place", "text": "Splitting it. No blame."},
+            {"position": "Six in the fourth place", "text": "The bed is split up to the skin. Misfortune."},
+            {"position": "Six in the fifth place", "text": "A string of fishes. Favor through the court ladies. Everything furthers."},
+            {"position": "Nine at the top", "text": "The large fruit is uneaten. The superior man obtains a carriage. The small person splits his house."}
+        ]
+    },
+    "Fù (復)": {
+        "guaText": "Fu: Success. Going out and coming in without error. Friends come without blame. Turning back and returning on his way. On the seventh day comes return. It furthers one to have somewhere to go.",
+        "explanation": "Fu: Success. The firm returns. Movement with obedience, hence 'Going out and coming in without error. Friends come without blame'. 'Turning back and returning on his way. On the seventh day comes return'—it is the course of Heaven. 'It furthers one to have somewhere to go'—the firm is growing. Fu, is not the heart of Heaven and Earth seen here?",
+        "yaoTexts": [
+            {"position": "Nine at the beginning", "text": "Return from a short distance. No need for remorse. Sublime good fortune."},
+            {"position": "Six in the second place", "text": "Quiet return. Good fortune."},
+            {"position": "Six in the third place", "text": "Repeated return. Danger. No blame."},
+            {"position": "Six in the fourth place", "text": "Walking in the midst of others, returns alone."},
+            {"position": "Six in the fifth place", "text": "Noble return. No remorse."},
+            {"position": "Six at the top", "text": "Missing the return. Misfortune. There is disaster and calamity. If armies are set marching thus, one will in the end suffer a great defeat, disastrous for the ruler of the country. For ten years it will not be possible to attack again."}
+        ]
+    },
+    "Wú Wàng (無妄)": {
+        "guaText": "Wu Wang: Sublime success. Perseverance furthers. If someone is not as he should be, he has misfortune. It does not further him to undertake anything.",
+        "explanation": "Wu Wang: The firm comes from outside and becomes master within. Movement and strength. Firm in the center and responded to. Great success through correctness, it is the mandate of Heaven. 'If someone is not as he should be, he has misfortune. It does not further him to undertake anything'. Where to go in the action of Wu Wang (The Unexpected)? If Heaven's mandate does not help, how can one act?",
+        "yaoTexts": [
+            {"position": "Nine at the beginning", "text": "Unexpected action. Good fortune."},
+            {"position": "Six in the second place", "text": "Do not plow for harvest, do not break new land for the next year. Then it furthers one to undertake something."},
+            {"position": "Six in the third place", "text": "Unexpected misfortune. Someone ties up an ox. The passerby's gain is the citizen's loss."},
+            {"position": "Nine in the fourth place", "text": "Can be persevered. No blame."},
+            {"position": "Nine in the fifth place", "text": "Unexpected illness. Use no medicine. There will be joy."},
+            {"position": "Nine at the top", "text": "Unexpected action. Brings misfortune. Nothing furthers."}
+        ]
+    },
+    "Dà Xù (大畜)": {
+        "guaText": "Da Chu: Perseverance furthers. Not eating at home brings good fortune. It furthers one to cross the great water.",
+        "explanation": "Da Chu: Firm, strong, solid, sincere, and brilliant. Daily renews its virtue. The firm ascends and values the sage. Able to restrain the strong, great correctness. 'Not eating at home brings good fortune'—nourishing the sage. 'It furthers one to cross the great water'—responds to Heaven.",
+        "yaoTexts": [
+            {"position": "Nine at the beginning", "text": "There is danger. It is favorable to halt."},
+            {"position": "Nine in the second place", "text": "The cart is detached from its axle-straps."},
+            {"position": "Nine in the third place", "text": "A good horse follows others. It furthers one to be mindful of danger and persevere. Practice chariot driving and defense daily. It furthers one to have somewhere to go."},
+            {"position": "Six in the fourth place", "text": "The headboard of a young bull. Sublime good fortune."},
+            {"position": "Six in the fifth place", "text": "The tusks of a gelded boar. Good fortune."},
+            {"position": "Nine at the top", "text": "Attaining the way of Heaven. Success."}
+        ]
+    },
+    "Yí (頤)": {
+        "guaText": "Yi: Perseverance brings good fortune. Observe the jaws. Seek for yourself the right nourishment.",
+        "explanation": "Yi: 'Perseverance brings good fortune'—nourishing what is right brings good fortune. 'Observe the jaws'—observe what they nourish. 'Seek for yourself the right nourishment'—observe how they nourish themselves. Heaven and Earth nourish all beings. Sages nourish the worthy and, through them, all people. Great indeed is the time and significance of Yi (The Corners of the Mouth / Providing Nourishment)!",
+        "yaoTexts": [
+            {"position": "Nine at the beginning", "text": "You let your magic tortoise go and look at me with the corners of your mouth drooping. Misfortune."},
+            {"position": "Six in the second place", "text": "Turning to the summit for nourishment. Deviating from the path. Nourishment from the hill. To advance brings misfortune."},
+            {"position": "Six in the third place", "text": "Rejecting nourishment. Perseverance brings misfortune. For ten years do not act. Nothing furthers."},
+            {"position": "Six in the fourth place", "text": "Turning to the summit for nourishment. Good fortune. Tiger's gaze, fixed and piercing. Its desire is to pursue relentlessly. No blame."},
+            {"position": "Six in the fifth place", "text": "Deviating from the path. To remain persevering brings good fortune. One cannot cross the great water."},
+            {"position": "Nine at the top", "text": "The source of nourishment. Awareness of danger brings good fortune. It furthers one to cross the great water."}
+        ]
+    },
+    "Dà Guò (大過)": {
+        "guaText": "Da Guo: The ridgepole sags. It furthers one to have somewhere to go. Success.",
+        "explanation": "Da Guo: The great is in excess. 'The ridgepole sags'—the base and the tip are weak. The firm is in excess but central. Gentle and joyous in action. 'It furthers one to have somewhere to go', hence success. Great indeed is the time of Da Guo (Preponderance of the Great)!",
+        "yaoTexts": [
+            {"position": "Six at the beginning", "text": "Using white reeds for matting. No blame."},
+            {"position": "Nine in the second place", "text": "A withered poplar sprouts at the base. An older man gets a young wife. Everything furthers."},
+            {"position": "Nine in the third place", "text": "The ridgepole sags. Misfortune."},
+            {"position": "Nine in the fourth place", "text": "The ridgepole is reinforced. Good fortune. If there are other intentions, humiliation."},
+            {"position": "Nine in the fifth place", "text": "A withered poplar blossoms. An older woman gets a young husband. No blame, no praise."},
+            {"position": "Six at the top", "text": "Wading through the water covers the head. Misfortune, but no blame."}
+        ]
+    },
+    "Kǎn (坎)": {
+        "guaText": "Kan: Repeating Kan. If you are sincere, you have success in your heart. Action brings reward.",
+        "explanation": "Repeating Kan is doubled danger. Water flows without filling up. Moving through danger without losing faith. 'Success in the heart' is due to the central firmness. 'Action brings reward'—going forward brings achievement. Celestial danger cannot be climbed. Terrestrial dangers are mountains, rivers, hills, and mounds. Kings and princes establish dangerous defenses to guard their realms. Great indeed is the use of the time of Kan (The Abysmal, Water)!",
+        "yaoTexts": [
+            {"position": "Six at the beginning", "text": "Repeating Kan. Falling into the abyss within the abyss. Misfortune."},
+            {"position": "Nine in the second place", "text": "Kan has danger. Seek small gains."},
+            {"position": "Six in the third place", "text": "Coming and going, Kan, Kan. Dangerous and moreover relying on it. Falling into the abyss within the abyss. Do not act."},
+            {"position": "Six in the fourth place", "text": "A jug of wine, a bowl of rice, earthen vessels. Pledge offered through the window. In the end, no blame."},
+            {"position": "Nine in the fifth place", "text": "Kan does not overflow. It is already level. No blame."},
+            {"position": "Six at the top", "text": "Bound with ropes and thongs. Placed among thorns and brambles. For three years one does not find the way. Misfortune."}
+        ]
+    },
+    "Lí (離)": {
+        "guaText": "Li: Perseverance furthers. Success. Tending cows brings good fortune.",
+        "explanation": "Li means clinging. Sun and moon cling to heaven. Grain, grass, and trees cling to the earth. Doubled clarity clinging to the correct transforms and completes the world. The yielding clings to the central and correct, hence success; and therefore 'Tending cows brings good fortune'.",
+        "yaoTexts": [
+            {"position": "Nine at the beginning", "text": "The steps are confused. Treat it with respect. No blame."},
+            {"position": "Six in the second place", "text": "Yellow Li. Sublime good fortune."},
+            {"position": "Nine in the third place", "text": "Li of the setting sun. Instead of beating the pot and singing, one laments like an old man. Misfortune."},
+            {"position": "Nine in the fourth place", "text": "Abruptly it comes, burns up, dies, is discarded."},
+            {"position": "Six in the fifth place", "text": "Tears in torrents, sighs and laments. Good fortune."},
+            {"position": "Nine at the top", "text": "The king goes forth to battle. Has merit cutting off heads. Captures those who are not rebels. No blame."}
+        ]
+    },
+    "Xián (咸)": {
+        "guaText": "Xian: Success. Perseverance furthers. To take a maiden brings good fortune.",
+        "explanation": "Xian means influence, feeling. The yielding above and the firm below. The two energies feel and respond to unite. Arrested and joyous. The male places himself below the female. Hence 'Success, perseverance furthers. To take a maiden brings good fortune'. Heaven and Earth feel, and all beings are transformed and born. Sages influence the hearts of men, and the world is at peace. By observing what they feel, the nature of Heaven, Earth, and all beings can be seen.",
+        "yaoTexts": [
+            {"position": "Six at the beginning", "text": "The influence shows itself in the big toe."},
+            {"position": "Six in the second place", "text": "The influence shows itself in the calves. Misfortune. To tarry brings good fortune."},
+            {"position": "Nine in the third place", "text": "The influence shows itself in the thighs. Clings to what follows. To go brings humiliation."},
+            {"position": "Nine in the fourth place", "text": "Perseverance brings good fortune, remorse disappears. Restlessly going and coming, friends follow your thoughts."},
+            {"position": "Nine in the fifth place", "text": "The influence shows itself in the back of the neck. No remorse."},
+            {"position": "Six at the top", "text": "The influence shows itself in the jaws, cheeks, and tongue."}
+        ]
+    },
+    "Héng (恆)": {
+        "guaText": "Heng: Success. No blame. Perseverance furthers. It furthers one to have somewhere to go.",
+        "explanation": "Heng means duration. Firm above and yielding below. Thunder and wind accompany each other. Gentle and in motion. Firm and yielding all correspond, Heng. Heng, success, no blame, perseverance furthers, duration in one's way. The way of Heaven and Earth is enduring and ceaseless. 'It furthers one to have somewhere to go'—the end is followed by a beginning. Sun and moon obtain Heaven and can shine enduringly. The four seasons change and transform, and can complete enduringly. Sages endure in their way, and the world is transformed and completed. By observing what endures, the nature of Heaven, Earth, and all beings can be seen.",
+        "yaoTexts": [
+            {"position": "Six at the beginning", "text": "Seeking duration too hastily. Perseverance brings misfortune. Nothing furthers."},
+            {"position": "Nine in the second place", "text": "Remorse disappears."},
+            {"position": "Nine in the third place", "text": "He does not endure in his virtue. May meet with disgrace. Perseverance brings humiliation."},
+            {"position": "Nine in the fourth place", "text": "No game in the field."},
+            {"position": "Six in the fifth place", "text": "Enduring in one's virtue. Perseverance. For a woman, good fortune. For a man, misfortune."},
+            {"position": "Six at the top", "text": "Restless duration. Misfortune."}
+        ]
+    },
+    "Dùn (遯)": {
+        "guaText": "Dun: Success. In what is small, perseverance furthers.",
+        "explanation": "Dun: Success. Retreating and having success. The firm is in the correct position (fifth place) and is responded to, acts according to the time. 'In what is small, perseverance furthers'—it infiltrates and grows (the Yin lines). Great indeed is the time and significance of Dun (Retreat)!",
+        "yaoTexts": [
+            {"position": "Six at the beginning", "text": "Retreat at the tail. Danger. Do not undertake anything."},
+            {"position": "Six in the second place", "text": "Holding fast with yellow ox hide. No one can tear it loose."},
+            {"position": "Nine in the third place", "text": "Entangled retreat. There is illness and danger. To keep servants and concubines brings good fortune."},
+            {"position": "Nine in the fourth place", "text": "Voluntary retreat. For the superior man, good fortune. For the small man, standstill."},
+            {"position": "Nine in the fifth place", "text": "Admirable retreat. Perseverance brings good fortune."},
+            {"position": "Nine at the top", "text": "Fat retreat (retreating far and carefree). Nothing that does not further."}
+        ]
+    },
+    "Dà Zhuàng (大壯)": {
+        "guaText": "Da Zhuang: Perseverance furthers.",
+        "explanation": "Da Zhuang: The great is strong. Firm and in motion, hence strong. Da Zhuang, perseverance furthers; the great is correct. Correct and great, and the nature of Heaven and Earth can be seen!",
+        "yaoTexts": [
+            {"position": "Nine at the beginning", "text": "Strength in the toes. To advance brings misfortune. There is sincerity."},
+            {"position": "Nine in the second place", "text": "Perseverance brings good fortune."},
+            {"position": "Nine in the third place", "text": "Small people use strength. The superior man uses the net (non-action). Perseverance is dangerous. A ram butts against a hedge and entangles its horns."},
+            {"position": "Nine in the fourth place", "text": "Perseverance brings good fortune, remorse disappears. The hedge breaks open, no entanglement. Strength in the axles of a great cart."},
+            {"position": "Six in the fifth place", "text": "Loses the sheep in Yi. No remorse."},
+            {"position": "Six at the top", "text": "A ram butts against a hedge. Cannot retreat, cannot advance. Nothing furthers. If one recognizes the difficulties, good fortune."}
+        ]
+    },
+    "Jìn (晉)": {
+        "guaText": "Jin: Marquis Kang is gifted horses in great number. In a single day, he is received three times.",
+        "explanation": "Jin means advancing. Light emerges above the earth. Obedient and clinging to the great clarity. The yielding advances and ascends. Hence 'Marquis Kang is gifted horses in great number. In a single day, he is received three times'.",
+        "yaoTexts": [
+            {"position": "Six at the beginning", "text": "Advancing, but pushed back. Perseverance brings good fortune. If there is no trust, be magnanimous. No blame."},
+            {"position": "Six in the second place", "text": "Advancing, but in sorrow. Perseverance brings good fortune. Receives this great happiness from his royal grandmother."},
+            {"position": "Six in the third place", "text": "All trust. Remorse disappears."},
+            {"position": "Nine in the fourth place", "text": "Advancing like a hamster. Perseverance is dangerous."},
+            {"position": "Six in the fifth place", "text": "Remorse disappears. Do not worry about loss or gain. To go brings good fortune. Everything furthers."},
+            {"position": "Nine at the top", "text": "Advancing with the horns. Only to chastise one's own city. Dangerous, but good fortune. No blame. Perseverance brings humiliation."}
+        ]
+    },
+    "Míng Yí (明夷)": {
+        "guaText": "Ming Yi: Perseverance in adversity furthers.",
+        "explanation": "Ming Yi: Light has sunk into the earth. Inner civilization and outer yielding obedience, to endure great difficulties. King Wen experienced it. 'Perseverance in adversity furthers'—hiding one's light. Inner difficulty but able to keep the will correct. Prince Ji experienced it.",
+        "yaoTexts": [
+            {"position": "Nine at the beginning", "text": "Darkening of the light in flight. Lets his wings droop. The superior man travels without eating for three days. Has somewhere to go. The host has something to say."},
+            {"position": "Six in the second place", "text": "Darkening of the light. Injured in the left thigh. Uses the strength of a rescue horse. Good fortune."},
+            {"position": "Nine in the third place", "text": "Darkening of the light during the southern hunt. Gets the great head. Cannot be quick in perseverance."},
+            {"position": "Six in the fourth place", "text": "Enters the left flank. Captures the heart of the Darkening of the Light. Exits through gate and courtyard."},
+            {"position": "Six in the fifth place", "text": "Prince Ji's Darkening of the Light. Perseverance furthers."},
+            {"position": "Six at the top", "text": "Not light, but darkness. First climbs to heaven, then plunges into the earth."}
+        ]
+    },
+    "Jiā Rén (家人)": {
+        "guaText": "Jia Ren: The perseverance of the woman furthers.",
+        "explanation": "Jia Ren: The woman has her correct place within, the man has his correct place without. Man and woman correct is the great righteousness of Heaven and Earth. The family has a strict lord—refers to parents. Father as father, son as son, elder brother as elder brother, younger brother as younger brother, husband as husband, wife as wife, and the way of the family is correct. Correct the family, and the world will be stable.",
+        "yaoTexts": [
+            {"position": "Nine at the beginning", "text": "Enclosing the household. Remorse disappears."},
+            {"position": "Six in the second place", "text": "Has nothing to pursue. Is in the inner nourishment. Perseverance brings good fortune."},
+            {"position": "Nine in the third place", "text": "The family is harsh. Dangerous remorse, but good fortune. Wife and children laugh and chatter. In the end, humiliation."},
+            {"position": "Six in the fourth place", "text": "Enriching the house. Great good fortune."},
+            {"position": "Nine in the fifth place", "text": "The king approaches his family. Do not worry. Good fortune."},
+            {"position": "Nine at the top", "text": "Having sincerity and being majestic. In the end, good fortune."}
+        ]
+    },
+    "Kuí (睽)": {
+        "guaText": "Kui: In small matters, good fortune.",
+        "explanation": "Kui: Fire moves upward, the lake moves downward. Two women dwell together, but their wills do not move in the same direction. Joyful and clinging to clarity. The yielding advances and moves upward, obtains the center and corresponds to the firm. Hence 'In small matters, good fortune'. Heaven and Earth are in opposition, but their actions are the same. Man and woman are in opposition, but their wills communicate. All things are in opposition, but their actions are similar. Great indeed is the use of the time of Kui (Opposition)!",
+        "yaoTexts": [
+            {"position": "Nine at the beginning", "text": "Remorse disappears. Loses the horse, do not pursue it, it will return of itself. Sees evil people. No blame."},
+            {"position": "Nine in the second place", "text": "Meets his lord in an alley. No blame."},
+            {"position": "Six in the third place", "text": "Sees the wagon dragged back, its oxen halted, the man with hair and nose cut off. No beginning, but an end."},
+            {"position": "Nine in the fourth place", "text": "Isolated through opposition. Meets a like-minded man. They exchange sincerity. Dangerous, but no blame."},
+            {"position": "Six in the fifth place", "text": "Remorse disappears. His clan bites through the flesh. How could there be blame in going?"},
+            {"position": "Nine at the top", "text": "Isolated through opposition. Sees a pig covered in mud, a wagon full of ghosts. First draws the bow, then relaxes it. They are not robbers, but wooers. Going and meeting rain brings good fortune."}
+        ]
+    },
+    "Jiǎn (蹇)": {
+        "guaText": "Jian: Favorable the southwest, unfavorable the northeast. It furthers one to see the great man. Perseverance brings good fortune.",
+        "explanation": "Jian means difficulty, danger ahead. Seeing danger and being able to stop, that is wisdom! 'Jian favorable the southwest'—going obtains the center. 'Unfavorable the northeast'—its path is blocked. 'It furthers one to see the great man'—going brings achievement. Being in the correct position, perseverance brings good fortune, to correct the country. Great indeed is the use of the time of Jian (Obstruction)!",
+        "yaoTexts": [
+            {"position": "Six at the beginning", "text": "Going leads to obstruction, coming leads to praise."},
+            {"position": "Six in the second place", "text": "The king's minister is obstructed upon obstruction, not for his own sake."},
+            {"position": "Nine in the third place", "text": "Going leads to obstruction, coming leads to return."},
+            {"position": "Six in the fourth place", "text": "Going leads to obstruction, coming leads to union."},
+            {"position": "Nine in the fifth place", "text": "Great obstruction. Friends arrive."},
+            {"position": "Six at the top", "text": "Going leads to obstruction, coming leads to greatness. Good fortune. It furthers one to see the great man."}
+        ]
+    },
+    "Xiè (解)": {
+        "guaText": "Xie: Favorable the southwest. If there is nowhere to go, its return brings good fortune. If there is somewhere to go, promptness brings good fortune.",
+        "explanation": "Xie: Danger below. Movement and escape from danger is Xie (Deliverance). 'Xie favorable the southwest'—going obtains the multitude. 'Its return brings good fortune'—then obtains the center. 'If there is somewhere to go, promptness brings good fortune'—going brings achievement. Heaven and Earth are delivered, and thunder and rain act. Thunder and rain act, and all fruits, grasses, and trees split open. Great indeed is the time and significance of Xie!",
+        "yaoTexts": [
+            {"position": "Six at the beginning", "text": "No blame."},
+            {"position": "Nine in the second place", "text": "Catches three foxes in the field, obtains yellow arrows. Perseverance brings good fortune."},
+            {"position": "Six in the third place", "text": "Carrying a burden and also riding in a carriage. Invites the arrival of bandits. Perseverance brings humiliation."},
+            {"position": "Nine in the fourth place", "text": "Deliver yourself from your big toe. Friends arrive, trust them."},
+            {"position": "Six in the fifth place", "text": "The superior man needs only deliverance. Good fortune. He will have trust among small people."},
+            {"position": "Six at the top", "text": "The prince shoots a hawk on a high wall. Catches it. Everything furthers."}
+        ]
+    },
+    "Guài (夬)": {
+        "guaText": "Guai: Display it in the royal court. Sincere call. There is danger. Notify from one's own city. It does not further to resort to arms. It furthers one to have somewhere to go.",
+        "explanation": "Guai means resolution, the firm resolves the yielding. Strong and joyous. Resolute and harmonious. 'Display it in the royal court'—the yielding rides on five firm lines. 'Sincere call. There is danger'. Its virtue is strong, firm, and civilized. 'Notify from one's own city. It does not further to resort to arms'—what is valued is the peaceful. 'It furthers one to have somewhere to go'—the growth of the firm comes to an end.",
+        "yaoTexts": [
+            {"position": "Nine at the beginning", "text": "Strength in the front toes. Going without winning is a blame."},
+            {"position": "Nine in the second place", "text": "Alarmed call. There may be arms in the night. Do not worry."},
+            {"position": "Nine in the third place", "text": "Strength in the cheekbones. Brings misfortune. The superior man is resolute and decisive. Walks alone and encounters rain. Like being drenched, there is resentment. No blame."},
+            {"position": "Nine in the fourth place", "text": "Buttocks without skin. His walking is hesitant. Drags a sheep, remorse disappears. Hears words but does not believe."},
+            {"position": "Nine in the fifth place", "text": "Amaranth resolute and decisive. Walking in the middle avoids blame."},
+            {"position": "Six at the top", "text": "No call. In the end, misfortune."}
+        ]
+    },
+    "Gòu (姤)": {
+        "guaText": "Gou: The woman is strong. Do not take the woman.",
+        "explanation": "Gou means coming to meet, the yielding meets the firm. 'Do not take the woman'—one cannot live with her for long. Heaven and Earth meet, and all forms of things become manifest. The firm meets the central and correct, and the world acts greatly. Great indeed is the time and significance of Gou (Coming to Meet)!",
+        "yaoTexts": [
+            {"position": "Six at the beginning", "text": "Tied to a metal peg. Perseverance brings good fortune. If you have somewhere to go, you see misfortune. Lean pig stirs."},
+            {"position": "Nine in the second place", "text": "The wrap contains fish. No blame. Not favorable for guests."},
+            {"position": "Nine in the third place", "text": "Buttocks without skin. His walking is hesitant. Danger. No great blame."},
+            {"position": "Nine in the fourth place", "text": "The wrap contains no fish. Arises misfortune."},
+            {"position": "Nine in the fifth place", "text": "A melon wrapped in willow leaves. Contains hidden beauty. Falls from heaven."},
+            {"position": "Nine at the top", "text": "Coming to meet with his horns. Humiliation. No blame."}
+        ]
+    },
+    "Cuì (萃)": {
+        "guaText": "Cui: Success. The king approaches his temple. It furthers one to see the great man. Success. Perseverance furthers. Using great sacrifices brings good fortune. It furthers one to have somewhere to go.",
+        "explanation": "Cui means gathering together. Obedient and joyous. Firm in the center and responded to, hence they gather. 'The king approaches his temple'—offering filial piety. 'It furthers one to see the great man. Success'—gathering with correctness. 'Using great sacrifices brings good fortune. It furthers one to have somewhere to go'—obeying Heaven's mandate. By observing what gathers, the nature of Heaven, Earth, and all beings can be seen.",
+        "yaoTexts": [
+            {"position": "Six at the beginning", "text": "If you are sincere but not to the end, sometimes confusion, sometimes gathering. If you call out, one handshake turns to laughter. Do not worry. Going without blame."},
+            {"position": "Six in the second place", "text": "Being drawn brings good fortune. No blame. If you are sincere, it is favorable to use a small offering."},
+            {"position": "Six in the third place", "text": "Gathering with sighs. Nothing furthers. Going without blame. Slight humiliation."},
+            {"position": "Nine in the fourth place", "text": "Great good fortune. No blame."},
+            {"position": "Nine in the fifth place", "text": "Gathering in position. No blame. If there is no sincerity, sublime and eternal perseverance, remorse disappears."},
+            {"position": "Six at the top", "text": "Lamenting and sighing, tears flow. No blame."}
+        ]
+    },
+    "Shēng (升)": {
+        "guaText": "Sheng: Sublime success. Use to see the great man. Do not worry. Expedition toward the south brings good fortune.",
+        "explanation": "Sheng: Yielding with obedience. Firm in the center and responded to, hence great success. 'Use to see the great man. Do not worry'—there is celebration. 'Expedition toward the south brings good fortune'—the will is carried out.",
+        "yaoTexts": [
+            {"position": "Six at the beginning", "text": "Ascending that meets with confidence. Great good fortune."},
+            {"position": "Nine in the second place", "text": "If you are sincere, it is favorable to use a small offering. No blame."},
+            {"position": "Nine in the third place", "text": "Ascending into an empty city."},
+            {"position": "Six in the fourth place", "text": "The king offers sacrifice on Mount Qi. Good fortune. No blame."},
+            {"position": "Six in the fifth place", "text": "Perseverance brings good fortune. Ascending by steps."},
+            {"position": "Six at the top", "text": "Ascending in darkness. It is favorable for unremitting perseverance."}
+        ]
+    },
+    "Kùn (困)": {
+        "guaText": "Kun: Success. Perseverance. For the great man, good fortune. No blame. To have something to say is not believed.",
+        "explanation": "Kun: The firm is covered. Dangerous with joy. Exhausted but not losing one's place of success—who but the superior man can achieve this? 'Perseverance. For the great man, good fortune'—because of central firmness. 'To have something to say is not believed'—valuing the mouth leads to exhaustion.",
+        "yaoTexts": [
+            {"position": "Six at the beginning", "text": "Buttocks exhausted under a tree stump. Enters a dark valley. For three years is not seen."},
+            {"position": "Nine in the second place", "text": "Exhausted by wine and food. The man with the red sash arrives. It is favorable to offer sacrifices. To advance brings misfortune. No blame."},
+            {"position": "Six in the third place", "text": "Exhausted by stones. Leans on thorns and thistles. Enters his house, does not see his wife. Misfortune."},
+            {"position": "Nine in the fourth place", "text": "Comes slowly. Exhausted in a golden carriage. Humiliation, but has an end."},
+            {"position": "Nine in the fifth place", "text": "Nose and feet cut off. Exhausted by the man in the red sash. Slowly joy comes. It is favorable to make offerings and sacrifices."},
+            {"position": "Six at the top", "text": "Exhausted by creepers. On a precarious perch. Says 'movement brings remorse'. If one has remorse, to advance brings good fortune."}
+        ]
+    },
+    "Jǐng (井)": {
+        "guaText": "Jing: The town may be changed, but the well cannot be changed. Neither loss nor gain. They come and go, well, well. Almost arrive, but the rope does not yet reach the water of the well, or the jug breaks. Misfortune.",
+        "explanation": "Gentle over water and drawing up water, Jing (The Well). The well nourishes and is not exhausted. 'The town may be changed, but the well cannot be changed'—due to central firmness. 'Almost arrive, but the rope does not yet reach the water of the well'—achievement is not yet attained. 'The jug breaks'—hence misfortune.",
+        "yaoTexts": [
+            {"position": "Six at the beginning", "text": "The mud of the well is not drunk. An old well has no animals."},
+            {"position": "Nine in the second place", "text": "The well valley shoots at the small fish. The jug is broken and leaks."},
+            {"position": "Nine in the third place", "text": "The well is cleaned, but not drunk from. This saddens my heart. One can draw water. If the king is wise, both receive his blessings."},
+            {"position": "Six in the fourth place", "text": "The well is lined. No blame."},
+            {"position": "Nine in the fifth place", "text": "The well is clear. Cold spring water to drink."},
+            {"position": "Six at the top", "text": "Well gathering, do not cover it. Having sincerity brings sublime good fortune."}
+        ]
+    },
+    "Gé (革)": {
+        "guaText": "Ge: On the Ji day, you are believed. Sublime success. Perseverance furthers. Remorse disappears.",
+        "explanation": "Ge: Water and fire extinguish each other. Two women dwell together, their wills do not accord, it is called Ge (Revolution / Molting). 'On the Ji day, you are believed'—revolutionize and be believed. Civilized with joy. Great success through correctness. Revolutionize appropriately, then remorse disappears. Heaven and Earth revolutionize and the four seasons are completed. Tang and Wu revolutionized, obeying Heaven and responding to man. Great indeed is the time of Ge!",
+        "yaoTexts": [
+            {"position": "Nine at the beginning", "text": "Wrapped with the hide of a yellow ox."},
+            {"position": "Six in the second place", "text": "On the Ji day, then revolution. To advance brings good fortune. No blame."},
+            {"position": "Nine in the third place", "text": "To advance brings misfortune. Perseverance is dangerous. When the word revolution has been discussed three times, there is trust."},
+            {"position": "Nine in the fourth place", "text": "Remorse disappears. Having sincerity changes the mandate. Good fortune."},
+            {"position": "Nine in the fifth place", "text": "The great man changes like a tiger. Even without consulting the oracle, there is trust."},
+            {"position": "Six at the top", "text": "The superior man changes like a leopard. Small people change face. To advance brings misfortune. To remain persevering brings good fortune."}
+        ]
+    },
+    "Dǐng (鼎)": {
+        "guaText": "Ding: Sublime good fortune. Success.",
+        "explanation": "Ding: Image. With wood, gentle over fire, cooking. Sages cook to offer to the Supreme Lord, and cook lavishly to nourish the sages and the worthy. Gentle, and ears and eyes are sharp and clear. The yielding advances and moves upward. Obtains the center and corresponds to the firm. Hence 'Sublime success'.",
+        "yaoTexts": [
+            {"position": "Six at the beginning", "text": "Cauldron with legs upturned. Favorable for getting out the bad. Gets a concubine for her son. No blame."},
+            {"position": "Nine in the second place", "text": "The cauldron has contents. My enemies are envious, but cannot approach me. Good fortune."},
+            {"position": "Nine in the third place", "text": "The cauldron's ears change. Its movement is impeded. Pheasant fat is not eaten. Rain lessens remorse. In the end, good fortune."},
+            {"position": "Nine in the fourth place", "text": "The cauldron's legs break. The prince's meal is spilled. Its form is soiled. Misfortune."},
+            {"position": "Six in the fifth place", "text": "Cauldron with yellow ears, golden carrying rings. Perseverance furthers."},
+            {"position": "Nine at the top", "text": "Cauldron with jade carrying rings. Great good fortune. Nothing that does not further."}
+        ]
+    },
+    "Zhèn (震)": {
+        "guaText": "Zhen: Success. Zhen (Thunder / Shock) comes ho-ho! Laughing words ha-ha! The alarming thunder frightens for a hundred li. He does not lose the sacrificial spoon and chalice.",
+        "explanation": "Zhen: Success. 'Zhen comes ho-ho!'—fear brings good fortune. 'Laughing words ha-ha!'—afterward there are rules. 'The alarming thunder frightens for a hundred li'—it frightens the far and terrifies the near. Going forth can protect the ancestral temple and the altars of soil and grain, to be the lord of sacrifice.",
+        "yaoTexts": [
+            {"position": "Nine at the beginning", "text": "Zhen comes ho-ho! Then laughing words ha-ha! Good fortune."},
+            {"position": "Six in the second place", "text": "Zhen comes dangerously. A hundred thousand times you lose your shells and climb the nine hills. Do not pursue them, in seven days you will get them."},
+            {"position": "Six in the third place", "text": "Zhen is restless. If Zhen acts, no misfortune."},
+            {"position": "Nine in the fourth place", "text": "Zhen gets stuck in the mud."},
+            {"position": "Six in the fifth place", "text": "Zhen goes and comes dangerously. A hundred thousand times without loss, but there are things to be done."},
+            {"position": "Six at the top", "text": "Zhen trembles. Glances nervously. To advance brings misfortune. If Zhen does not affect his person but his neighbor, no blame. Marriage relations have cause for gossip."}
+        ]
+    },
+    "Gèn (艮)": {
+        "guaText": "Gen: Keeping the back still. Does not get hold of his body. Walks in his courtyard, does not see his person. No blame.",
+        "explanation": "Gen means keeping still. When it is time to stop, then stop. When it is time to act, then act. Movement and stillness do not miss their time, its way is bright. 'Keeping his stillness still' is stopping where one should. Above and below oppose each other and do not associate. Hence 'Does not get hold of his body. Walks in his courtyard, does not see his person. No blame'.",
+        "yaoTexts": [
+            {"position": "Six at the beginning", "text": "Keeping his toes still. No blame. Eternal perseverance furthers."},
+            {"position": "Six in the second place", "text": "Keeping his calves still. Does not rescue his follower. His heart is not glad."},
+            {"position": "Nine in the third place", "text": "Keeping his loins still. Separates his sacrum. Dangerous, smothers the heart."},
+            {"position": "Six in the fourth place", "text": "Keeping his trunk still. No blame."},
+            {"position": "Six in the fifth place", "text": "Keeping his jaws still. The words have order. Remorse disappears."},
+            {"position": "Nine at the top", "text": "Noble stillness. Good fortune."}
+        ]
+    },
+    "Jiàn (漸)": {
+        "guaText": "Jian: The marriage of the maiden brings good fortune. Perseverance furthers.",
+        "explanation": "The advance of Jian is the marriage of the maiden, good fortune. Advancing obtains the correct position, going brings achievement. Advancing with correctness can correct the country. Its position (Nine in the fifth) is firm and obtains the center. Stopping and being gentle, movement is not exhausted.",
+        "yaoTexts": [
+            {"position": "Six at the beginning", "text": "The wild goose gradually approaches the shore. The young son is in danger. There is talk. No blame."},
+            {"position": "Six in the second place", "text": "The wild goose gradually approaches the rock. Eating and drinking in joy and contentment. Good fortune."},
+            {"position": "Nine in the third place", "text": "The wild goose gradually approaches the plateau. The husband goes forth and does not return. The wife conceives but does not give birth. Misfortune. It is favorable to defend against bandits."},
+            {"position": "Six in the fourth place", "text": "The wild goose gradually approaches the tree. Perhaps finds a flat bough. No blame."},
+            {"position": "Nine in the fifth place", "text": "The wild goose gradually approaches the summit. The wife does not conceive for three years. In the end, nothing can overcome it. Good fortune."},
+            {"position": "Nine at the top", "text": "The wild goose gradually approaches the cloud heights. Its feathers can be used for the sacred dance. Good fortune."}
+        ]
+    },
+    "Guī Mèi (歸妹)": {
+        "guaText": "Gui Mei: To advance brings misfortune. Nothing furthers.",
+        "explanation": "Gui Mei (The Marrying Maiden): the great righteousness of Heaven and Earth. If Heaven and Earth do not interact, all beings do not prosper. Gui Mei is the end and beginning of man. Joy with movement, the maiden is what is given in marriage. 'To advance brings misfortune'—the positions are not appropriate. 'Nothing furthers'—the yielding rides upon the firm.",
+        "yaoTexts": [
+            {"position": "Nine at the beginning", "text": "The maiden marries as a younger sister. A lame man can walk. To advance brings good fortune."},
+            {"position": "Nine in the second place", "text": "A one-eyed man can see. The perseverance of a solitary person furthers."},
+            {"position": "Six in the third place", "text": "The maiden marries as a waiting-maid. Marries back as a younger sister."},
+            {"position": "Nine in the fourth place", "text": "The maiden protracts the marriage. Late marriage, but there is a time."},
+            {"position": "Six in the fifth place", "text": "The Emperor Yi gives his daughter in marriage. The princess's sleeves are not as fine as those of her younger sister. The moon is almost full. Good fortune."},
+            {"position": "Six at the top", "text": "The woman holds the basket with no fruit. The gentleman stabs the sheep with no blood. Nothing furthers."}
+        ]
+    },
+    "Fēng (豐)": {
+        "guaText": "Feng: Success. The king attains it. Do not worry. Be like the sun at midday.",
+        "explanation": "Feng means great. Clarity with movement, hence Feng (Abundance). 'The king attains it'—valuing greatness. 'Do not worry. Be like the sun at midday'—should illuminate the whole world. The sun at midday declines. The full moon wanes. Fullness and emptiness of Heaven and Earth wax and wane with time, how much more so in men! How much more so in gods and spirits?",
+        "yaoTexts": [
+            {"position": "Nine at the beginning", "text": "Meets his matching lord. Though they are equals, no blame. Going brings esteem."},
+            {"position": "Six in the second place", "text": "Abundance in the screen. Sees the Dipper at midday. Going brings distrust and sickness. If you have sincerity, it manifests. Good fortune."},
+            {"position": "Nine in the third place", "text": "Abundance in the curtains. Sees small stars at midday. Breaks his right arm. No blame."},
+            {"position": "Nine in the fourth place", "text": "Abundance in the screen. Sees the Dipper at midday. Meets his equal lord. Good fortune."},
+            {"position": "Six in the fifth place", "text": "Brightness comes. There is celebration and praise. Good fortune."},
+            {"position": "Six at the top", "text": "Abundance in his house. Screen in his home. Peeps through the door, desolate with no one there. For three years is not seen. Misfortune."}
+        ]
+    },
+    "Lǚ (旅)": {
+        "guaText": "Lü: Small success. In travel, perseverance brings good fortune.",
+        "explanation": "Lü: Small success. The yielding obtains the center in the outer and obeys the firm. Arrested and clinging to clarity. Hence 'Small success. In travel, perseverance brings good fortune'. Great indeed is the time and significance of Lü (The Wanderer)!",
+        "yaoTexts": [
+            {"position": "Six at the beginning", "text": "The wanderer is petty and trivial. Thus he draws disaster upon himself."},
+            {"position": "Six in the second place", "text": "The wanderer arrives at an inn. Carries his possessions with him. Gets the perseverance of a young servant."},
+            {"position": "Nine in the third place", "text": "The wanderer's inn burns down. Loses his young servant. Perseverance is dangerous."},
+            {"position": "Nine in the fourth place", "text": "The wanderer rests in a shelter. Gets his property and an axe. My heart is not glad."},
+            {"position": "Six in the fifth place", "text": "Shoots a pheasant, loses an arrow. In the end, gets praise and office."},
+            {"position": "Nine at the top", "text": "The bird burns its nest. The wanderer laughs first, then cries and wails. Loses his cow in Yi. Misfortune."}
+        ]
+    },
+    "Xùn (巽)": {
+        "guaText": "Xun: Small success. It furthers one to have somewhere to go. It furthers one to see the great man.",
+        "explanation": "Doubled Xun (The Gentle, Wind / Wood) to reinforce the mandate. The firm is gently penetrating in the central and correct, and the will acts. The yielding all obey the firm. Hence 'Small success. It furthers one to have somewhere to go. It furthers one to see the great man'.",
+        "yaoTexts": [
+            {"position": "Six at the beginning", "text": "Advancing and retreating. The perseverance of a warrior furthers."},
+            {"position": "Nine in the second place", "text": "Gentleness under the bed. Uses historians and magicians in abundance. Good fortune. No blame."},
+            {"position": "Nine in the third place", "text": "Repeated gentleness. Humiliation."},
+            {"position": "Six in the fourth place", "text": "Remorse disappears. Catches three kinds of game in the hunt."},
+            {"position": "Nine in the fifth place", "text": "Perseverance brings good fortune. Remorse disappears. Nothing that does not further. No beginning, but an end. Three days before Geng, three days after Geng. Good fortune."},
+            {"position": "Nine at the top", "text": "Gentleness under the bed. Loses his property and axe. Perseverance brings misfortune."}
+        ]
+    },
+    "Duì (兌)": {
+        "guaText": "Dui: Success. Perseverance furthers.",
+        "explanation": "Dui means joy. Firm in the center and yielding on the outside. Joy with furthering perseverance. Thus one obeys Heaven and corresponds to man. Joy to lead the people, and the people forget their toil. Joy to brave difficulties, and the people forget their death. Great is the joy that encourages the people!",
+        "yaoTexts": [
+            {"position": "Nine at the beginning", "text": "Harmonious joy. Good fortune."},
+            {"position": "Nine in the second place", "text": "Sincere joy. Good fortune. Remorse disappears."},
+            {"position": "Six in the third place", "text": "Coming joy. Misfortune."},
+            {"position": "Nine in the fourth place", "text": "Joyousness negotiated. Not yet at peace. Holding off disease brings joy."},
+            {"position": "Nine in the fifth place", "text": "Sincerity toward decay. There is danger."},
+            {"position": "Six at the top", "text": "Attracting joy."}
+        ]
+    },
+    "Huàn (渙)": {
+        "guaText": "Huan: Success. The king approaches his temple. It furthers one to cross the great water. Perseverance furthers.",
+        "explanation": "Huan: Success. The firm comes and is not exhausted. The yielding obtains its place in the outer and unites with those above. 'The king approaches his temple'—the king is then in the center. 'It furthers one to cross the great water'—riding on wood brings achievement.",
+        "yaoTexts": [
+            {"position": "Six at the beginning", "text": "Using the strength of a rescue horse. Good fortune."},
+            {"position": "Nine in the second place", "text": "Dispersion. Rushes to his support. Remorse disappears."},
+            {"position": "Six in the third place", "text": "Disperses his self. No remorse."},
+            {"position": "Six in the fourth place", "text": "Disperses his group. Sublime good fortune. Dispersion leads to accumulations. Something ordinary people would not think of."},
+            {"position": "Nine in the fifth place", "text": "Disperses like sweat his great proclamations. Disperses the king's dwelling. No blame."},
+            {"position": "Nine at the top", "text": "Disperses his blood. Departs, keeps at a distance, goes out. No blame."}
+        ]
+    },
+    "Jié (節)": {
+        "guaText": "Jie: Success. Bitter limitation cannot be persevered.",
+        "explanation": "Jie: Success. Firm and yielding divide, and the firm obtains the center. 'Bitter limitation cannot be persevered'—its way is exhausted. Joy in carrying out the firm, not attacking the solid. 'It furthers one to have somewhere to go'—firm and yielding correspond.",
+        "yaoTexts": [
+            {"position": "Nine at the beginning", "text": "Not going out of the courtyard and gate. No blame."},
+            {"position": "Nine in the second place", "text": "Not going out of the gate and courtyard. Misfortune."},
+            {"position": "Six in the third place", "text": "If there is no limitation, then there will be lamenting. No blame."},
+            {"position": "Six in the fourth place", "text": "Content limitation. Success."},
+            {"position": "Nine in the fifth place", "text": "Sweet limitation. Good fortune. Going brings esteem."},
+            {"position": "Six at the top", "text": "Bitter limitation. Perseverance brings misfortune. Remorse disappears."}
+        ]
+    },
+    "Zhōng Fú (中孚)": {
+        "guaText": "Zhong Fu: Pigs and fishes. Good fortune. It furthers one to cross the great water. Perseverance furthers.",
+        "explanation": "Zhong Fu: The yielding is within and the firm obtains the center. Joy and gentleness. Sincerity, then transforms the country. 'Pigs and fishes. Good fortune'—faith reaches even pigs and fishes. 'It furthers one to cross the great water'—riding on an empty wooden boat. Zhong Fu (Inner Truth) with furthering perseverance, then responds to Heaven.",
+        "yaoTexts": [
+            {"position": "Nine at the beginning", "text": "Being prepared brings good fortune. If there are other intentions, restlessness."},
+            {"position": "Nine in the second place", "text": "Crane calling in the shade. Its young answers it. I have a good goblet. I will share it with you."},
+            {"position": "Six in the third place", "text": "Finds an adversary. Now drumming, now stopping, now crying, now singing."},
+            {"position": "Six in the fourth place", "text": "The moon is almost full. The team horse is lost. No blame."},
+            {"position": "Nine in the fifth place", "text": "Having sincerity that links. No blame."},
+            {"position": "Nine at the top", "text": "Cock crow ascends to heaven. Perseverance brings misfortune."}
+        ]
+    },
+    "Xiǎo Guò (小過)": {
+        "guaText": "Xiao Guo: Success. Perseverance furthers. Small things may be done, great things should not be done. The flying bird leaves its sound. It is not meet to go up; it is meet to go down. Great good fortune.",
+        "explanation": "Xiao Guo: The small is in excess and has success. Excess with furthering perseverance, acts according to the time. The yielding obtains the center, hence 'in small things, good fortune'. The firm loses its place and is not central, hence 'great things should not be done'. Has the image of a flying bird. 'The flying bird leaves its sound. It is not meet to go up; it is meet to go down. Great good fortune'; going up is going against the stream, going down is obeying.",
+        "yaoTexts": [
+            {"position": "Six at the beginning", "text": "Flying bird brings misfortune."},
+            {"position": "Six in the second place", "text": "Passes by his grandfather, meets his grandmother. Does not reach his lord, meets his minister. No blame."},
+            {"position": "Nine in the third place", "text": "If one is not extremely careful, someone may attack him from behind. Misfortune."},
+            {"position": "Nine in the fourth place", "text": "No blame. Meets him without excess. Going brings danger, must be cautious. Do not use eternal perseverance."},
+            {"position": "Six in the fifth place", "text": "Dense clouds, no rain from our western outskirts. The prince shoots and takes the one in the cave."},
+            {"position": "Six at the top", "text": "Not meeting him, passes him by. Flying bird departs from him. Misfortune. This is called disaster and calamity."}
+        ]
+    },
+    "Jì Jì (既濟)": {
+        "guaText": "Ji Ji: Success. Small advantage in perseverance. At the beginning good fortune, at the end disorder.",
+        "explanation": "Ji Ji: Success. The small has success. 'Perseverance furthers'—firm and yielding are correct and the positions are appropriate. 'At the beginning good fortune'—the yielding obtains the center. 'Stopping at the end brings disorder'—its way is exhausted.",
+        "yaoTexts": [
+            {"position": "Nine at the beginning", "text": "Drags his wheels. Wets his tail. No blame."},
+            {"position": "Six in the second place", "text": "The woman loses the curtain of her carriage. Do not run after it; on the seventh day she will get it."},
+            {"position": "Nine in the third place", "text": "The High Ancestor attacked the Devil's Country. After three years he conquered it. Do not employ small people."},
+            {"position": "Six in the fourth place", "text": "The boat has leaks. Use rags to stop them. Remain alert all day long."},
+            {"position": "Nine in the fifth place", "text": "The eastern neighbor who slaughters an ox is not as good as the western neighbor with his small offering in receiving true blessing."},
+            {"position": "Six at the top", "text": "Wets his head. Danger."}
+        ]
+    },
+    "Wèi Jì (未濟)": {
+        "guaText": "Wei Ji: Success. The little fox, almost completing the crossing, gets his tail wet. Nothing furthers.",
+        "explanation": "Wei Ji: Success. The yielding obtains the center. 'The little fox, almost completing the crossing'—has not yet emerged from the middle. 'Gets his tail wet. Nothing furthers'—does not continue to the end. Although the positions are not appropriate, firm and yielding correspond.",
+        "yaoTexts": [
+            {"position": "Six at the beginning", "text": "Gets his tail wet. Humiliation."},
+            {"position": "Nine in the second place", "text": "Drags his wheels. Perseverance brings good fortune."},
+            {"position": "Six in the third place", "text": "Not yet completed. To advance brings misfortune. It furthers one to cross the great water."},
+            {"position": "Nine in the fourth place", "text": "Perseverance brings good fortune. Remorse disappears. Zhen used force to attack the Devil's Country. In three years he was rewarded with great kingdoms."},
+            {"position": "Six in the fifth place", "text": "Perseverance brings good fortune. No remorse. The light of the superior man is true. Good fortune."},
+            {"position": "Nine at the top", "text": "Drinks wine with sincerity. No blame. Wets his head. Sincerity, but loses the truth."}
+        ]
+    },
+    "Sǔn (損)": {
+        "guaText": "Sun: If you are sincere, sublime good fortune. No blame. Can be persevered. It furthers one to have somewhere to go. How to use it? Two small bowls may be used for the offering.",
+        "explanation": "Sun: Diminishing below to increase above. Its way ascends. Sun means decrease/moderation. 'Diminish and have sincerity, sublime good fortune, no blame, can be persevered, it furthers one to have somewhere to go'. 'How to use it? Two small bowls may be used for the offering'. Two bowls should be appropriate to the time. Diminishing the firm to increase the yielding has its time. Decrease and increase, fullness and emptiness, go together with time.",
+        "yaoTexts": [
+            {"position": "Nine at the beginning", "text": "Ending affairs quickly and going away. No blame. Consider diminishing it."},
+            {"position": "Nine in the second place", "text": "Perseverance furthers. To advance brings misfortune. Without diminishing it, increase it."},
+            {"position": "Six in the third place", "text": "When three people journey together, they lose one. When one person journeys alone, he finds a companion."},
+            {"position": "Six in the fourth place", "text": "Diminish his ailment. Makes joy come quickly. No blame."},
+            {"position": "Six in the fifth place", "text": "Someone increases him. Ten pairs of tortoise shells cannot oppose it. Sublime good fortune."},
+            {"position": "Nine at the top", "text": "Without diminishing it, increase it. No blame. Perseverance brings good fortune. It furthers one to have somewhere to go. One obtains servants, but no house."}
+        ]
+    },
+    "Yì (益)": {
+        "guaText": "Yi: It furthers one to have somewhere to go. It furthers one to cross the great water.",
+        "explanation": "Yi: Diminishing above to increase below. The people rejoice without limit. Descending from above to below, its way shines greatly. 'It furthers one to have somewhere to go'—central and correct brings celebration. 'It furthers one to cross the great water'—the way of wood (boat) proceeds. Yi is movement and gentleness, daily progress without limit. Heaven bestows, Earth produces, its increase has no bounds. Every way of increase goes together with time.",
+        "yaoTexts": [
+            {"position": "Nine at the beginning", "text": "It is favorable to use it for great works. Sublime good fortune. No blame."},
+            {"position": "Six in the second place", "text": "Someone increases him. Ten pairs of tortoise shells cannot oppose it. Eternal perseverance brings good fortune. The king uses it to offer sacrifice to the Emperor. Good fortune."},
+            {"position": "Six in the third place", "text": "Increased through unfortunate events. No blame. If you are sincere and walk in the middle, report to the prince using a jade tablet."},
+            {"position": "Six in the fourth place", "text": "If you walk in the middle, report to the prince and he will follow. It is favorable to be used in moving the capital."},
+            {"position": "Nine in the fifth place", "text": "If you have a sincere and benevolent heart, do not ask. Sublime good fortune. You will have sincerity toward my virtue."},
+            {"position": "Nine at the top", "text": "No one increases him. Someone strikes him. Keeping the heart inconsistent brings misfortune."}
+        ]
+    }
+}

@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>六十四卦顺序检查工具</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        body {
+            font-family: 'Microsoft YaHei', Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+            background-color: #f5f5f5;
+            color: #333;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #444;
+            text-align: center;
+            border-bottom: 1px solid #eee;
+            padding-bottom: 10px;
+        }
+        .control-panel {
+            margin-bottom: 20px;
+            padding: 15px;
+            background-color: #f9f9f9;
+            border-radius: 5px;
+        }
+        .language-selector {
+            margin-bottom: 15px;
+        }
+        select, button {
+            padding: 8px 12px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            background-color: #fff;
+            font-size: 14px;
+        }
+        button {
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+        button:hover {
+            background-color: #45a049;
+        }
+        .result {
+            margin-top: 20px;
+            padding: 15px;
+            border-radius: 5px;
+        }
+        .success {
+            background-color: #dff0d8;
+            border: 1px solid #d6e9c6;
+            color: #3c763d;
+        }
+        .error {
+            background-color: #f2dede;
+            border: 1px solid #ebccd1;
+            color: #a94442;
+        }
+        .warning {
+            background-color: #fcf8e3;
+            border: 1px solid #faebcc;
+            color: #8a6d3b;
+        }
+        ul {
+            margin-top: 10px;
+            padding-left: 20px;
+        }
+        .standard-order {
+            margin-top: 20px;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+        .hexagram-item {
+            background-color: #f1f1f1;
+            padding: 5px 10px;
+            border-radius: 3px;
+            font-size: 14px;
+        }
+        
+        /* 导航样式 */
+        .navigation {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 20px;
+        }
+        
+        .nav-button {
+            background-color: #8B4513;
+            color: white;
+            text-decoration: none;
+            padding: 8px 15px;
+            border-radius: 5px;
+            transition: background-color 0.3s, transform 0.2s;
+            font-weight: bold;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+            display: inline-block;
+        }
+        
+        .nav-button:hover {
+            background-color: #A52A2A;
+            transform: translateY(-2px);
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+        
+        .language-switcher {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: flex-end;
+            gap: 5px;
+        }
+        
+        .language-btn {
+            background-color: #8d6b53;
+            border: 0px solid #ddd;
+            padding: 5px 10px;
+            border-radius: 4px;
+            cursor: pointer;
+            transition: all 0.2s;
+            width: 100px;
+            height: 32px;
+            text-align: center;
+            color: white;
+        }
+        
+        .language-btn:hover {
+            background-color: #ffa424;
+        }
+        
+        .language-btn.active {
+            background-color: #8B4513;
+            color: white;
+            border-color: #8B4513;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <nav class="navigation">
+            <a href="index.html" class="nav-button">返回排卦系统</a>
+            <div class="language-switcher">
+                <button class="language-btn" data-lang="zh-CN">简体中文</button>
+                <button class="language-btn" data-lang="zh-TW">繁體中文</button>
+                <button class="language-btn" data-lang="en">English</button>
+                <button class="language-btn" data-lang="ja">日本語</button>
+                <button class="language-btn" data-lang="ko">한국어</button>
+                <button class="language-btn" data-lang="es">Español</button>
+            </div>
+        </nav>
+        
+        <h1>六十四卦顺序检查工具</h1>
+        
+        <div class="control-panel">
+            <div class="language-selector">
+                <label for="language">选择语言：</label>
+                <select id="language">
+                    <option value="zh-CN">简体中文</option>
+                    <option value="zh-TW">繁体中文</option>
+                    <option value="en">英文</option>
+                    <option value="ja">日文</option>
+                    <option value="ko">韩文</option>
+                </select>
+            </div>
+            <button id="check-button">检查卦序</button>
+        </div>
+        
+        <div id="result-container"></div>
+        
+        <div class="standard-order">
+            <h3>标准卦序参考：</h3>
+            <div id="standard-hexagram-list"></div>
+        </div>
+    </div>
+
+    <script src="js/hexagramOrderChecker.js"></script>
+    <script src="data/langLoader.js"></script>
+    <script src="js/language-switcher.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            // 显示标准卦序
+            const standardList = document.getElementById('standard-hexagram-list');
+            window.hexagramOrderChecker.standardHexagramOrder.forEach((name, index) => {
+                const hexagramItem = document.createElement('div');
+                hexagramItem.className = 'hexagram-item';
+                hexagramItem.textContent = `${index + 1}. ${name}`;
+                standardList.appendChild(hexagramItem);
+            });
+            
+            // 检查按钮绑定事件
+            document.getElementById('check-button').addEventListener('click', async function() {
+                const language = document.getElementById('language').value;
+                const resultContainer = document.getElementById('result-container');
+                
+                resultContainer.innerHTML = '<div class="result">检查中...</div>';
+                
+                try {
+                    const result = await window.hexagramOrderChecker.loadAndCheckHexagramOrder(`data/lang/${language}/hexagrams.json`);
+                    
+                    let resultHTML = '';
+                    if (result.error) {
+                        resultHTML = `
+                            <div class="result error">
+                                <h3>检查出错</h3>
+                                <p>${result.error}</p>
+                            </div>
+                        `;
+                    } else if (result.isCorrect) {
+                        resultHTML = `
+                            <div class="result success">
+                                <h3>检查通过</h3>
+                                <p>恭喜！${language}语言的六十四卦顺序完全正确。</p>
+                            </div>
+                        `;
+                    } else {
+                        resultHTML = `<div class="result error"><h3>检查未通过</h3>`;
+                        
+                        if (result.missing.length > 0) {
+                            resultHTML += `<p>缺少以下卦象：</p><ul>`;
+                            result.missing.forEach(name => {
+                                resultHTML += `<li>${name}</li>`;
+                            });
+                            resultHTML += `</ul>`;
+                        }
+                        
+                        if (result.extra.length > 0) {
+                            resultHTML += `<p>存在以下多余卦象：</p><ul>`;
+                            result.extra.forEach(name => {
+                                resultHTML += `<li>${name}</li>`;
+                            });
+                            resultHTML += `</ul>`;
+                        }
+                        
+                        if (result.wrongOrder.length > 0) {
+                            resultHTML += `<p>以下卦象顺序有误：</p><ul>`;
+                            result.wrongOrder.forEach(item => {
+                                resultHTML += `<li>${item.name} - 当前位置: ${item.currentPosition + 1}, 应在位置: ${item.expectedPosition + 1}</li>`;
+                            });
+                            resultHTML += `</ul>`;
+                        }
+                        
+                        resultHTML += `</div>`;
+                    }
+                    
+                    resultContainer.innerHTML = resultHTML;
+                } catch (error) {
+                    resultContainer.innerHTML = `
+                        <div class="result error">
+                            <h3>检查出错</h3>
+                            <p>${error.message || '未知错误'}</p>
+                        </div>
+                    `;
+                }
+            });
+        });
+    </script>
+</body>
+</html> 

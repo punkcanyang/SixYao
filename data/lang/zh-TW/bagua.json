@@ -1,0 +1,10 @@
+[
+    { "name": "乾", "symbol": "☰", "nature": "天", "binary": "111" },
+    { "name": "兌", "symbol": "☱", "nature": "澤", "binary": "110" },
+    { "name": "離", "symbol": "☲", "nature": "火", "binary": "101" },
+    { "name": "震", "symbol": "☳", "nature": "雷", "binary": "100" },
+    { "name": "巽", "symbol": "☴", "nature": "風", "binary": "011" },
+    { "name": "坎", "symbol": "☵", "nature": "水", "binary": "010" },
+    { "name": "艮", "symbol": "☶", "nature": "山", "binary": "001" },
+    { "name": "坤", "symbol": "☷", "nature": "地", "binary": "000" }
+] 

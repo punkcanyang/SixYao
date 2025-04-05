@@ -1,0 +1,770 @@
+{
+    "Qián (乾)": {
+        "guaText": "Qian: Sublime éxito, ventajosa es la perseverancia.",
+        "explanation": "¡Grande en verdad es lo Creativo, origen de todos los seres, que impregna todo el cielo! Las nubes pasan, la lluvia actúa, y todas las cosas fluyen en sus formas. Brillando grandemente desde el principio hasta el fin, las seis posiciones se completan a su debido tiempo. A su tiempo, monta los seis dragones para surcar los cielos. El Camino de Qian trae cambio y transformación, para que cada ser alcance su verdadera naturaleza y destino, manteniendo la armonía con la Gran Armonía. Así se manifiesta su ventaja y perseverancia. Se eleva por encima de la multitud de seres, y todas las naciones gozan de paz.",
+        "yaoTexts": [
+            {"position": "Nueve al principio", "text": "Dragón oculto. No actuar."},
+            {"position": "Nueve en el segundo puesto", "text": "Dragón aparece en el campo. Es ventajoso ver al gran hombre."},
+            {"position": "Nueve en el tercer puesto", "text": "El noble es creativo y activo todo el día, y al atardecer sigue vigilante y cauteloso como si hubiera peligro. Sin tacha."},
+            {"position": "Nueve en el cuarto puesto", "text": "Vacilación al saltar sobre el abismo. Sin tacha."},
+            {"position": "Nueve en el quinto puesto", "text": "Dragón volando en el cielo. Es ventajoso ver al gran hombre."},
+            {"position": "Nueve arriba", "text": "Dragón arrogante tendrá motivo de arrepentimiento."}
+        ]
+    },
+    "Kūn (坤)": {
+        "guaText": "Kun: Sublime éxito. Ventajosa es la perseverancia de una yegua. Si el noble tiene una empresa, al principio se extravía, pero luego encuentra guía. Es ventajoso encontrar amigos en el suroeste y perder amigos en el noreste. La calma perseverancia trae buena fortuna.",
+        "explanation": "¡Perfecta en verdad es la receptividad de Kun, de la que todos los seres reciben su nacimiento! Obedientemente recibe las influencias del Cielo. Kun, en su amplitud, sostiene todas las cosas. Su virtud concuerda sin límites. Abarca todo en su magnificencia y brilla con grandeza. Todas las cosas alcanzan la prosperidad. La yegua pertenece a la categoría de la tierra; viaja por la tierra sin límites. Es dócil, devota, ventajosa y perseverante. El noble, en su empresa, primero se extravía pero luego sigue el camino correcto. Encontrar amigos en el suroeste significa caminar con los de su clase; perder amigos en el noreste significa que al final habrá motivo de celebración. La buena fortuna de la calma perseverancia corresponde a la naturaleza ilimitada de la tierra.",
+        "yaoTexts": [
+            {"position": "Seis al principio", "text": "Cuando se pisa la escarcha, el hielo sólido está cerca."},
+            {"position": "Seis en el segundo puesto", "text": "Recto, cuadrado, grande. Sin propósito, pero nada queda sin hacer."},
+            {"position": "Seis en el tercer puesto", "text": "Líneas ocultas. Capaz de perseverar. Si sirves a un rey, no busques mérito, pero lleva la obra a término."},
+            {"position": "Seis en el cuarto puesto", "text": "Una bolsa atada. Ni culpa ni elogio."},
+            {"position": "Seis en el quinto puesto", "text": "Una falda amarilla. Sublime buena fortuna."},
+            {"position": "Seis arriba", "text": "Dragones luchan en el prado. Su sangre es negra y amarilla."}
+        ]
+    },
+    "Zhūn (屯)": {
+        "guaText": "Zhun: Sublime éxito, ventajosa es la perseverancia. No emprendas nada. Es ventajoso nombrar ayudantes.",
+        "explanation": "Zhun: La interacción inicial de lo firme y lo flexible produce dificultad. Movimiento en medio del peligro trae gran éxito y perseverancia. El movimiento del trueno y la lluvia llena todo. En medio del caos primordial creado por el cielo, es apropiado establecer ayudantes, pero aún no hay tranquilidad.",
+        "yaoTexts": [
+            {"position": "Nueve al principio", "text": "Vacilación y obstrucción. Es ventajoso permanecer perseverante. Es ventajoso nombrar ayudantes."},
+            {"position": "Seis en el segundo puesto", "text": "Dificultades se acumulan, caballo y carro se separan. No es un ladrón, sino un pretendiente. La doncella es casta, no se compromete. Diez años, luego se compromete."},
+            {"position": "Seis en el tercer puesto", "text": "Quien caza ciervos sin guardabosques solo se adentra en el bosque. El noble entiende los signos y prefiere desistir. Continuar trae humillación."},
+            {"position": "Seis en el cuarto puesto", "text": "Caballo y carro se separan. Busca la unión. Ir trae buena fortuna. Nada que no sea ventajoso."},
+            {"position": "Nueve en el quinto puesto", "text": "Dificultades en la bendición. Pequeña perseverancia trae buena fortuna, gran perseverancia trae mala fortuna."},
+            {"position": "Seis arriba", "text": "Caballo y carro se separan. Lágrimas de sangre fluyen."}
+        ]
+    },
+    "Méng (蒙)": {
+        "guaText": "Meng: Éxito. No soy yo quien busca al joven inexperto, el joven inexperto me busca a mí. A la primera consulta, informo. Si pregunta dos o tres veces, es importunidad. Si importuna, no informo. Ventajosa es la perseverancia.",
+        "explanation": "Meng: Peligro al pie de la montaña; detenerse ante el peligro es Meng (inexperiencia). Meng tiene éxito porque actuar con éxito es oportuno y centrado. 'No soy yo quien busca al joven inexperto, el joven inexperto me busca a mí', la voluntad responde. 'A la primera consulta, informo', porque es firme y central. 'Si pregunta dos o tres veces, es importunidad. Si importuna, no informo', porque importunar es necedad. Educar en la rectitud a través de la necedad es la obra del sabio.",
+        "yaoTexts": [
+            {"position": "Seis al principio", "text": "Para disipar la necedad, es ventajoso usar castigos, quitar grilletes y cadenas. Ir de esta manera trae humillación."},
+            {"position": "Nueve en el segundo puesto", "text": "Soportar al necio con amabilidad trae buena fortuna. Tomar esposa trae buena fortuna. El hijo es capaz de dirigir la casa."},
+            {"position": "Seis en el tercer puesto", "text": "No tomes a una mujer que, al ver a un hombre de bronce, pierde el dominio de sí misma. Nada es ventajoso."},
+            {"position": "Seis en el cuarto puesto", "text": "Enredado en la necedad. Humillación."},
+            {"position": "Seis en el quinto puesto", "text": "Necedad infantil. Buena fortuna."},
+            {"position": "Nueve arriba", "text": "Castigar la necedad. No es ventajoso ser agresor, es ventajoso prevenir la agresión."}
+        ]
+    },
+    "Xū (需)": {
+        "guaText": "Xu: Si eres sincero, tienes luz y éxito. La perseverancia trae buena fortuna. Es ventajoso cruzar la gran agua.",
+        "explanation": "Xu significa esperar. El peligro está adelante. Firme y fuerte, no cae en la trampa; su significado no es de confusión ni pobreza. 'Xu tiene sinceridad, luz y éxito, la perseverancia trae buena fortuna', la posición está en el lugar celestial (quinto lugar), con corrección y centralidad. 'Es ventajoso cruzar la gran agua', ir adelante trae logros.",
+        "yaoTexts": [
+            {"position": "Nueve al principio", "text": "Esperando en las afueras. Es ventajoso usar la constancia. Sin tacha."},
+            {"position": "Nueve en el segundo puesto", "text": "Esperando en la arena. Hay pequeñas habladurías. Al final, buena fortuna."},
+            {"position": "Nueve en el tercer puesto", "text": "Esperando en el lodo, atrae la llegada de los enemigos."},
+            {"position": "Seis en el cuarto puesto", "text": "Esperando en la sangre. Salir del agujero."},
+            {"position": "Nueve en el quinto puesto", "text": "Esperando con vino y comida. La perseverancia trae buena fortuna."},
+            {"position": "Seis arriba", "text": "Entrar en el agujero. Vienen tres huéspedes inesperados. Recíbelos con respeto. Al final, buena fortuna."}
+        ]
+    },
+    "Sòng (訟)": {
+        "guaText": "Song: Eres sincero, pero obstruido. Cautela en el medio trae buena fortuna. El final trae mala fortuna. Es ventajoso ver al gran hombre. No es ventajoso cruzar la gran agua.",
+        "explanation": "Song: Arriba firme, abajo peligroso; peligroso y fuerte es Song (conflicto). 'Song tiene sinceridad, obstrucción, cautela, buena fortuna en el medio', lo firme viene y obtiene el centro (nueve en el segundo). 'El final trae mala fortuna', el conflicto no debe llevarse a término. 'Es ventajoso ver al gran hombre', se valora la centralidad y la corrección. 'No es ventajoso cruzar la gran agua', es entrar en el abismo.",
+        "yaoTexts": [
+            {"position": "Seis al principio", "text": "No perpetuar el asunto. Hay pequeñas habladurías. Al final, buena fortuna."},
+            {"position": "Nueve en el segundo puesto", "text": "Incapaz de entrar en conflicto, regresa y huye. La gente de su ciudad, trescientas familias, permanecen libres de culpa."},
+            {"position": "Seis en el tercer puesto", "text": "Alimentarse de la virtud antigua. Perseverancia peligrosa. Al final, buena fortuna. O seguir al servicio del rey, sin buscar logros."},
+            {"position": "Nueve en el cuarto puesto", "text": "Incapaz de entrar en conflicto. Se vuelve hacia el destino, cambia y descansa en la perseverancia. Buena fortuna."},
+            {"position": "Nueve en el quinto puesto", "text": "Conflicto. Sublime buena fortuna."},
+            {"position": "Nueve arriba", "text": "Incluso si se le concede un cinturón de cuero, al final del día le será arrebatado tres veces."}
+        ]
+    },
+    "Shī (師)": {
+        "guaText": "Shi: Perseverancia. El hombre experimentado trae buena fortuna. Sin tacha.",
+        "explanation": "Shi: Multitud, perseverancia significa corrección. Poder guiar a la multitud con corrección permite reinar. Firme en el centro y respondido, actuando peligrosamente pero con obediencia. Con esto, disciplina al mundo y el pueblo lo sigue. Buena fortuna, ¿qué culpa podría haber?",
+        "yaoTexts": [
+            {"position": "Seis al principio", "text": "Un ejército debe partir en orden. Si el orden no es bueno, mala fortuna."},
+            {"position": "Nueve en el segundo puesto", "text": "Estar en medio del ejército. Buena fortuna. Sin tacha. El rey concede triple condecoración."},
+            {"position": "Seis en el tercer puesto", "text": "El ejército tal vez transporte cadáveres en el carro. Mala fortuna."},
+            {"position": "Seis en el cuarto puesto", "text": "El ejército se retira. Sin tacha."},
+            {"position": "Seis en el quinto puesto", "text": "Hay caza en el campo. Es ventajoso atraparla. Sin tacha. Que el hijo mayor dirija el ejército. Si el menor transporta cadáveres, la perseverancia trae mala fortuna."},
+            {"position": "Seis arriba", "text": "El gran príncipe emite órdenes, funda estados, establece familias. No se debe emplear a gente pequeña."}
+        ]
+    },
+    "Bǐ (比)": {
+        "guaText": "Bi: Buena fortuna. Consulta el oráculo una vez más. Sublime, eterno, perseverante. Sin tacha. Los inquietos se acercan gradualmente. El que llega tarde tiene mala fortuna.",
+        "explanation": "Bi es buena fortuna. Bi significa ayudar, abajo son obedientes y siguen. 'Consulta el oráculo una vez más, sublime, eterno, perseverante, sin tacha', debido a la firmeza central (nueve en el quinto). 'Los inquietos se acercan gradualmente', arriba y abajo se corresponden. 'El que llega tarde tiene mala fortuna', su camino está agotado.",
+        "yaoTexts": [
+            {"position": "Seis al principio", "text": "Aférrate a él con sinceridad. Sin tacha. Si la sinceridad llena la vasija como una jarra de barro, al final vendrá otra buena fortuna."},
+            {"position": "Seis en el segundo puesto", "text": "Aférrate a él desde dentro. La perseverancia trae buena fortuna."},
+            {"position": "Seis en el tercer puesto", "text": "Te aferras a la gente equivocada."},
+            {"position": "Seis en el cuarto puesto", "text": "Aférrate a él externamente. La perseverancia trae buena fortuna."},
+            {"position": "Nueve en el quinto puesto", "text": "Manifestación de la unión. El rey usa batidores en tres lados y deja escapar la caza que está delante. Los ciudadanos no necesitan advertencia. Buena fortuna."},
+            {"position": "Seis arriba", "text": "Se aferra a él sin cabeza. Mala fortuna."}
+        ]
+    },
+    "Xiǎo Xù (小畜)": {
+        "guaText": "Xiao Chu: Éxito. Nubes densas, sin lluvia desde nuestro suburbio occidental.",
+        "explanation": "Xiao Chu: Lo flexible obtiene la posición y es respondido por arriba y abajo, se llama Xiao Chu (La domesticación de lo pequeño). Fuerte pero gentil, firme en el centro y la voluntad se realiza, por eso hay éxito. 'Nubes densas, sin lluvia', el movimiento aún continúa. 'Desde nuestro suburbio occidental', la acción aún no se ha llevado a cabo.",
+        "yaoTexts": [
+            {"position": "Nueve al principio", "text": "Regreso al camino. ¿Cómo podría ser una culpa? Buena fortuna."},
+            {"position": "Nueve en el segundo puesto", "text": "Es arrastrado de vuelta. Buena fortuna."},
+            {"position": "Nueve en el tercer puesto", "text": "Los radios se desprenden del carro. Marido y mujer se miran con enfado."},
+            {"position": "Seis en el cuarto puesto", "text": "Si eres sincero, la sangre se va y el miedo se aleja. Sin tacha."},
+            {"position": "Nueve en el quinto puesto", "text": "Si eres sincero y estás unido, eres rico junto con tu vecino."},
+            {"position": "Nueve arriba", "text": "La lluvia ha llegado, el descanso ha llegado. Se valora la virtud acumulada. Para la mujer, la perseverancia es peligrosa. La luna está casi llena. Si el noble avanza, mala fortuna."}
+        ]
+    },
+    "Lǚ (履)": {
+        "guaText": "Lü: Pisar la cola del tigre. No muerde al hombre. Éxito.",
+        "explanation": "Lü: Lo flexible pisa sobre lo firme. Agradable y respondiendo a Qian (Lo Creativo), por eso 'Pisar la cola del tigre. No muerde al hombre. Éxito'. Firme, central y correcto, pisa la posición imperial sin culpa, es luminoso.",
+        "yaoTexts": [
+            {"position": "Nueve al principio", "text": "Conducta simple. Avanzar sin tacha."},
+            {"position": "Nueve en el segundo puesto", "text": "Pisar un camino llano y fácil. La perseverancia de un hombre solitario trae buena fortuna."},
+            {"position": "Seis en el tercer puesto", "text": "Un tuerto puede ver, un cojo puede caminar. Pisa la cola del tigre. Muerde al hombre. Mala fortuna. Un guerrero actúa para un gran príncipe."},
+            {"position": "Nueve en el cuarto puesto", "text": "Pisa la cola del tigre. Cautela y circunspección. Al final, buena fortuna."},
+            {"position": "Nueve en el quinto puesto", "text": "Pisar resuelto. Perseverancia con conciencia del peligro."},
+            {"position": "Nueve arriba", "text": "Observa tu conducta y examina los presagios favorables. Si todo está completo, sublime buena fortuna."}
+        ]
+    },
+    "Tài (泰)": {
+        "guaText": "Tai: Lo pequeño se va, lo grande viene. Buena fortuna. Éxito.",
+        "explanation": "Tai: 'Lo pequeño se va, lo grande viene. Buena fortuna. Éxito'. Entonces, el Cielo y la Tierra interactúan y todos los seres se comunican. Arriba y abajo interactúan y sus voluntades son las mismas. Interior Yang y exterior Yin, interior fuerte y exterior obediente, interior noble y exterior gente pequeña. El camino del noble crece, el camino de la gente pequeña mengua.",
+        "yaoTexts": [
+            {"position": "Nueve al principio", "text": "Arrancando hierba de茅, junto con otras de su especie. Avanzar trae buena fortuna."},
+            {"position": "Nueve en el segundo puesto", "text": "Soportando lo inculto, usando la determinación para cruzar el río, sin descuidar lo lejano, los amigos desaparecen. Ganas honor en el camino medio."},
+            {"position": "Nueve en el tercer puesto", "text": "No hay llanura sin pendiente, no hay ida sin retorno. La perseverancia en la dificultad evita la culpa. No te lamentes de tu sinceridad, tendrás bendiciones en la comida."},
+            {"position": "Seis en el cuarto puesto", "text": "Revolotea, no rico con su vecino, sin警戒 con sinceridad."},
+            {"position": "Seis en el quinto puesto", "text": "El Emperador Yi da a su hija en matrimonio. Por esto, bendiciones y sublime buena fortuna."},
+            {"position": "Seis arriba", "text": "La muralla cae de nuevo al foso. No uses el ejército. Declara órdenes desde tu propia ciudad. La perseverancia trae humillación."}
+        ]
+    },
+    "Pǐ (否)": {
+        "guaText": "Pi: El estancamiento no es humano. No es ventajosa la perseverancia del noble. Lo grande se va, lo pequeño viene.",
+        "explanation": "'El estancamiento no es humano. No es ventajosa la perseverancia del noble. Lo grande se va, lo pequeño viene'. Entonces, el Cielo y la Tierra no interactúan y todos los seres no se comunican. Arriba y abajo no interactúan y no hay estado en el mundo. Interior Yin y exterior Yang, interior flexible y exterior firme, interior gente pequeña y exterior noble. El camino de la gente pequeña crece, el camino del noble mengua.",
+        "yaoTexts": [
+            {"position": "Seis al principio", "text": "Arrancando hierba de茅, junto con otras de su especie. La perseverancia trae buena fortuna y éxito."},
+            {"position": "Seis en el segundo puesto", "text": "Envuelven y soportan. Para la gente pequeña, buena fortuna. Para el gran hombre, estancamiento y éxito."},
+            {"position": "Seis en el tercer puesto", "text": "Envuelven la vergüenza."},
+            {"position": "Nueve en el cuarto puesto", "text": "Actúa según el mandato, sin tacha. Los compañeros se aferran a las bendiciones."},
+            {"position": "Nueve en el quinto puesto", "text": "Cesa el estancamiento. Para el gran hombre, buena fortuna. '¡Que perezca, que perezca!' Así se ata a un grupo de moreras."},
+            {"position": "Nueve arriba", "text": "Se derriba el estancamiento. Primero estancamiento, luego alegría."}
+        ]
+    },
+    "Tóng Rén (同人)": {
+        "guaText": "Tong Ren: Comunidad con los hombres en campo abierto. Éxito. Es ventajoso cruzar la gran agua. Es ventajosa la perseverancia del noble.",
+        "explanation": "Tong Ren: Aquellos con quienes uno se asocia son los mismos que los de arriba. Tong Ren dice: 'Comunidad con los hombres en campo abierto. Éxito. Es ventajoso cruzar la gran agua', es la acción de Qian (Lo Creativo). Civilizado y fuerte, central, correcto y respondido, es la corrección del noble. Solo el noble puede comprender y unir las voluntades de todo el mundo.",
+        "yaoTexts": [
+            {"position": "Nueve al principio", "text": "Comunidad con los hombres en la puerta. Sin tacha."},
+            {"position": "Seis en el segundo puesto", "text": "Comunidad con los hombres en el clan. Humillación."},
+            {"position": "Nueve en el tercer puesto", "text": "Esconde armas en la maleza, sube a su alta colina. Durante tres años no se levanta."},
+            {"position": "Nueve en el cuarto puesto", "text": "Monta su muralla, pero no puede atacar. Buena fortuna."},
+            {"position": "Nueve en el quinto puesto", "text": "Comunidad con los hombres. Primero llora y gime, luego ríe. Grandes ejércitos logran encontrarse."},
+            {"position": "Nueve arriba", "text": "Comunidad con los hombres en las afueras. Sin arrepentimiento."}
+        ]
+    },
+    "Dà Yǒu (大有)": {
+        "guaText": "Da You: Sublime éxito.",
+        "explanation": "Da You: Lo flexible obtiene la posición venerable, gran centralidad, y arriba y abajo le responden, se llama Da You (Gran Posesión). Su virtud es firme, fuerte y civilizada, responde al Cielo y actúa oportunamente, por eso 'Sublime éxito'.",
+        "yaoTexts": [
+            {"position": "Nueve al principio", "text": "Sin relación con lo dañino. No es una culpa. Si se es consciente de las dificultades, se permanece sin culpa."},
+            {"position": "Nueve en el segundo puesto", "text": "Un gran carro para cargar. Hay un lugar a donde ir. Sin tacha."},
+            {"position": "Nueve en el tercer puesto", "text": "Un príncipe ofrece al Hijo del Cielo. La gente pequeña no puede hacerlo."},
+            {"position": "Nueve en el cuarto puesto", "text": "No su pompa. Sin tacha."},
+            {"position": "Seis en el quinto puesto", "text": "Su sinceridad es accesible pero digna. Buena fortuna."},
+            {"position": "Nueve arriba", "text": "Es bendecido por el Cielo. Buena fortuna. Nada que no sea ventajoso."}
+        ]
+    },
+    "Qiān (謙)": {
+        "guaText": "Qian: Éxito. El noble lleva las cosas a término.",
+        "explanation": "Qian: Éxito. El camino del Cielo desciende para dispensar luz. El camino de la Tierra es humilde y asciende. El Cielo disminuye lo lleno y aumenta lo humilde. La Tierra transforma lo lleno y fluye hacia lo humilde. Los dioses y espíritus dañan lo lleno y bendicen lo humilde. Los hombres odian lo lleno y aman lo humilde. La humildad, en la posición de honor, es luminosa; en la posición humilde, no puede ser superada. Este es el final del noble.",
+        "yaoTexts": [
+            {"position": "Seis al principio", "text": "Un noble humilde y modesto. Es ventajoso cruzar la gran agua. Buena fortuna."},
+            {"position": "Seis en el segundo puesto", "text": "Humildad que se expresa. La perseverancia trae buena fortuna."},
+            {"position": "Nueve en el tercer puesto", "text": "Un noble meritorio y humilde. Lleva las cosas a término. Buena fortuna."},
+            {"position": "Seis en el cuarto puesto", "text": "Nada que no sea ventajoso. Humildad en movimiento."},
+            {"position": "Seis en el quinto puesto", "text": "No jactarse de la riqueza ante el vecino. Es ventajoso atacar e invadir. Nada que no sea ventajoso."},
+            {"position": "Seis arriba", "text": "Humildad que se expresa. Es ventajoso poner en marcha ejércitos para castigar la propia ciudad y país."}
+        ]
+    },
+    "Yù (豫)": {
+        "guaText": "Yu: Es ventajoso nombrar ayudantes y poner en marcha ejércitos.",
+        "explanation": "Yu: Lo firme es respondido y la voluntad se cumple. Obediencia y movimiento es Yu (Entusiasmo). Yu es obediencia y movimiento, por eso el Cielo y la Tierra actúan como él, ¡cuánto más nombrar ayudantes y poner en marcha ejércitos! El Cielo y la Tierra se mueven en obediencia, por eso el sol y la luna no se desvían y las cuatro estaciones no yerran. Los sabios se mueven en obediencia, entonces los castigos son justos y el pueblo obedece. ¡Grande en verdad es el tiempo y el significado de Yu!",
+        "yaoTexts": [
+            {"position": "Seis al principio", "text": "Entusiasmo que se expresa. Mala fortuna."},
+            {"position": "Seis en el segundo puesto", "text": "Firme como una roca. No todo el día. La perseverancia trae buena fortuna."},
+            {"position": "Seis en el tercer puesto", "text": "Entusiasmo que mira hacia arriba. Arrepentimiento. La vacilación trae arrepentimiento."},
+            {"position": "Nueve en el cuarto puesto", "text": "La fuente del entusiasmo. Grandes logros. No dudes. Los amigos se reúnen a tu alrededor como una horquilla sujeta el pelo."},
+            {"position": "Seis en el quinto puesto", "text": "Perseverantemente enfermo, pero no muere."},
+            {"position": "Seis arriba", "text": "Entusiasmo delirante. Pero si cambia, sin tacha."}
+        ]
+    },
+    "Suí (隨)": {
+        "guaText": "Sui: Sublime éxito. Ventajosa es la perseverancia. Sin tacha.",
+        "explanation": "Sui: Lo firme viene y se coloca debajo de lo flexible. Movimiento y alegría es Sui (Seguimiento). Gran éxito, perseverancia, sin tacha, y el mundo sigue al tiempo. ¡Grande en verdad es el tiempo y el significado de Sui!",
+        "yaoTexts": [
+            {"position": "Nueve al principio", "text": "Las normas cambian. La perseverancia trae buena fortuna. Salir por la puerta en compañía trae logros."},
+            {"position": "Seis en el segundo puesto", "text": "Se ata al niño pequeño, pierde al hombre fuerte."},
+            {"position": "Seis en el tercer puesto", "text": "Se ata al hombre fuerte, pierde al niño pequeño. Siguiendo se obtiene lo que se busca. Es ventajoso permanecer perseverante."},
+            {"position": "Nueve en el cuarto puesto", "text": "Seguir trae ganancias. La perseverancia trae mala fortuna. Ser sincero en el camino, con claridad, ¿qué culpa puede haber?"},
+            {"position": "Nueve en el quinto puesto", "text": "Sincero en lo bueno. Buena fortuna."},
+            {"position": "Seis arriba", "text": "Está firmemente atado, y además seguido y sujeto. El rey ofrece un sacrificio en la Montaña del Oeste."}
+        ]
+    },
+    "Gǔ (蠱)": {
+        "guaText": "Gu: Sublime éxito. Es ventajoso cruzar la gran agua. Antes del punto de partida, tres días. Después del punto de partida, tres días.",
+        "explanation": "Gu: Lo firme arriba y lo flexible abajo. Gentil y detenido es Gu (Trabajo en lo echado a perder). Gu, sublime éxito, y el mundo se ordena. 'Es ventajoso cruzar la gran agua', ir adelante implica acción. 'Antes del punto de partida, tres días. Después del punto de partida, tres días', el fin es seguido por un comienzo, es el curso del Cielo.",
+        "yaoTexts": [
+            {"position": "Seis al principio", "text": "Arreglar lo echado a perder por el padre. Si hay un hijo, el padre no tiene culpa. Peligro. Al final, buena fortuna."},
+            {"position": "Nueve en el segundo puesto", "text": "Arreglar lo echado a perder por la madre. No se puede ser perseverante."},
+            {"position": "Nueve en el tercer puesto", "text": "Arreglar lo echado a perder por el padre. Habrá pequeño arrepentimiento. Sin gran culpa."},
+            {"position": "Seis en el cuarto puesto", "text": "Tolerar lo echado a perder por el padre. Al continuar se ve humillación."},
+            {"position": "Seis en el quinto puesto", "text": "Arreglar lo echado a perder por el padre. Se recibe elogio."},
+            {"position": "Nueve arriba", "text": "No sirve a reyes ni señores. Valora más elevado su propio asunto."}
+        ]
+    },
+    "Lín (臨)": {
+        "guaText": "Lin: Sublime éxito. Ventajosa es la perseverancia. Al llegar el octavo mes, habrá mala fortuna.",
+        "explanation": "Lin: Lo firme se infiltra y crece. Alegría y obediencia. Firme en el centro y respondido. Gran éxito a través de la corrección, es el camino del Cielo. 'Al llegar el octavo mes, habrá mala fortuna', el declive no tardará.",
+        "yaoTexts": [
+            {"position": "Nueve al principio", "text": "Acercamiento conjunto. La perseverancia trae buena fortuna."},
+            {"position": "Nueve en el segundo puesto", "text": "Acercamiento conjunto. Buena fortuna. Nada que no sea ventajoso."},
+            {"position": "Seis en el tercer puesto", "text": "Acercamiento complaciente. Nada es ventajoso. Si uno se preocupa por ello, sin tacha."},
+            {"position": "Seis en el cuarto puesto", "text": "Acercamiento completo. Sin tacha."},
+            {"position": "Seis en el quinto puesto", "text": "Acercamiento sabio. Propio de un gran gobernante. Buena fortuna."},
+            {"position": "Seis arriba", "text": "Acercamiento magnánimo. Buena fortuna. Sin tacha."}
+        ]
+    },
+    "Guān (觀)": {
+        "guaText": "Guan: La ablución ha sido hecha, pero aún no la ofrenda. Llenos de confianza lo contemplan.",
+        "explanation": "Gran contemplación arriba. Obediente y gentil. Central y correcto para contemplar el mundo. Guan: 'La ablución ha sido hecha, pero aún no la ofrenda. Llenos de confianza lo contemplan', los de abajo contemplan y son transformados. Contemplar el camino divino del Cielo, y las cuatro estaciones no yerran. Los sabios establecen enseñanzas a través del camino divino, y el mundo obedece.",
+        "yaoTexts": [
+            {"position": "Seis al principio", "text": "Contemplación infantil. Para la gente pequeña, sin tacha. Para el noble, humillación."},
+            {"position": "Seis en el segundo puesto", "text": "Contemplar a través de la rendija. Ventajosa es la perseverancia de una mujer."},
+            {"position": "Seis en el tercer puesto", "text": "Contemplar mi propia vida, avanzar o retroceder."},
+            {"position": "Seis en el cuarto puesto", "text": "Contemplar la luz del reino. Es ventajoso ser huésped del rey."},
+            {"position": "Nueve en el quinto puesto", "text": "Contemplar mi propia vida. El noble está sin tacha."},
+            {"position": "Nueve arriba", "text": "Contemplar su vida. El noble está sin tacha."}
+        ]
+    },
+    "Shì Kè (噬嗑)": {
+        "guaText": "Shi He: Éxito. Es ventajoso usar los procedimientos legales.",
+        "explanation": "Algo en la boca se llama Shi He (La Mordedura Tajante). Morder a través trae éxito. Firme y flexible separados, movimiento y claridad, trueno y relámpago se unen y manifiestan. Lo flexible obtiene el centro y asciende. Aunque no está en la posición correcta, 'Es ventajoso usar los procedimientos legales'.",
+        "yaoTexts": [
+            {"position": "Nueve al principio", "text": "Pies en el cepo, cubren los dedos. Sin tacha."},
+            {"position": "Seis en el segundo puesto", "text": "Muerde carne blanda, cubre la nariz. Sin tacha."},
+            {"position": "Seis en el tercer puesto", "text": "Muerde carne seca y vieja. Encuentra veneno. Pequeña humillación. Sin tacha."},
+            {"position": "Nueve en el cuarto puesto", "text": "Muerde carne seca con hueso. Recibe flechas de metal. Es ventajoso ser consciente de las dificultades y perseverar. Buena fortuna."},
+            {"position": "Seis en el quinto puesto", "text": "Muerde carne seca. Encuentra oro amarillo. Perseverancia peligrosa. Sin tacha."},
+            {"position": "Nueve arriba", "text": "Lleva un yugo que cubre las orejas. Mala fortuna."}
+        ]
+    },
+    "Bì (賁)": {
+        "guaText": "Bi: Éxito. Pequeña ventaja en tener un lugar a donde ir.",
+        "explanation": "Bi: Éxito. Lo flexible viene y adorna lo firme, por eso éxito. Separados, lo firme asciende y adorna lo flexible, por eso 'Pequeña ventaja en tener un lugar a donde ir'. Es el patrón del cielo. Civilizado y detenido, es el patrón humano. Observar los patrones del cielo para comprender los cambios del tiempo; observar los patrones humanos para transformar y completar el mundo.",
+        "yaoTexts": [
+            {"position": "Nueve al principio", "text": "Adorna sus dedos. Deja el carro y va a pie."},
+            {"position": "Seis en el segundo puesto", "text": "Adorna su barba."},
+            {"position": "Nueve en el tercer puesto", "text": "Adornado y húmedo. Eterna perseverancia trae buena fortuna."},
+            {"position": "Seis en el cuarto puesto", "text": "Adornado pero sencillo. Un caballo blanco viene como volando. No es un ladrón, sino un pretendiente."},
+            {"position": "Seis en el quinto puesto", "text": "Adorno en colinas y jardines. Rollos de seda escasos y pequeños. Humillación, pero al final buena fortuna."},
+            {"position": "Nueve arriba", "text": "Adorno blanco. Sin tacha."}
+        ]
+    },
+    "Bō (剝)": {
+        "guaText": "Bo: No es ventajoso ir a ninguna parte.",
+        "explanation": "Bo significa despojar. Lo flexible transforma lo firme. 'No es ventajoso ir a ninguna parte', la gente pequeña está creciendo. Obedecer y detenerse, contemplar la imagen. El noble valora el menguar y crecer, el vacío y la plenitud; es el curso del Cielo.",
+        "yaoTexts": [
+            {"position": "Seis al principio", "text": "La cama es despojada por las patas. Destruir la perseverancia trae mala fortuna."},
+            {"position": "Seis en el segundo puesto", "text": "La cama es despojada por el borde. Destruir la perseverancia trae mala fortuna."},
+            {"position": "Seis en el tercer puesto", "text": "Despojándolo. Sin tacha."},
+            {"position": "Seis en el cuarto puesto", "text": "La cama es despojada hasta la piel. Mala fortuna."},
+            {"position": "Seis en el quinto puesto", "text": "Una ristra de peces. Favor a través de las damas de palacio. Nada que no sea ventajoso."},
+            {"position": "Nueve arriba", "text": "El fruto grande no se come. El noble obtiene un carro. La gente pequeña despoja su casa."}
+        ]
+    },
+    "Fù (復)": {
+        "guaText": "Fu: Éxito. Salir y entrar sin enfermedad. Vienen amigos sin tacha. Va y viene por su camino. Al séptimo día llega el retorno. Es ventajoso tener un lugar a donde ir.",
+        "explanation": "Fu: Éxito. Lo firme retorna. Movimiento con obediencia, por eso 'Salir y entrar sin enfermedad. Vienen amigos sin tacha'. 'Va y viene por su camino. Al séptimo día llega el retorno', es el curso del Cielo. 'Es ventajoso tener un lugar a donde ir', lo firme está creciendo. Fu, ¿no se ve aquí el corazón del Cielo y la Tierra?",
+        "yaoTexts": [
+            {"position": "Nueve al principio", "text": "Retorno desde corta distancia. No necesita arrepentimiento. Sublime buena fortuna."},
+            {"position": "Seis en el segundo puesto", "text": "Retorno tranquilo. Buena fortuna."},
+            {"position": "Seis en el tercer puesto", "text": "Retorno frecuente. Peligro. Sin tacha."},
+            {"position": "Seis en el cuarto puesto", "text": "Caminando en medio de otros, retorna solo."},
+            {"position": "Seis en el quinto puesto", "text": "Retorno noble. Sin arrepentimiento."},
+            {"position": "Seis arriba", "text": "Retorno errante. Mala fortuna. Hay desastre y calamidad. Si se usa el ejército, al final habrá una gran derrota, resultando en mala fortuna para el gobernante del país. Hasta diez años no se podrá volver a atacar."}
+        ]
+    },
+    "Wú Wàng (無妄)": {
+        "guaText": "Wu Wang: Sublime éxito. Ventajosa es la perseverancia. Si alguien no es correcto, tendrá desgracia. No es ventajoso tener un lugar a donde ir.",
+        "explanation": "Wu Wang: Lo firme viene de fuera y se convierte en señor en el interior. Movimiento y fuerza. Firme en el centro y respondido. Gran éxito a través de la corrección, es el mandato del Cielo. 'Si alguien no es correcto, tendrá desgracia. No es ventajoso tener un lugar a donde ir'. ¿A dónde ir en la acción de Wu Wang (Inesperado)? Si el mandato del Cielo no ayuda, ¿cómo se puede actuar?",
+        "yaoTexts": [
+            {"position": "Nueve al principio", "text": "Acción inesperada. Buena fortuna."},
+            {"position": "Seis en el segundo puesto", "text": "No arar para cosechar, no roturar tierra nueva para el próximo año. Entonces es ventajoso tener un lugar a donde ir."},
+            {"position": "Seis en el tercer puesto", "text": "Desgracia inesperada. Alguien ata un buey. La ganancia del caminante es la pérdida del habitante."},
+            {"position": "Nueve en el cuarto puesto", "text": "Se puede perseverar. Sin tacha."},
+            {"position": "Nueve en el quinto puesto", "text": "Enfermedad inesperada. No uses medicina. Habrá alegría."},
+            {"position": "Nueve arriba", "text": "Acción inesperada. Trae desgracia. Nada es ventajoso."}
+        ]
+    },
+    "Dà Xù (大畜)": {
+        "guaText": "Da Chu: Ventajosa es la perseverancia. No comer en casa trae buena fortuna. Es ventajoso cruzar la gran agua.",
+        "explanation": "Da Chu: Firme, fuerte, sólido, sincero y brillante. Renueva diariamente su virtud. Lo firme asciende y valora al sabio. Capaz de detener lo fuerte, gran corrección. 'No comer en casa trae buena fortuna', nutrir al sabio. 'Es ventajoso cruzar la gran agua', responde al Cielo.",
+        "yaoTexts": [
+            {"position": "Nueve al principio", "text": "Hay peligro. Es ventajoso detenerse."},
+            {"position": "Nueve en el segundo puesto", "text": "El carro se desprende de sus ejes."},
+            {"position": "Nueve en el tercer puesto", "text": "Un buen caballo persigue. Ventajoso ser consciente del peligro y perseverar. Practicar diariamente la conducción de carros y la defensa. Es ventajoso tener un lugar a donde ir."},
+            {"position": "Seis en el cuarto puesto", "text": "El cabestro de un ternero. Sublime buena fortuna."},
+            {"position": "Seis en el quinto puesto", "text": "Los colmillos de un cerdo castrado. Buena fortuna."},
+            {"position": "Nueve arriba", "text": "Alcanzar el camino del Cielo. Éxito."}
+        ]
+    },
+    "Yí (頤)": {
+        "guaText": "Yi: La perseverancia trae buena fortuna. Observa las mandíbulas. Busca tú mismo el sustento adecuado.",
+        "explanation": "Yi: 'La perseverancia trae buena fortuna', nutrir lo correcto trae buena fortuna. 'Observa las mandíbulas', observa lo que nutren. 'Busca tú mismo el sustento adecuado', observa cómo se nutren a sí mismos. El Cielo y la Tierra nutren a todos los seres. Los sabios nutren a los virtuosos y, a través de ellos, a todas las gentes. ¡Grande en verdad es el tiempo y el significado de Yi (Las Comisuras de la Boca / Nutrición)!",
+        "yaoTexts": [
+            {"position": "Nueve al principio", "text": "Dejas tu tortuga mágica y me miras con la boca abierta. Mala fortuna."},
+            {"position": "Seis en el segundo puesto", "text": "Nutrición invertida. Se desvía de la norma. Nutrición desde la colina. Avanzar trae mala fortuna."},
+            {"position": "Seis en el tercer puesto", "text": "Rechazar la nutrición. La perseverancia trae mala fortuna. Durante diez años no actúes. Nada es ventajoso."},
+            {"position": "Seis en el cuarto puesto", "text": "Nutrición invertida. Buena fortuna. Mirada de tigre fija y penetrante. Su deseo es perseguir incesantemente. Sin tacha."},
+            {"position": "Seis en el quinto puesto", "text": "Desviarse de la norma. Permanecer perseverante trae buena fortuna. No se puede cruzar la gran agua."},
+            {"position": "Nueve arriba", "text": "La fuente de la nutrición. Conciencia del peligro trae buena fortuna. Es ventajoso cruzar la gran agua."}
+        ]
+    },
+    "Dà Guò (大過)": {
+        "guaText": "Da Guo: La viga cumbrera se dobla. Es ventajoso tener un lugar a donde ir. Éxito.",
+        "explanation": "Da Guo: Lo grande está en exceso. 'La viga cumbrera se dobla', la base y la punta son débiles. Lo firme está en exceso pero centrado. Gentil y alegre al actuar. 'Es ventajoso tener un lugar a donde ir', entonces éxito. ¡Grande en verdad es el tiempo de Da Guo (La Preponderancia de lo Grande)!",
+        "yaoTexts": [
+            {"position": "Seis al principio", "text": "Usar esteras de hierba blanca. Sin tacha."},
+            {"position": "Nueve en el segundo puesto", "text": "Un álamo seco brota en la base. Un hombre mayor consigue una esposa joven. Nada que no sea ventajoso."},
+            {"position": "Nueve en el tercer puesto", "text": "La viga cumbrera se dobla. Mala fortuna."},
+            {"position": "Nueve en el cuarto puesto", "text": "La viga cumbrera se refuerza. Buena fortuna. Si hay otras intenciones, humillación."},
+            {"position": "Nueve en el quinto puesto", "text": "Un álamo seco florece. Una mujer mayor consigue un marido joven. Ni culpa ni elogio."},
+            {"position": "Seis arriba", "text": "Atravesar el agua le cubre la cabeza. Mala fortuna, pero sin tacha."}
+        ]
+    },
+    "Kǎn (坎)": {
+        "guaText": "Kan: Repetir Kan. Si eres sincero, tienes éxito en tu corazón. La acción trae recompensa.",
+        "explanation": "Repetir Kan es peligro duplicado. El agua fluye sin llenarse. Avanzar en el peligro sin perder la fe. 'Éxito en el corazón' se debe a la firmeza central. 'La acción trae recompensa', ir adelante trae logros. El peligro celestial no se puede escalar. Los peligros terrestres son montañas, ríos, colinas y montículos. Reyes y príncipes establecen defensas peligrosas para proteger sus reinos. ¡Grande en verdad es el uso del tiempo de Kan (Lo Abismal, Agua)!",
+        "yaoTexts": [
+            {"position": "Seis al principio", "text": "Repetir Kan. Entrar en el abismo dentro del abismo. Mala fortuna."},
+            {"position": "Nueve en el segundo puesto", "text": "Kan tiene peligro. Buscar pequeñas ganancias."},
+            {"position": "Seis en el tercer puesto", "text": "Viene y va, Kan, Kan. Peligroso y además apoyado. Entrar en el abismo dentro del abismo. No actuar."},
+            {"position": "Seis en el cuarto puesto", "text": "Una jarra de vino, un cuenco de arroz, vasijas de barro. Ofrecer promesas a través de la ventana. Al final, sin tacha."},
+            {"position": "Nueve en el quinto puesto", "text": "Kan no se desborda. Ya está nivelado. Sin tacha."},
+            {"position": "Seis arriba", "text": "Atado con cuerdas y sogas. Puesto entre espinos y zarzas. Durante tres años no se encuentra. Mala fortuna."}
+        ]
+    },
+    "Lí (離)": {
+        "guaText": "Li: Ventajosa es la perseverancia. Éxito. Criar vacas trae buena fortuna.",
+        "explanation": "Li significa adherirse. El sol y la luna se adhieren al cielo. Los cereales, hierbas y árboles se adhieren a la tierra. Doble claridad adherida a lo correcto transforma y completa el mundo. Lo flexible se adhiere a lo central y correcto, por eso éxito; y por eso 'Criar vacas trae buena fortuna'.",
+        "yaoTexts": [
+            {"position": "Nueve al principio", "text": "Los pasos son confusos. Trátalo con respeto. Sin tacha."},
+            {"position": "Seis en el segundo puesto", "text": "Amarillo Li. Sublime buena fortuna."},
+            {"position": "Nueve en el tercer puesto", "text": "Li del sol poniente. En lugar de golpear la olla y cantar, se lamenta como un anciano. Mala fortuna."},
+            {"position": "Nueve en el cuarto puesto", "text": "Llega abruptamente, arde, muere, es desechado."},
+            {"position": "Seis en el quinto puesto", "text": "Lágrimas a torrentes, suspiros y lamentos. Buena fortuna."},
+            {"position": "Nueve arriba", "text": "El rey sale a la batalla. Tiene mérito cortando cabezas. Captura a los que no son rebeldes. Sin tacha."}
+        ]
+    },
+    "Xián (咸)": {
+        "guaText": "Xian: Éxito. Ventajosa es la perseverancia. Tomar una doncella trae buena fortuna.",
+        "explanation": "Xian significa influencia, sentir. Lo flexible arriba y lo firme abajo. Las dos energías se sienten y responden para unirse. Detenido y alegre. El hombre se coloca debajo de la mujer. Por eso 'Éxito, ventajosa es la perseverancia. Tomar una doncella trae buena fortuna'. El Cielo y la Tierra se sienten, y todos los seres se transforman y nacen. Los sabios influyen en los corazones de los hombres, y el mundo está en paz. Observando lo que sienten, se puede ver la naturaleza del Cielo, la Tierra y todos los seres.",
+        "yaoTexts": [
+            {"position": "Seis al principio", "text": "La influencia se muestra en el dedo gordo del pie."},
+            {"position": "Seis en el segundo puesto", "text": "La influencia se muestra en las pantorrillas. Mala fortuna. Permanecer trae buena fortuna."},
+            {"position": "Nueve en el tercer puesto", "text": "La influencia se muestra en los muslos. Se aferra a lo que sigue. Ir trae humillación."},
+            {"position": "Nueve en el cuarto puesto", "text": "La perseverancia trae buena fortuna, el arrepentimiento desaparece. Agitado yendo y viniendo, los amigos siguen tus pensamientos."},
+            {"position": "Nueve en el quinto puesto", "text": "La influencia se muestra en la nuca. Sin arrepentimiento."},
+            {"position": "Seis arriba", "text": "La influencia se muestra en las mandíbulas, mejillas y lengua."}
+        ]
+    },
+    "Héng (恆)": {
+        "guaText": "Heng: Éxito. Sin tacha. Ventajosa es la perseverancia. Es ventajoso tener un lugar a donde ir.",
+        "explanation": "Heng significa duración. Firme arriba y flexible abajo. Trueno y viento se acompañan. Gentil y en movimiento. Firme y flexible se corresponden todos, Heng. Heng, éxito, sin tacha, ventajosa es la perseverancia, durar en el propio camino. El camino del Cielo y la Tierra es duradero e incesante. 'Es ventajoso tener un lugar a donde ir', el fin es seguido por un comienzo. El sol y la luna obtienen el Cielo y pueden brillar duraderamente. Las cuatro estaciones cambian y transforman, y pueden completarse duraderamente. Los sabios duran en su camino, y el mundo se transforma y completa. Observando lo que dura, se puede ver la naturaleza del Cielo, la Tierra y todos los seres.",
+        "yaoTexts": [
+            {"position": "Seis al principio", "text": "Buscar la duración demasiado profundamente. La perseverancia trae mala fortuna. Nada es ventajoso."},
+            {"position": "Nueve en el segundo puesto", "text": "El arrepentimiento desaparece."},
+            {"position": "Nueve en el tercer puesto", "text": "No dura en su virtud. Puede que sufra vergüenza. La perseverancia trae humillación."},
+            {"position": "Nueve en el cuarto puesto", "text": "No hay caza en el campo."},
+            {"position": "Seis en el quinto puesto", "text": "Durar en la propia virtud. Perseverancia. Para una mujer, buena fortuna. Para un hombre, mala fortuna."},
+            {"position": "Seis arriba", "text": "Duración inquieta. Mala fortuna."}
+        ]
+    },
+    "Dùn (遯)": {
+        "guaText": "Dun: Éxito. En lo pequeño, ventajosa es la perseverancia.",
+        "explanation": "Dun: Éxito. Retirarse y tener éxito. Lo firme está en la posición correcta (quinto lugar) y es respondido, actúa según el tiempo. 'En lo pequeño, ventajosa es la perseverancia', se infiltra y crece (las líneas Yin). ¡Grande en verdad es el tiempo y el significado de Dun (La Retirada)!",
+        "yaoTexts": [
+            {"position": "Seis al principio", "text": "Retirada en la cola. Peligroso. No emprendas nada."},
+            {"position": "Seis en el segundo puesto", "text": "Sujetarlo con cuero de buey amarillo. Nadie puede soltarlo."},
+            {"position": "Nueve en el tercer puesto", "text": "Retirada atada. Hay enfermedad y peligro. Mantener sirvientes y concubinas trae buena fortuna."},
+            {"position": "Nueve en el cuarto puesto", "text": "Retirada voluntaria. Para el noble, buena fortuna. Para la gente pequeña, estancamiento."},
+            {"position": "Nueve en el quinto puesto", "text": "Retirada admirable. La perseverancia trae buena fortuna."},
+            {"position": "Nueve arriba", "text": "Retirada gorda (retirarse lejos y sin preocupaciones). Nada que no sea ventajoso."}
+        ]
+    },
+    "Sǔn (損)": {
+        "guaText": "Sun: Si eres sincero, sublime buena fortuna. Sin tacha. Se puede perseverar. Es ventajoso tener un lugar a donde ir. ¿Cómo usarlo? Dos cuencos pueden usarse para la ofrenda.",
+        "explanation": "Sun: Disminuir lo de abajo para aumentar lo de arriba. Su camino asciende. Sun significa moderación. 'Disminuir y tener sinceridad, sublime buena fortuna, sin tacha, se puede perseverar, es ventajoso tener un lugar a donde ir'. '¿Cómo usarlo? Dos cuencos pueden usarse para la ofrenda'. Dos cuencos deben ser apropiados al tiempo. Disminuir lo firme para aumentar lo flexible tiene su tiempo. Disminución y aumento, plenitud y vacío, van junto con el tiempo.",
+        "yaoTexts": [
+            {"position": "Nueve al principio", "text": "Terminar los asuntos rápidamente e irse. Sin tacha. Considera disminuirlo."},
+            {"position": "Nueve en el segundo puesto", "text": "Ventajosa es la perseverancia. Avanzar trae mala fortuna. Sin disminuirlo, aumentarlo."},
+            {"position": "Seis en el tercer puesto", "text": "Cuando tres personas caminan juntas, pierden a una. Cuando una persona camina sola, encuentra un compañero."},
+            {"position": "Seis en el cuarto puesto", "text": "Disminuir su dolencia. Hace que la alegría llegue rápidamente. Sin tacha."},
+            {"position": "Seis en el quinto puesto", "text": "Alguien lo aumenta. Diez pares de caparazones de tortuga no pueden oponerse. Sublime buena fortuna."},
+            {"position": "Nueve arriba", "text": "Sin disminuirlo, aumentarlo. Sin tacha. La perseverancia trae buena fortuna. Es ventajoso tener un lugar a donde ir. Se obtienen sirvientes, pero no una casa."}
+        ]
+    },
+    "Dà Zhuàng (大壯)": {
+        "guaText": "Da Zhuang: Ventajosa es la perseverancia.",
+        "explanation": "Da Zhuang: Lo grande es fuerte. Firme y en movimiento, por eso fuerte. Da Zhuang, ventajosa es la perseverancia; lo grande es correcto. Correcto y grande, ¡y la naturaleza del Cielo y la Tierra puede verse!",
+        "yaoTexts": [
+            {"position": "Nueve al principio", "text": "Fuerza en los dedos del pie. Avanzar trae mala fortuna. Hay sinceridad."},
+            {"position": "Nueve en el segundo puesto", "text": "La perseverancia trae buena fortuna."},
+            {"position": "Nueve en el tercer puesto", "text": "La gente pequeña usa la fuerza. El noble usa la red (la no acción). Perseverancia peligrosa. Un carnero choca contra un seto y enreda sus cuernos."},
+            {"position": "Nueve en el cuarto puesto", "text": "La perseverancia trae buena fortuna, el arrepentimiento desaparece. El seto se rompe, sin enredos. Fuerza en los ejes de un gran carro."},
+            {"position": "Seis en el quinto puesto", "text": "Pierde la oveja en Yi. Sin arrepentimiento."},
+            {"position": "Seis arriba", "text": "Un carnero choca contra un seto. No puede retroceder, no puede avanzar. Nada es ventajoso. Si se reconocen las dificultades, buena fortuna."}
+        ]
+    },
+    "Yì (益)": {
+        "guaText": "Yi: Es ventajoso tener un lugar a donde ir. Es ventajoso cruzar la gran agua.",
+        "explanation": "Yi: Disminuir lo de arriba para aumentar lo de abajo. El pueblo se alegra sin límites. Descender desde arriba hacia abajo, su camino brilla grandemente. 'Es ventajoso tener un lugar a donde ir', central y correcto trae celebración. 'Es ventajoso cruzar la gran agua', el camino de la madera (barco) procede. Yi es movimiento y gentileza, avance diario sin límites. El Cielo da, la Tierra produce, su aumento no tiene medida. Todo camino de aumento va junto con el tiempo.",
+        "yaoTexts": [
+            {"position": "Nueve al principio", "text": "Es ventajoso usarlo para grandes obras. Sublime buena fortuna. Sin tacha."},
+            {"position": "Seis en el segundo puesto", "text": "Alguien lo aumenta. Diez pares de caparazones de tortuga no pueden oponerse. Eterna perseverancia trae buena fortuna. El rey lo usa para ofrecer sacrificios al Emperador. Buena fortuna."},
+            {"position": "Seis en el tercer puesto", "text": "Aumentado mediante eventos desafortunados. Sin tacha. Si eres sincero y caminas por el medio, informa al príncipe usando una tableta de jade."},
+            {"position": "Seis en el cuarto puesto", "text": "Si caminas por el medio, informa al príncipe y él te seguirá. Es ventajoso usarlo para trasladar la capital."},
+            {"position": "Nueve en el quinto puesto", "text": "Si tienes un corazón sincero y benévolo, no preguntes. Sublime buena fortuna. Tendrás sinceridad para mi virtud."},
+            {"position": "Nueve arriba", "text": "Nadie lo aumenta. Alguien lo golpea. Mantener el corazón inconstante trae mala fortuna."}
+        ]
+    },
+    "Jìn (晉)": {
+        "guaText": "Jin: Al marqués Kang se le otorgan caballos en gran número. En un día, es recibido tres veces.",
+        "explanation": "Jin significa avanzar. La luz emerge sobre la tierra. Obediente y adherido a la gran claridad. Lo flexible avanza y asciende. Por eso 'Al marqués Kang se le otorgan caballos en gran número. En un día, es recibido tres veces'.",
+        "yaoTexts": [
+            {"position": "Seis al principio", "text": "Avanzando, pero rechazado. La perseverancia trae buena fortuna. Si no hay confianza, sé magnánimo. Sin tacha."},
+            {"position": "Seis en el segundo puesto", "text": "Avanzando, pero con tristeza. La perseverancia trae buena fortuna. Recibe esta gran felicidad de su abuela real."},
+            {"position": "Seis en el tercer puesto", "text": "Todos confían. El arrepentimiento desaparece."},
+            {"position": "Nueve en el cuarto puesto", "text": "Avanzando como una marmota. Perseverancia peligrosa."},
+            {"position": "Seis en el quinto puesto", "text": "El arrepentimiento desaparece. No te preocupes por pérdidas o ganancias. Ir trae buena fortuna. Nada que no sea ventajoso."},
+            {"position": "Nueve arriba", "text": "Avanzando con los cuernos. Solo para castigar la propia ciudad. Peligroso, pero buena fortuna. Sin tacha. La perseverancia trae humillación."}
+        ]
+    },
+    "Míng Yí (明夷)": {
+        "guaText": "Ming Yi: Ventajosa es la perseverancia en la adversidad.",
+        "explanation": "Ming Yi: La luz se ha hundido en la tierra. Interior civilizado y exterior dócil y obediente, para soportar grandes dificultades. El rey Wen lo experimentó. 'Ventajosa es la perseverancia en la adversidad', ocultar la propia luz. Dificultad interna pero capaz de mantener la voluntad correcta. El príncipe Ji lo experimentó.",
+        "yaoTexts": [
+            {"position": "Nueve al principio", "text": "Oscurecimiento de la luz en vuelo. Deja caer sus alas. El noble viaja sin comer durante tres días. Tiene un lugar a donde ir. El anfitrión tiene algo que decir."},
+            {"position": "Seis en el segundo puesto", "text": "Oscurecimiento de la luz. Herido en el muslo izquierdo. Usa la fuerza de un caballo de rescate. Buena fortuna."},
+            {"position": "Nueve en el tercer puesto", "text": "Oscurecimiento de la luz en la caza del sur. Consigue la gran cabeza. No se puede ser rápido en la perseverancia."},
+            {"position": "Seis en el cuarto puesto", "text": "Entra en el flanco izquierdo. Captura el corazón del Oscurecimiento de la Luz. Sale por la puerta y el patio."},
+            {"position": "Seis en el quinto puesto", "text": "Oscurecimiento de la Luz del Príncipe Ji. Ventajosa es la perseverancia."},
+            {"position": "Seis arriba", "text": "No luz, sino oscuridad. Primero sube al cielo, luego se hunde en la tierra."}
+        ]
+    },
+    "Jiā Rén (家人)": {
+        "guaText": "Jia Ren: Ventajosa es la perseverancia de la mujer.",
+        "explanation": "Jia Ren: La mujer tiene su lugar correcto en el interior, el hombre tiene su lugar correcto en el exterior. Hombre y mujer correctos es la gran rectitud del Cielo y la Tierra. La familia tiene un señor estricto, se refiere a los padres. Padre como padre, hijo como hijo, hermano mayor como hermano mayor, hermano menor como hermano menor, esposo como esposo, esposa como esposa, y el camino de la familia es correcto. Corrige la familia y el mundo estará estable.",
+        "yaoTexts": [
+            {"position": "Nueve al principio", "text": "Delimitar la casa. El arrepentimiento desaparece."},
+            {"position": "Seis en el segundo puesto", "text": "No tiene nada que perseguir. Está en la alimentación interior. La perseverancia trae buena fortuna."},
+            {"position": "Nueve en el tercer puesto", "text": "La familia es severa. Arrepentimiento peligroso, pero buena fortuna. Esposa e hijos ríen y parlotean. Al final, humillación."},
+            {"position": "Seis en el cuarto puesto", "text": "Enriquecer la casa. Gran buena fortuna."},
+            {"position": "Nueve en el quinto puesto", "text": "El rey se acerca a su familia. No te preocupes. Buena fortuna."},
+            {"position": "Nueve arriba", "text": "Tener sinceridad y ser majestuoso. Al final, buena fortuna."}
+        ]
+    },
+    "Kuí (睽)": {
+        "guaText": "Kui: En asuntos pequeños, buena fortuna.",
+        "explanation": "Kui: El fuego se mueve hacia arriba, el lago se mueve hacia abajo. Dos mujeres viven juntas, pero sus voluntades no van en la misma dirección. Alegre y adherido a la claridad. Lo flexible avanza y asciende, obtiene el centro y responde a lo firme. Por eso 'En asuntos pequeños, buena fortuna'. Cielo y Tierra están en oposición, pero sus acciones son las mismas. Hombre y mujer están en oposición, pero sus voluntades se comunican. Todas las cosas están en oposición, pero sus acciones son similares. ¡Grande en verdad es el uso del tiempo de Kui (La Oposición)!",
+        "yaoTexts": [
+            {"position": "Nueve al principio", "text": "El arrepentimiento desaparece. Pierde el caballo, no lo persigas, volverá por sí mismo. Ve gente malvada. Sin tacha."},
+            {"position": "Nueve en el segundo puesto", "text": "Encuentra a su señor en un callejón. Sin tacha."},
+            {"position": "Seis en el tercer puesto", "text": "Ve el carro arrastrado, sus bueyes detenidos, el hombre con el pelo cortado y la nariz cortada. No hay comienzo, pero hay final."},
+            {"position": "Nueve en el cuarto puesto", "text": "Aislado por la oposición. Encuentra un hombre afín. Intercambian sinceridad. Peligroso, pero sin tacha."},
+            {"position": "Seis en el quinto puesto", "text": "El arrepentimiento desaparece. Su clan muerde la carne. ¿Cómo podría haber culpa al ir?"},
+            {"position": "Nueve arriba", "text": "Aislado por la oposición. Ve un cerdo cargado de barro, un carro lleno de fantasmas. Primero tensa el arco, luego lo destensa. No son ladrones, sino pretendientes. Ir y encontrar lluvia trae buena fortuna."}
+        ]
+    },
+    "Jiǎn (蹇)": {
+        "guaText": "Jian: Ventajoso el suroeste, no ventajoso el noreste. Es ventajoso ver al gran hombre. La perseverancia trae buena fortuna.",
+        "explanation": "Jian significa dificultad, peligro adelante. Ver el peligro y ser capaz de detenerse, ¡eso es sabiduría! 'Jian ventajoso el suroeste', ir obtiene el centro. 'No ventajoso el noreste', su camino está bloqueado. 'Es ventajoso ver al gran hombre', ir trae logros. Estar en la posición correcta, la perseverancia trae buena fortuna, para corregir el país. ¡Grande en verdad es el uso del tiempo de Jian (El Impedimento)!",
+        "yaoTexts": [
+            {"position": "Seis al principio", "text": "Ir hacia el impedimento, venir hacia el elogio."},
+            {"position": "Seis en el segundo puesto", "text": "El ministro del rey está impedido e impedido, no por su propia causa."},
+            {"position": "Nueve en el tercer puesto", "text": "Ir hacia el impedimento, venir de vuelta."},
+            {"position": "Seis en el cuarto puesto", "text": "Ir hacia el impedimento, venir unido."},
+            {"position": "Nueve en el quinto puesto", "text": "Gran impedimento. Vienen amigos."},
+            {"position": "Seis arriba", "text": "Ir hacia el impedimento, venir hacia la grandeza. Buena fortuna. Es ventajoso ver al gran hombre."}
+        ]
+    },
+    "Xiè (解)": {
+        "guaText": "Xie: Ventajoso el suroeste. Si no hay ningún lugar a donde ir, su retorno trae buena fortuna. Si hay un lugar a donde ir, la prontitud trae buena fortuna.",
+        "explanation": "Xie: Peligro abajo. Movimiento y escape del peligro es Xie (La Liberación). 'Xie ventajoso el suroeste', ir obtiene la multitud. 'Su retorno trae buena fortuna', entonces obtiene el centro. 'Si hay un lugar a donde ir, la prontitud trae buena fortuna', ir trae logros. Cielo y Tierra se liberan, y trueno y lluvia actúan. Trueno y lluvia actúan, y todos los frutos, hierbas y árboles se abren. ¡Grande en verdad es el tiempo y el significado de Xie!",
+        "yaoTexts": [
+            {"position": "Seis al principio", "text": "Sin tacha."},
+            {"position": "Nueve en el segundo puesto", "text": "Caza tres zorros en el campo, obtiene flechas amarillas. La perseverancia trae buena fortuna."},
+            {"position": "Seis en el tercer puesto", "text": "Llevar una carga y además montar en carro. Atrae la llegada de bandidos. La perseverancia trae humillación."},
+            {"position": "Nueve en el cuarto puesto", "text": "Libérate de tu dedo gordo. Los amigos llegan, confía en ellos."},
+            {"position": "Seis en el quinto puesto", "text": "El noble solo necesita liberación. Buena fortuna. Tendrá confianza entre la gente pequeña."},
+            {"position": "Seis arriba", "text": "El príncipe dispara a un halcón en una muralla alta. Lo atrapa. Nada que no sea ventajoso."}
+        ]
+    },
+    "Guài (夬)": {
+        "guaText": "Guai: Exponerlo en la corte real. Llamada sincera. Hay peligro. Informar desde la propia ciudad. No es ventajoso recurrir a las armas. Es ventajoso tener un lugar a donde ir.",
+        "explanation": "Guai significa resolución, lo firme resuelve lo flexible. Fuerte y alegre. Resuelto y armonioso. 'Exponerlo en la corte real', lo flexible cabalga sobre cinco líneas firmes. 'Llamada sincera. Hay peligro'. Su virtud es fuerte, firme y civilizada. 'Informar desde la propia ciudad. No es ventajoso recurrir a las armas', lo valorado es lo pacífico. 'Es ventajoso tener un lugar a donde ir', el crecimiento de lo firme llega a su fin.",
+        "yaoTexts": [
+            {"position": "Nueve al principio", "text": "Fuerza en los dedos delanteros del pie. Ir sin ganar es una culpa."},
+            {"position": "Nueve en el segundo puesto", "text": "Llamada alarmada. Puede haber armas por la noche. No te preocupes."},
+            {"position": "Nueve en el tercer puesto", "text": "Fuerza en los pómulos. Trae mala fortuna. El noble es resuelto y decidido. Camina solo y encuentra lluvia. Como mojado, hay resentimiento. Sin tacha."},
+            {"position": "Nueve en el cuarto puesto", "text": "Nalgas sin piel. Su caminar es vacilante. Arrastra una oveja, el arrepentimiento desaparece. Oye palabras, pero no cree."},
+            {"position": "Nueve en el quinto puesto", "text": "Amaranto resuelto y decidido. Caminar por el medio evita la culpa."},
+            {"position": "Seis arriba", "text": "Sin llamada. Al final, mala fortuna."}
+        ]
+    },
+    "Gòu (姤)": {
+        "guaText": "Gou: La mujer es fuerte. No tomes a la mujer.",
+        "explanation": "Gou significa encuentro, lo flexible encuentra lo firme. 'No tomes a la mujer', no se puede convivir con ella por mucho tiempo. Cielo y Tierra se encuentran, y todas las formas de las cosas se manifiestan claramente. Lo firme encuentra lo central y correcto, y el mundo actúa grandemente. ¡Grande en verdad es el tiempo y el significado de Gou (El Encuentro)!",
+        "yaoTexts": [
+            {"position": "Seis al principio", "text": "Atado a una clavija de metal. La perseverancia trae buena fortuna. Si tienes un lugar a donde ir, ves mala fortuna. Cerdo flaco se agita."},
+            {"position": "Nueve en el segundo puesto", "text": "El paquete contiene peces. Sin tacha. No es ventajoso para los huéspedes."},
+            {"position": "Nueve en el tercer puesto", "text": "Nalgas sin piel. Su caminar es vacilante. Peligroso. Sin gran culpa."},
+            {"position": "Nueve en el cuarto puesto", "text": "El paquete no contiene peces. Surge mala fortuna."},
+            {"position": "Nueve en el quinto puesto", "text": "Un melón envuelto en hojas de álamo. Contiene belleza oculta. Cae del cielo."},
+            {"position": "Nueve arriba", "text": "Encuentro con sus cuernos. Humillación. Sin tacha."}
+        ]
+    },
+    "Cuì (萃)": {
+        "guaText": "Cui: Éxito. El rey se acerca a su templo. Es ventajoso ver al gran hombre. Éxito. Ventajosa es la perseverancia. Usar grandes sacrificios trae buena fortuna. Es ventajoso tener un lugar a donde ir.",
+        "explanation": "Cui significa reunir. Obediente y alegre. Firme en el centro y respondido, por eso se reúnen. 'El rey se acerca a su templo', ofrecer piedad filial. 'Es ventajoso ver al gran hombre. Éxito', reunirse con corrección. 'Usar grandes sacrificios trae buena fortuna. Es ventajoso tener un lugar a donde ir', obedecer el mandato del Cielo. Observando lo que se reúne, se puede ver la naturaleza del Cielo, la Tierra y todos los seres.",
+        "yaoTexts": [
+            {"position": "Seis al principio", "text": "Si eres sincero pero no hasta el final, a veces confusión, a veces reunión. Si llamas, un apretón de manos se convierte en risa. No te preocupes. Ir sin tacha."},
+            {"position": "Seis en el segundo puesto", "text": "Ser atraído trae buena fortuna. Sin tacha. Si eres sincero, es ventajoso usar una pequeña ofrenda."},
+            {"position": "Seis en el tercer puesto", "text": "Reunión con suspiros. Nada es ventajoso. Ir sin tacha. Pequeña humillación."},
+            {"position": "Nueve en el cuarto puesto", "text": "Gran buena fortuna. Sin tacha."},
+            {"position": "Nueve en el quinto puesto", "text": "Reunión en posición. Sin tacha. Si no hay sinceridad, sublime y eterna perseverancia, el arrepentimiento desaparece."},
+            {"position": "Seis arriba", "text": "Lamentos y suspiros, lágrimas fluyen. Sin tacha."}
+        ]
+    },
+    "Shēng (升)": {
+        "guaText": "Sheng: Sublime éxito. Usar para ver al gran hombre. No te preocupes. Expedición al sur trae buena fortuna.",
+        "explanation": "Sheng: Flexible con obediencia. Firme en el centro y respondido, por eso gran éxito. 'Usar para ver al gran hombre. No te preocupes', hay celebración. 'Expedición al sur trae buena fortuna', la voluntad se realiza.",
+        "yaoTexts": [
+            {"position": "Seis al principio", "text": "Ascenso que encuentra confianza. Gran buena fortuna."},
+            {"position": "Nueve en el segundo puesto", "text": "Si eres sincero, es ventajoso usar una pequeña ofrenda. Sin tacha."},
+            {"position": "Nueve en el tercer puesto", "text": "Ascenso a una ciudad vacía."},
+            {"position": "Seis en el cuarto puesto", "text": "El rey ofrece sacrificios en el Monte Qi. Buena fortuna. Sin tacha."},
+            {"position": "Seis en el quinto puesto", "text": "La perseverancia trae buena fortuna. Ascenso por escalones."},
+            {"position": "Seis arriba", "text": "Ascenso en la oscuridad. Es ventajoso para la perseverancia incesante."}
+        ]
+    },
+    "Kùn (困)": {
+        "guaText": "Kun: Éxito. Perseverancia. Para el gran hombre, buena fortuna. Sin tacha. Tener algo que decir no es creído.",
+        "explanation": "Kun: Lo firme está cubierto. Peligroso con alegría. Agotado pero sin perder su lugar de éxito, ¿quién sino el noble puede lograrlo? 'Perseverancia. Para el gran hombre, buena fortuna', debido a la firmeza central. 'Tener algo que decir no es creído', valorar la boca lleva al agotamiento.",
+        "yaoTexts": [
+            {"position": "Seis al principio", "text": "Nalgas agotadas bajo un tronco de árbol. Entra en un valle oscuro. Durante tres años no se le ve."},
+            {"position": "Nueve en el segundo puesto", "text": "Agotado por vino y comida. Llega el hombre con faja roja. Es ventajoso ofrecer sacrificios. Avanzar trae mala fortuna. Sin tacha."},
+            {"position": "Seis en el tercer puesto", "text": "Agotado por piedras. Se apoya en espinas y cardos. Entra en su casa, no ve a su esposa. Mala fortuna."},
+            {"position": "Nueve en el cuarto puesto", "text": "Viene lentamente. Agotado en un carro dorado. Humillación, pero tiene un final."},
+            {"position": "Nueve en el quinto puesto", "text": "Nariz y pies cortados. Agotado por el hombre de la faja roja. Lentamente llega la alegría. Es ventajoso hacer ofrendas y sacrificios."},
+            {"position": "Seis arriba", "text": "Agotado por enredaderas. En una posición inestable. Dice 'el movimiento trae arrepentimiento'. Si tiene arrepentimiento, avanzar trae buena fortuna."}
+        ]
+    },
+    "Jǐng (井)": {
+        "guaText": "Jing: Se puede cambiar la ciudad, pero no el pozo. Ni pérdida ni ganancia. Van y vienen, pozo, pozo. Casi llegan, pero la cuerda aún no alcanza el agua del pozo, o se rompe la jarra. Mala fortuna.",
+        "explanation": "Gentil sobre el agua y subiendo agua, Jing (El Pozo). El pozo nutre y no se agota. 'Se puede cambiar la ciudad, pero no el pozo', debido a la firmeza central. 'Casi llegan, pero la cuerda aún no alcanza el agua del pozo', aún no hay logro. 'Se rompe la jarra', por eso mala fortuna.",
+        "yaoTexts": [
+            {"position": "Seis al principio", "text": "El lodo del pozo no se bebe. Un pozo viejo no tiene animales."},
+            {"position": "Nueve en el segundo puesto", "text": "El valle del pozo dispara a los pececillos. La jarra está rota y gotea."},
+            {"position": "Nueve en el tercer puesto", "text": "El pozo está limpio, pero no se bebe. Esto entristece mi corazón. Se puede sacar agua. Si el rey es sabio, ambos reciben sus bendiciones."},
+            {"position": "Seis en el cuarto puesto", "text": "El pozo está revestido. Sin tacha."},
+            {"position": "Nueve en el quinto puesto", "text": "El pozo es claro. Manantial frío para beber."},
+            {"position": "Seis arriba", "text": "Recolección del pozo, no lo cubras. Tener sinceridad trae sublime buena fortuna."}
+        ]
+    },
+    "Gé (革)": {
+        "guaText": "Ge: En el día Ji, eres creído. Sublime éxito. Ventajosa es la perseverancia. El arrepentimiento desaparece.",
+        "explanation": "Ge: Agua y fuego se extinguen mutuamente. Dos mujeres viven juntas, sus voluntades no se entienden, se llama Ge (La Revolución / Desollamiento). 'En el día Ji, eres creído', revolucionar y ser creído. Civilizado con alegría. Gran éxito a través de la corrección. Revolucionar apropiadamente, entonces el arrepentimiento desaparece. Cielo y Tierra se revolucionan y las cuatro estaciones se completan. Tang y Wu revolucionaron, obedeciendo al Cielo y respondiendo al hombre. ¡Grande en verdad es el tiempo de Ge!",
+        "yaoTexts": [
+            {"position": "Nueve al principio", "text": "Envuelto con cuero de buey amarillo."},
+            {"position": "Seis en el segundo puesto", "text": "En el día Ji, entonces revolución. Avanzar trae buena fortuna. Sin tacha."},
+            {"position": "Nueve en el tercer puesto", "text": "Avanzar trae mala fortuna. Perseverancia peligrosa. Cuando la palabra revolución se ha discutido tres veces, hay confianza."},
+            {"position": "Nueve en el cuarto puesto", "text": "El arrepentimiento desaparece. Tener sinceridad cambia el mandato. Buena fortuna."},
+            {"position": "Nueve en el quinto puesto", "text": "El gran hombre cambia como un tigre. Aún sin consultar el oráculo, hay confianza."},
+            {"position": "Seis arriba", "text": "El noble cambia como un leopardo. La gente pequeña cambia de rostro. Avanzar trae mala fortuna. Permanecer perseverante trae buena fortuna."}
+        ]
+    },
+    "Dǐng (鼎)": {
+        "guaText": "Ding: Sublime buena fortuna. Éxito.",
+        "explanation": "Ding: Imagen. Con madera, gentil sobre fuego, cocinar. Los sabios cocinan para ofrecer al Supremo Señor, y cocinan abundantemente para nutrir a los sabios y virtuosos. Gentil, y oídos y ojos son agudos y claros. Lo flexible avanza y asciende. Obtiene el centro y responde a lo firme. Por eso 'Sublime éxito'.",
+        "yaoTexts": [
+            {"position": "Seis al principio", "text": "Caldero con las patas hacia arriba. Ventajoso para sacar lo malo. Consigue una concubina por su hijo. Sin tacha."},
+            {"position": "Nueve en el segundo puesto", "text": "El caldero tiene contenido. Mis enemigos tienen envidia, pero no pueden acercarse a mí. Buena fortuna."},
+            {"position": "Nueve en el tercer puesto", "text": "Las asas del caldero cambian. Su movimiento está impedido. La grasa de faisán no se come. La lluvia disminuye el arrepentimiento. Al final, buena fortuna."},
+            {"position": "Nueve en el cuarto puesto", "text": "Las patas del caldero se rompen. Se derrama la comida del príncipe. Su forma está manchada. Mala fortuna."},
+            {"position": "Seis en el quinto puesto", "text": "Caldero con asas amarillas, anillos dorados. Ventajosa es la perseverancia."},
+            {"position": "Nueve arriba", "text": "Caldero con anillos de jade. Gran buena fortuna. Nada que no sea ventajoso."}
+        ]
+    },
+    "Zhèn (震)": {
+        "guaText": "Zhen: Éxito. Zhen (Trueno / Conmoción) viene ¡jojó! Palabras de risa ¡ja, ja! El trueno alarmante asusta a cien li. No pierde la cuchara ni el cáliz.",
+        "explanation": "Zhen: Éxito. 'Zhen viene ¡jojó!', el miedo trae buena fortuna. 'Palabras de risa ¡ja, ja!', después hay reglas. 'El trueno alarmante asusta a cien li', asusta a lo lejano y atemoriza a lo cercano. Salir puede proteger el templo ancestral y los altares de la tierra y el grano, para ser el señor del sacrificio.",
+        "yaoTexts": [
+            {"position": "Nueve al principio", "text": "Zhen viene ¡jojó! Luego palabras de risa ¡ja, ja! Buena fortuna."},
+            {"position": "Seis en el segundo puesto", "text": "Zhen viene peligroso. Cien mil veces pierdes tus conchas y subes a las nueve colinas. No las persigas, en siete días las conseguirás."},
+            {"position": "Seis en el tercer puesto", "text": "Zhen está inquieto. Si Zhen actúa, sin desgracia."},
+            {"position": "Nueve en el cuarto puesto", "text": "Zhen queda atascado en el barro."},
+            {"position": "Seis en el quinto puesto", "text": "Zhen va y viene peligroso. Cien mil veces sin pérdidas, pero hay cosas que hacer."},
+            {"position": "Seis arriba", "text": "Zhen tiembla. Mirada nerviosa. Avanzar trae mala fortuna. Si Zhen no afecta a su persona, sino a su vecino, sin tacha. Los parientes políticos tienen algo que decir."}
+        ]
+    },
+    "Gèn (艮)": {
+        "guaText": "Gen: Detener la espalda. No se apodera de su cuerpo. Entra en su patio, no ve a su persona. Sin tacha.",
+        "explanation": "Gen significa detenerse. Cuando es tiempo de detenerse, detenerse. Cuando es tiempo de actuar, actuar. Movimiento y quietud no pierden su tiempo, su camino es brillante. 'Detener su detenerse' es detenerse donde corresponde. Arriba y abajo se oponen y no se asocian. Por eso 'No se apodera de su cuerpo. Entra en su patio, no ve a su persona. Sin tacha'.",
+        "yaoTexts": [
+            {"position": "Seis al principio", "text": "Detener sus dedos del pie. Sin tacha. Ventajosa es la eterna perseverancia."},
+            {"position": "Seis en el segundo puesto", "text": "Detener sus pantorrillas. No rescata a su seguidor. Su corazón no está contento."},
+            {"position": "Nueve en el tercer puesto", "text": "Detener sus lomos. Separa su sacro. Peligroso, ahoga el corazón."},
+            {"position": "Seis en el cuarto puesto", "text": "Detener su tronco. Sin tacha."},
+            {"position": "Seis en el quinto puesto", "text": "Detener sus mandíbulas. Las palabras tienen orden. El arrepentimiento desaparece."},
+            {"position": "Nueve arriba", "text": "Detenerse noblemente. Buena fortuna."}
+        ]
+    },
+    "Jiàn (漸)": {
+        "guaText": "Jian: El matrimonio de la doncella trae buena fortuna. Ventajosa es la perseverancia.",
+        "explanation": "El avance de Jian es el matrimonio de la doncella, buena fortuna. Avanzar obtiene la posición correcta, ir trae logros. Avanzar con corrección puede corregir el país. Su posición (Nueve en el quinto) es firme y obtiene el centro. Detenerse y ser gentil, el movimiento no se agota.",
+        "yaoTexts": [
+            {"position": "Seis al principio", "text": "El ganso salvaje avanza gradualmente hacia la orilla. El joven está en peligro. Hay habladurías. Sin tacha."},
+            {"position": "Seis en el segundo puesto", "text": "El ganso salvaje avanza gradualmente hacia la roca. Comida y bebida alegres y contentas. Buena fortuna."},
+            {"position": "Nueve en el tercer puesto", "text": "El ganso salvaje avanza gradualmente hacia la meseta. El esposo va y no regresa. La esposa concibe pero no da a luz. Mala fortuna. Es ventajoso defenderse de los bandidos."},
+            {"position": "Seis en el cuarto puesto", "text": "El ganso salvaje avanza gradualmente hacia el árbol. Quizás encuentre una rama plana. Sin tacha."},
+            {"position": "Nueve en el quinto puesto", "text": "El ganso salvaje avanza gradualmente hacia la cima. La esposa no concibe durante tres años. Al final, nada puede superarlo. Buena fortuna."},
+            {"position": "Nueve arriba", "text": "El ganso salvaje avanza gradualmente hacia las alturas celestiales. Sus plumas pueden usarse para la danza sagrada. Buena fortuna."}
+        ]
+    },
+    "Guī Mèi (歸妹)": {
+        "guaText": "Gui Mei: Avanzar trae mala fortuna. Nada es ventajoso.",
+        "explanation": "Gui Mei (El Matrimonio de la Doncella): la gran rectitud del Cielo y la Tierra. Si Cielo y Tierra no interactúan, todos los seres no prosperan. Gui Mei es el fin y el comienzo del hombre. Alegría con movimiento, la doncella es lo que se da en matrimonio. 'Avanzar trae mala fortuna', las posiciones no son apropiadas. 'Nada es ventajoso', lo flexible cabalga sobre lo firme.",
+        "yaoTexts": [
+            {"position": "Nueve al principio", "text": "La doncella se casa como hermana menor. Un cojo puede caminar. Avanzar trae buena fortuna."},
+            {"position": "Nueve en el segundo puesto", "text": "Un tuerto puede ver. Ventajosa es la perseverancia de una persona solitaria."},
+            {"position": "Seis en el tercer puesto", "text": "La doncella se casa como sierva. Vuelve a casarse como hermana menor."},
+            {"position": "Nueve en el cuarto puesto", "text": "La doncella retrasa el matrimonio. Tarde para casarse, pero hay un tiempo."},
+            {"position": "Seis en el quinto puesto", "text": "El Emperador Yi da a su hija en matrimonio. Las mangas de la princesa no son tan buenas como las de su hermana menor. La luna está casi llena. Buena fortuna."},
+            {"position": "Seis arriba", "text": "La mujer sostiene la canasta sin frutos. El caballero apuñala la oveja sin sangre. Nada es ventajoso."}
+        ]
+    },
+    "Fēng (豐)": {
+        "guaText": "Feng: Éxito. El rey lo alcanza. No te preocupes. Debe ser como el sol al mediodía.",
+        "explanation": "Feng significa grande. Claridad con movimiento, por eso Feng (Abundancia). 'El rey lo alcanza', valorar la grandeza. 'No te preocupes. Debe ser como el sol al mediodía', debe iluminar todo el mundo. El sol al mediodía declina. La luna llena mengua. La plenitud y el vacío del Cielo y la Tierra aumentan y disminuyen con el tiempo, ¡cuánto más en los hombres! ¿Cuánto más en los dioses y espíritus?",
+        "yaoTexts": [
+            {"position": "Nueve al principio", "text": "Encuentra a su señor correspondiente. Aunque sean iguales, sin tacha. Ir trae estima."},
+            {"position": "Seis en el segundo puesto", "text": "Abundancia en la pantalla. Ver la Osa Mayor al mediodía. Ir trae enfermedad y desconfianza. Si tienes sinceridad, se manifiesta. Buena fortuna."},
+            {"position": "Nueve en el tercer puesto", "text": "Abundancia en las cortinas. Ver pequeñas estrellas al mediodía. Se rompe el brazo derecho. Sin tacha."},
+            {"position": "Nueve en el cuarto puesto", "text": "Abundancia en la pantalla. Ver la Osa Mayor al mediodía. Encuentra a su señor igual. Buena fortuna."},
+            {"position": "Seis en el quinto puesto", "text": "Llega la brillantez. Hay celebración y elogio. Buena fortuna."},
+            {"position": "Seis arriba", "text": "Abundancia en su casa. Pantalla en su hogar. Mira por la puerta, está desierta sin nadie. Durante tres años no se le ve. Mala fortuna."}
+        ]
+    },
+    "Lǚ (旅)": {
+        "guaText": "Lü: Pequeño éxito. En el viaje, la perseverancia trae buena fortuna.",
+        "explanation": "Lü: Pequeño éxito. Lo flexible obtiene el centro en el exterior y obedece a lo firme. Detenido y adherido a la claridad. Por eso 'Pequeño éxito. En el viaje, la perseverancia trae buena fortuna'. ¡Grande en verdad es el tiempo y el significado de Lü (El Viajero)!",
+        "yaoTexts": [
+            {"position": "Seis al principio", "text": "El viajero es mezquino y trivial. Así atrae el desastre."},
+            {"position": "Seis en el segundo puesto", "text": "El viajero llega a una posada. Lleva sus bienes consigo. Consigue la perseverancia de un joven sirviente."},
+            {"position": "Nueve en el tercer puesto", "text": "La posada del viajero se quema. Pierde a su joven sirviente. Perseverancia peligrosa."},
+            {"position": "Nueve en el cuarto puesto", "text": "El viajero descansa en un refugio. Consigue sus bienes y un hacha. Mi corazón no está contento."},
+            {"position": "Seis en el quinto puesto", "text": "Dispara a un faisán, pierde una flecha. Al final, obtiene elogio y un cargo."},
+            {"position": "Nueve arriba", "text": "El pájaro quema su nido. El viajero primero ríe, luego llora y gime. Pierde su vaca en Yi. Mala fortuna."}
+        ]
+    },
+    "Xùn (巽)": {
+        "guaText": "Xun: Pequeño éxito. Es ventajoso tener un lugar a donde ir. Es ventajoso ver al gran hombre.",
+        "explanation": "Doble Xun (Lo Suave, Viento / Madera) para reforzar el mandato. Lo firme es suavemente penetrante en lo central y correcto, y la voluntad actúa. Lo flexible obedece en todo a lo firme. Por eso 'Pequeño éxito. Es ventajoso tener un lugar a donde ir. Es ventajoso ver al gran hombre'.",
+        "yaoTexts": [
+            {"position": "Seis al principio", "text": "Avanzar y retroceder. Ventajosa es la perseverancia de un guerrero."},
+            {"position": "Nueve en el segundo puesto", "text": "Suavidad bajo la cama. Usa historiadores y magos en abundancia. Buena fortuna. Sin tacha."},
+            {"position": "Nueve en el tercer puesto", "text": "Suavidad repetida. Humillación."},
+            {"position": "Seis en el cuarto puesto", "text": "El arrepentimiento desaparece. Caza tres tipos de presas."},
+            {"position": "Nueve en el quinto puesto", "text": "La perseverancia trae buena fortuna. El arrepentimiento desaparece. Nada que no sea ventajoso. Sin comienzo, pero con final. Tres días antes de Geng, tres días después de Geng. Buena fortuna."},
+            {"position": "Nueve arriba", "text": "Suavidad bajo la cama. Pierde sus bienes y su hacha. La perseverancia trae mala fortuna."}
+        ]
+    },
+    "Duì (兌)": {
+        "guaText": "Dui: Éxito. Ventajosa es la perseverancia.",
+        "explanation": "Dui significa alegría. Firme en el centro y flexible en el exterior. Alegría con perseverancia ventajosa. Así se obedece al Cielo y se responde al hombre. Alegría para guiar al pueblo, y el pueblo olvida su trabajo. Alegría para afrontar dificultades, y el pueblo olvida su muerte. ¡Grande es la alegría que anima al pueblo!",
+        "yaoTexts": [
+            {"position": "Nueve al principio", "text": "Alegría armoniosa. Buena fortuna."},
+            {"position": "Nueve en el segundo puesto", "text": "Alegría sincera. Buena fortuna. El arrepentimiento desaparece."},
+            {"position": "Seis en el tercer puesto", "text": "Alegría que viene. Mala fortuna."},
+            {"position": "Nueve en el cuarto puesto", "text": "Alegría negociada. Aún no está tranquilo. Contener la enfermedad trae alegría."},
+            {"position": "Nueve en el quinto puesto", "text": "Sinceridad hacia la decadencia. Hay peligro."},
+            {"position": "Seis arriba", "text": "Alegría que atrae."}
+        ]
+    },
+    "Huàn (渙)": {
+        "guaText": "Huan: Éxito. El rey se acerca a su templo. Es ventajoso cruzar la gran agua. Ventajosa es la perseverancia.",
+        "explanation": "Huan: Éxito. Lo firme viene y no se agota. Lo flexible obtiene su lugar en el exterior y se une a lo de arriba. 'El rey se acerca a su templo', el rey está entonces en el centro. 'Es ventajoso cruzar la gran agua', montar en madera trae logros.",
+        "yaoTexts": [
+            {"position": "Seis al principio", "text": "Usar la fuerza de un caballo de rescate. Buena fortuna."},
+            {"position": "Nueve en el segundo puesto", "text": "Dispersión. Corre hacia su soporte. El arrepentimiento desaparece."},
+            {"position": "Seis en el tercer puesto", "text": "Dispersa su cuerpo. Sin arrepentimiento."},
+            {"position": "Seis en el cuarto puesto", "text": "Dispersa su grupo. Sublime buena fortuna. Dispersión conduce a acumulaciones. Algo que la gente común no pensaría."},
+            {"position": "Nueve en el quinto puesto", "text": "Dispersa como sudor sus grandes proclamas. Dispersa la morada del rey. Sin tacha."},
+            {"position": "Nueve arriba", "text": "Dispersa su sangre. Se aleja, se distancia, sale. Sin tacha."}
+        ]
+    },
+    "Jié (節)": {
+        "guaText": "Jie: Éxito. La limitación amarga no puede ser perseverante.",
+        "explanation": "Jie: Éxito. Firme y flexible se dividen, y lo firme obtiene el centro. 'La limitación amarga no puede ser perseverante', su camino está agotado. Alegría al llevar a cabo lo firme, no atacar lo sólido. 'Es ventajoso tener un lugar a donde ir', firme y flexible se corresponden.",
+        "yaoTexts": [
+            {"position": "Nueve al principio", "text": "No salir del patio y la puerta. Sin tacha."},
+            {"position": "Nueve en el segundo puesto", "text": "No salir de la puerta y el patio. Mala fortuna."},
+            {"position": "Seis en el tercer puesto", "text": "Si no hay limitación, entonces habrá lamentos. Sin tacha."},
+            {"position": "Seis en el cuarto puesto", "text": "Limitación contenta. Éxito."},
+            {"position": "Nueve en el quinto puesto", "text": "Limitación dulce. Buena fortuna. Ir trae estima."},
+            {"position": "Seis arriba", "text": "Limitación amarga. La perseverancia trae mala fortuna. El arrepentimiento desaparece."}
+        ]
+    },
+    "Zhōng Fú (中孚)": {
+        "guaText": "Zhong Fu: Cerdos y peces. Buena fortuna. Es ventajoso cruzar la gran agua. Ventajosa es la perseverancia.",
+        "explanation": "Zhong Fu: Lo flexible está en el interior y lo firme obtiene el centro. Alegría y gentileza. Sinceridad, entonces transforma el país. 'Cerdos y peces. Buena fortuna', la fe alcanza incluso a cerdos y peces. 'Es ventajoso cruzar la gran agua', montar en un barco de madera vacío. Zhong Fu (Verdad Interior) con perseverancia ventajosa, entonces responde al Cielo.",
+        "yaoTexts": [
+            {"position": "Nueve al principio", "text": "Prepararse trae buena fortuna. Si hay otras intenciones, inquietud."},
+            {"position": "Nueve en el segundo puesto", "text": "Grulla llamando en la sombra. Su cría le responde. Tengo una buena copa. La compartiré contigo."},
+            {"position": "Seis en el tercer puesto", "text": "Encuentra un adversario. A veces tamborilea, a veces se detiene, a veces llora, a veces canta."},
+            {"position": "Seis en el cuarto puesto", "text": "La luna está casi llena. El caballo del equipo se pierde. Sin tacha."},
+            {"position": "Nueve en el quinto puesto", "text": "Tener sinceridad que une. Sin tacha."},
+            {"position": "Nueve arriba", "text": "El canto del gallo asciende al cielo. La perseverancia trae mala fortuna."}
+        ]
+    },
+    "Xiǎo Guò (小過)": {
+        "guaText": "Xiao Guo: Éxito. Ventajosa es la perseverancia. Se pueden hacer cosas pequeñas, no se pueden hacer cosas grandes. El pájaro volador deja su sonido. No es apropiado subir, es apropiado bajar. Gran buena fortuna.",
+        "explanation": "Xiao Guo: Lo pequeño está en exceso y tiene éxito. Exceso con perseverancia ventajosa, actúa según el tiempo. Lo flexible obtiene el centro, por eso 'en cosas pequeñas, buena fortuna'. Lo firme pierde su lugar y no está centrado, por eso 'no se pueden hacer cosas grandes'. Tiene la imagen de un pájaro volador. 'El pájaro volador deja su sonido. No es apropiado subir, es apropiado bajar. Gran buena fortuna'; subir es ir contra la corriente, bajar es obedecer.",
+        "yaoTexts": [
+            {"position": "Seis al principio", "text": "Pájaro volador trae mala fortuna."},
+            {"position": "Seis en el segundo puesto", "text": "Pasa por alto a su abuelo, se encuentra con su abuela. No alcanza a su señor, se encuentra con su ministro. Sin tacha."},
+            {"position": "Nueve en el tercer puesto", "text": "Si no se excede en la precaución, alguien puede atacarlo desde atrás. Mala fortuna."},
+            {"position": "Nueve en el cuarto puesto", "text": "Sin tacha. No excederse al encontrarlo. Ir trae peligro, hay que tener cuidado. No uses la eterna perseverancia."},
+            {"position": "Seis en el quinto puesto", "text": "Nubes densas, sin lluvia desde nuestro suburbio occidental. El príncipe dispara y toma al que está en la cueva."},
+            {"position": "Seis arriba", "text": "Sin encontrarlo, lo pasa por alto. Pájaro volador se aleja de él. Mala fortuna. Esto se llama desastre y calamidad."}
+        ]
+    },
+    "Jì Jì (既濟)": {
+        "guaText": "Ji Ji: Éxito. Pequeña ventaja en la perseverancia. Al principio buena fortuna, al final desorden.",
+        "explanation": "Ji Ji: Éxito. Lo pequeño tiene éxito. 'Ventajosa es la perseverancia', firme y flexible son correctos y las posiciones son apropiadas. 'Al principio buena fortuna', lo flexible obtiene el centro. 'Detenerse al final trae desorden', su camino está agotado.",
+        "yaoTexts": [
+            {"position": "Nueve al principio", "text": "Arrastra sus ruedas. Moja su cola. Sin tacha."},
+            {"position": "Seis en el segundo puesto", "text": "La mujer pierde la cortina de su carroza. No la persigas, en siete días la recuperará."},
+            {"position": "Nueve en el tercer puesto", "text": "El Gran Ancestro atacó la Tierra del Diablo. Después de tres años la conquistó. No emplees gente pequeña."},
+            {"position": "Seis en el cuarto puesto", "text": "El barco tiene fugas. Usa harapos para taparlas. Permanece alerta todo el día."},
+            {"position": "Nueve en el quinto puesto", "text": "El vecino del este que mata un buey no es tan bueno como el vecino del oeste con su pequeña ofrenda para recibir verdadera bendición."},
+            {"position": "Seis arriba", "text": "Moja su cabeza. Peligroso."}
+        ]
+    },
+    "Wèi Jì (未濟)": {
+        "guaText": "Wei Ji: Éxito. El pequeño zorro, casi al terminar de cruzar, moja su cola. Nada es ventajoso.",
+        "explanation": "Wei Ji: Éxito. Lo flexible obtiene el centro. 'El pequeño zorro, casi al terminar de cruzar', aún no ha salido del medio. 'Moja su cola. Nada es ventajoso', no continúa hasta el final. Aunque las posiciones no son apropiadas, firme y flexible se corresponden.",
+        "yaoTexts": [
+            {"position": "Seis al principio", "text": "Moja su cola. Humillación."},
+            {"position": "Nueve en el segundo puesto", "text": "Arrastra sus ruedas. La perseverancia trae buena fortuna."},
+            {"position": "Seis en el tercer puesto", "text": "Aún no completado. Avanzar trae mala fortuna. Es ventajoso cruzar la gran agua."},
+            {"position": "Nueve en el cuarto puesto", "text": "La perseverancia trae buena fortuna. El arrepentimiento desaparece. Zhen usó la fuerza para atacar la Tierra del Diablo. En tres años fue recompensado con grandes reinos."},
+            {"position": "Seis en el quinto puesto", "text": "La perseverancia trae buena fortuna. Sin arrepentimiento. La luz del noble es verdadera. Buena fortuna."},
+            {"position": "Nueve arriba", "text": "Bebe vino con sinceridad. Sin tacha. Moja su cabeza. Sinceridad, pero pierde la verdad."}
+        ]
+    }
+}

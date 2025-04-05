@@ -1,0 +1,338 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>六十四卦象表</title>
+    <link rel="stylesheet" href="style.css">
+    <!-- 添加语言加载模块 -->
+    <script src="data/langLoader.js"></script>
+    <!-- 添加六十四卦表功能代码 -->
+    <script src="js/hexagramsTable.js"></script>
+    <style>
+        .hexagram-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+            background-color: rgba(255, 253, 245, 0.8);
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        
+        .hexagram-table th, .hexagram-table td {
+            border: 1px solid #ddd;
+            padding: 15px;
+            text-align: center;
+            vertical-align: middle;
+        }
+        
+        .hexagram-table th {
+            background-color: #8B4513;
+            color: white;
+            font-weight: bold;
+        }
+        
+        .hexagram-cell {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100%;
+        }
+        
+        .hexagram-figure {
+            display: flex;
+            flex-direction: column;
+            gap: 4px;
+            margin-bottom: 8px;
+        }
+        
+        .yang, .yin {
+            height: 10px;
+            width: 30px;
+            margin: 2px 0;
+        }
+        
+        .yang {
+            background-color: #333;
+        }
+        
+        .yin {
+            display: flex;
+            justify-content: space-between;
+        }
+        
+        .yin span {
+            background-color: #333;
+            height: 100%;
+            width: 45%;
+        }
+        
+        .hexagram-name {
+            font-weight: bold;
+            margin-top: 5px;
+            color: #A52A2A;
+            text-align: center;
+            line-height: 1.4;
+        }
+        
+        .hexagram-name br {
+            display: block;
+            content: "";
+            margin-top: 2px;
+        }
+        
+        .table-instructions {
+            margin: 20px 0;
+            padding: 15px;
+            background-color: rgba(255, 253, 245, 0.8);
+            border-radius: 5px;
+            border: 1px solid #e0e0e0;
+        }
+        
+        .table-instructions p {
+            margin-bottom: 10px;
+        }
+        
+        @media (max-width: 768px) {
+            .hexagram-table th, .hexagram-table td {
+                padding: 8px;
+                font-size: 0.9rem;
+            }
+            
+            .yang, .yin {
+                height: 6px;
+                width: 20px;
+            }
+        }
+        
+        /* 弹窗样式 */
+        .modal-overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.7);
+            z-index: 1000;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            visibility: hidden;
+            opacity: 0;
+            transition: visibility 0.3s, opacity 0.3s;
+        }
+        
+        .modal-overlay.show {
+            visibility: visible;
+            opacity: 1;
+        }
+        
+        .modal-container {
+            background-color: rgba(255, 253, 245, 0.95);
+            border-radius: 8px;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
+            width: 80%;
+            max-width: 700px;
+            max-height: 90vh;
+            overflow-y: auto;
+            padding: 20px;
+            position: relative;
+            transform: translateY(-30px);
+            transition: transform 0.3s ease-out;
+        }
+        
+        .modal-overlay.show .modal-container {
+            transform: translateY(0);
+        }
+        
+        .modal-close {
+            position: absolute;
+            top: 15px;
+            right: 15px;
+            font-size: 24px;
+            cursor: pointer;
+            color: #8B4513;
+            transition: color 0.2s;
+            width: 30px;
+            height: 30px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border-radius: 50%;
+        }
+        
+        .modal-close:hover {
+            color: #A52A2A;
+            background-color: rgba(165, 42, 42, 0.1);
+        }
+        
+        .modal-title {
+            color: #8B4513;
+            border-bottom: 2px solid #8B4513;
+            padding-bottom: 10px;
+            margin-bottom: 15px;
+        }
+        
+        .modal-content {
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+        }
+        
+        .hexagram-info {
+            display: flex;
+            gap: 20px;
+            align-items: center;
+        }
+        
+        .hexagram-modal-figure {
+            display: flex;
+            flex-direction: column;
+            gap: 4px;
+        }
+        
+        .hexagram-modal-figure .yang,
+        .hexagram-modal-figure .yin {
+            height: 12px;
+            width: 40px;
+        }
+        
+        .gua-description {
+            flex: 1;
+        }
+        
+        .gua-name {
+            font-size: 1.5rem;
+            font-weight: bold;
+            color: #A52A2A;
+            margin-bottom: 5px;
+        }
+        
+        .gua-nature {
+            font-size: 1.1rem;
+            color: #666;
+            margin-bottom: 10px;
+        }
+        
+        .gua-text {
+            background-color: rgba(255, 255, 255, 0.7);
+            padding: 10px;
+            border-radius: 5px;
+            border-left: 3px solid #8B4513;
+        }
+        
+        .yao-section {
+            padding-top: 10px;
+            border-top: 1px solid #e0e0e0;
+        }
+        
+        .yao-title {
+            color: #8B4513;
+            margin-bottom: 15px;
+        }
+        
+        .yao-list {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+        }
+        
+        .yao-item {
+            display: flex;
+            background-color: rgba(255, 255, 255, 0.7);
+            border-radius: 5px;
+            overflow: hidden;
+        }
+        
+        .yao-position {
+            background-color: #8B4513;
+            color: white;
+            padding: 10px;
+            min-width: 60px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: bold;
+        }
+        
+        .yao-text {
+            padding: 10px;
+            flex: 1;
+        }
+        
+        @media (max-width: 768px) {
+            .hexagram-info {
+                flex-direction: column;
+                align-items: center;
+            }
+            
+            .gua-description {
+                text-align: center;
+            }
+            
+            .yao-item {
+                flex-direction: column;
+            }
+            
+            .yao-position {
+                width: 100%;
+                padding: 5px;
+            }
+        }
+        
+        /* 语言选择器样式 */
+        .language-selector {
+            display: flex;
+            justify-content: flex-end;
+            margin-bottom: 15px;
+            gap: 15px;
+        }
+        
+        /* 隐藏非当前语言的内容 */
+        [lang]:not([lang=zh-CN]) {
+            display: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <nav class="navigation">
+            <a href="index.html" class="nav-button">返回排卦系统</a>
+            <div class="language-switcher">
+                
+                <button class="language-btn" data-lang="zh-CN">简体中文</button>
+                <button class="language-btn" data-lang="zh-TW">繁體中文</button>
+                <button class="language-btn" data-lang="en">English</button>
+                <button class="language-btn" data-lang="ja">日本語</button>
+                <button class="language-btn" data-lang="ko">한국어</button>
+                <button class="language-btn" data-lang="es">Español</button>
+            </div>
+        </nav>
+        
+        <header>
+            <h1>六十四卦象表</h1>
+        </header>
+        
+        <div class="table-instructions" id="table-instructions">
+            <!-- 表格说明文本将由JavaScript动态生成 -->
+        </div>
+        
+        <table class="hexagram-table">
+            <tbody id="hexagram-table-body">
+                <!-- 表格内容将由JavaScript动态生成 -->
+            </tbody>
+        </table>
+    </div>
+    
+    <!-- 卦象详情弹窗 -->
+    <div class="modal-overlay" id="hexagram-modal">
+        <div class="modal-container">
+            <div class="modal-close" id="modal-close">&times;</div>
+            <h2 class="modal-title" id="modal-title">卦象详情</h2>
+            <div class="modal-content" id="modal-content">
+                <!-- 卦象详细内容将由JavaScript动态生成 -->
+            </div>
+        </div>
+    </div>
+</body>
+</html> 
