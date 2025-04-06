@@ -1,5 +1,6 @@
 {
     "title": "蓍草による易占いシステム",
+    "description": "伝統的な易経占術で、物事の発展傾向と規則性を探る",
     "navigation": {
         "viewHexagrams": "六十四卦表を見る"
     },
